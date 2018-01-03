@@ -1,0 +1,511 @@
+Topic: sentiment classification
+Generate: sentiment classification in persian: introducing a mutual environment
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate: a comparative analysis of opinion mining and feature selection techniques in sentiment classification
+Year: 2012    Authority: 3
+
+Topic: machine translation
+Generate: machine translation instant query memory
+Year: 2015    Authority: 4
+
+Topic: sentiment classification
+Generate: cross-domain sentiment classification via spectral supervised and feature vectors, and large feature vectors, in a deep networks
+Year: 2009    Authority: 51
+
+Topic: sentiment classification
+Generate: sentiment classification using subjective phrase multiple
+Year: 2014    Authority: 2
+
+Topic: sentiment classification
+Generate: a method of chinese microblog sets sentiment lexicons for sentiment classification on tweets
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate: a comparative study on sentiment classification: an approach to improve sentiment uncertainty
+Year: 2015    Authority: 0
+
+Topic: machine translation
+Generate: machine translation: a toolkit algorithm with recurrent decoder
+Year: 2014    Authority: 2
+
+Topic: machine translation
+Generate: machine translation: an investigation method for foreign language exploitation
+Year: 2003    Authority: 5
+
+Topic: sentiment classification
+Generate: active learning and self-training to improve word-of-mouth sentence for twitter sentiment classification
+Year: 2013    Authority: 7
+
+Topic: sentiment classification
+Generate: a multi-label ensemble method based on sentiment classification: an experiment of topical terms
+Year: 2013    Authority: 6
+
+Topic: sentiment classification
+Generate: a method of chinese microblog users to sentiment classification on tweets
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate: cross-domain sentiment classification via spectral feature vectors,
+Year: 2010    Authority: 31
+
+Topic: machine translation
+Generate: machine translation: mining text with multimedia pivot
+Year: 2015    Authority: 2
+
+Topic: sentiment classification
+Generate: sentiment classification: a natural approach augmented by web data
+Year: 2012    Authority: 1
+
+Topic: sentiment classification
+Generate: sentiment classification using rough set based fuzzy sentiment uncertainty
+Year: 2012    Authority: 1
+
+Topic: sentiment classification
+Generate: a feature weighting method in twitter data for arabic sentence sentiment classification
+Year: 2013    Authority: 6
+
+Topic: sentiment classification
+Generate: sentiment classification: using domain sentiment classification in networks
+Year: 2002    Authority: 363
+
+Topic: sentiment classification
+Generate: sentiment classification using subjective distant distant sentiment uncertainty
+Year: 2016    Authority: 3
+
+Topic: sentiment classification
+Generate: twitter twitter sentiment classification: a large large learning approach
+Year: 2011    Authority: 84
+
+Topic: machine translation
+Generate: improving statistical alignment for statistical machine translation
+Year: 2004    Authority: 27
+
+Topic: machine translation
+Generate: batch tuning strategies for machine translation.
+Year: 2012    Authority: 37
+
+Topic: machine translation
+Generate: a large-scale knowledge base to alignment subsequence for statistical machine translation
+Year: 1990    Authority: 72
+
+Topic: sentiment classification
+Generate: a comparative analysis based approach to sentiment classification
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate: sentiment classification of online reviews: using sentence-based network
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate: a comparative study of feature selection techniques in document-level sentence sentiment classification.
+Year: 2014    Authority: 2
+
+Topic: sentiment classification
+Generate: a feature weighting model to multiple sentiment dictionary
+Year: 2010    Authority: 5
+
+Topic: machine translation
+Generate: machine translation: mining natural information retrieval
+Year: 2010    Authority: 7
+
+Topic: machine translation
+Generate: the use of example-based language tags for machine translation
+Year: 1986    Authority: 3
+
+Topic: machine translation
+Generate: automatic evaluation of the 2009 workshop using statistical alignment
+Year: 2002    Authority: 136
+
+Topic: sentiment classification
+Generate: sentiment classification: the role on sentiment classification
+Year: 2010    Authority: 83
+
+Topic: machine translation
+Generate: machine translation: mining text for wmt 16
+Year: 2015    Authority: 4
+
+Topic: machine translation
+Generate: large language models to alignment models for optimizer instability
+Year: 2009    Authority: 34
+
+Topic: machine translation
+Generate: moses: open bleu: a method for automatic evaluation method for automatic evaluation of automatic using automatic using machine translation: learning to
+Year: 2002    Authority: 340
+
+Topic: sentiment classification
+Generate: a comparative study of sentiment classification: a natural approach
+Year: 2013    Authority: 1
+
+Topic: sentiment classification
+Generate: sentiment classification: the role on word embedding
+Year: 2016    Authority: 33
+
+Topic: sentiment classification
+Generate: a feature selection method based approach to address a sentiment classification
+Year: 2013    Authority: 4
+
+Topic: sentiment classification
+Generate: a lexicon-enhanced approach to sentiment classification for online reviews to automatic evaluation
+Year: 2006    Authority: 30
+
+Topic: machine translation
+Generate: machine translation: mining text for wmt 16
+Year: 2011    Authority: 7
+
+Topic: sentiment classification
+Generate: sentiment classification: an approach for indian the perspective on language processing
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate: a comparative study on feature subsumption and sentiment classification: a lexical based on feature fusion
+Year: 2011    Authority: 3
+
+Topic: sentiment classification
+Generate: sentiment vector space model based semantic smoothing model to improve word-of-mouth sentiment classification.
+Year: 2010    Authority: 2
+
+Topic: sentiment classification
+Generate: sentiment vector machine algorithm for improved sentiment uncertainty
+Year: 2009    Authority: 5
+
+Topic: sentiment classification
+Generate: target-dependent twitter domain adaptation words in sentiment classification: an empirical comparison
+Year: 2014    Authority: 58
+
+Topic: sentiment classification
+Generate: a comparative performance evaluation of convolutional network for cross-lingual and cross-domain text sentence sentiment analysis based on multi features fusion
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate: sentiment classification: a survey based on emotional logic networks
+Year: 2016    Authority: 1
+
+Topic: machine translation
+Generate: an evaluation of features and tuning strategies for phrase-based statistical language processing and language phenomena
+Year: 2016    Authority: 5
+
+Topic: sentiment classification
+Generate: twitter twitter domain domain to reduce to twitter sentiment classification
+Year: 2011    Authority: 79
+
+Topic: sentiment classification
+Generate: a method for chinese text sentiment classification based on part-of-speech latent
+Year: 2012    Authority: 1
+
+Topic: machine translation
+Generate: moses: training bleu: neural machine translation: bleu:
+Year: 2007    Authority: 354
+
+Topic: sentiment classification
+Generate: sentiment classification using principal of factors that embeddings and blogs
+Year: 2015    Authority: 0
+
+Topic: machine translation
+Generate: a comparative study of feature selection and machine translation models
+Year: 2008    Authority: 6
+
+Topic: sentiment classification
+Generate: a new term method based approach to cross domain dependent sentiment classification.
+Year: 2012    Authority: 1
+
+Topic: sentiment classification
+Generate: sentiment classification: a supervised model for the tourism business of ensemble learning
+Year: 2015    Authority: 0
+
+Topic: machine translation
+Generate: e-services translation utilizing machine translation. using structural translation
+Year: 2011    Authority: 7
+
+Topic: sentiment classification
+Generate: a comparative analysis based approach for sentiment classification: an approach
+Year: 2016    Authority: 4
+
+Topic: sentiment classification
+Generate: a method for chinese sentiment classification using neural machine learning
+Year: 2016    Authority: 1
+
+Topic: machine translation
+Generate: neural machine translation with recurrent attention attention
+Year: 2017    Authority: 9
+
+Topic: sentiment classification
+Generate: a comparative study of sentiment classification on text
+Year: 2011    Authority: 3
+
+Topic: machine translation
+Generate: automatic of machine translation: learning a lexicon approaches
+Year: 2002    Authority: 130
+
+Topic: machine translation
+Generate: an empirical comparison of simple domain growing for neural machine translation.
+Year: 2016    Authority: 4
+
+Topic: sentiment classification
+Generate: a feature weighting method for cross-domain sentiment classification.
+Year: 2014    Authority: 2
+
+Topic: machine translation
+Generate: the lrc machine translation method, and proposed report
+Year: 1990    Authority: 3
+
+Topic: sentiment classification
+Generate: sentiment classification: the role on feature alignment
+Year: 2013    Authority: 29
+
+Topic: machine translation
+Generate: machine translation: a toolkit for new
+Year: 2015    Authority: 4
+
+Topic: machine translation
+Generate: the edinburgh/jhu directions language model based and phrase machine translation: computational models for automatic post-editing
+Year: 2014    Authority: 2
+
+Topic: sentiment classification
+Generate: a feature selection method based on sentiment classification
+Year: 2011    Authority: 6
+
+Topic: sentiment classification
+Generate: sentiment classification: an approach to online consumer data
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate: sentiment classification: an approach for sighan-8 and bayesian language
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate: sentiment classification using a sentiment morphemes
+Year: 2011    Authority: 31
+
+Topic: machine translation
+Generate: the new string-to-dependency phrase-based statistical language modelling in machine translation.
+Year: 2014    Authority: 3
+
+Topic: sentiment classification
+Generate: sentiment classification analysis of different data selection and vice neural network
+Year: 2017    Authority: 2
+
+Topic: sentiment classification
+Generate: a feature selection method based approach to sentence-level sentiment word
+Year: 2015    Authority: 3
+
+Topic: sentiment classification
+Generate: a new method method to sentiment classification with lexical knowledge reviews
+Year: 2005    Authority: 2
+
+Topic: sentiment classification
+Generate: sentiment classification: the role on feature sets and features for target-dependent neural networks and networks
+Year: 2016    Authority: 42
+
+Topic: sentiment classification
+Generate: sentiment classification of online product feedback
+Year: 2009    Authority: 42
+
+Topic: sentiment classification
+Generate: sentiment classification: the use on sentence sentiment classification
+Year: 2010    Authority: 5
+
+Topic: sentiment classification
+Generate: cross-domain adaptation for supervised sentiment classification: a graph-based approach
+Year: 2010    Authority: 46
+
+Topic: sentiment classification
+Generate: a method of chinese microblog users based day-dependence sentiment classification: a natural language model
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate: sentiment vector machine translation
+Year: 2005    Authority: 35
+
+Topic: sentiment classification
+Generate: sentiment classification of online political discussions: a survey
+Year: 2015    Authority: 3
+
+Topic: machine translation
+Generate: maximum entropy based phrase alignment for machine translation evaluation
+Year: 2007    Authority: 31
+
+Topic: machine translation
+Generate: neural machine translation with supervised attention
+Year: 2016    Authority: 5
+
+Topic: sentiment classification
+Generate: sentiment classification of online political discussions
+Year: 2012    Authority: 1
+
+Topic: machine translation
+Generate: the new of monolingual and bilingual neural network model for domain statistical language modelling with fast-forward corpora in
+Year: 2014    Authority: 3
+
+Topic: sentiment classification
+Generate: a comparative study of sentiment classification techniques
+Year: 2012    Authority: 1
+
+Topic: sentiment classification
+Generate: a method for chinese text sentiment classification based phrase sensors
+Year: 2015    Authority: 3
+
+Topic: sentiment classification
+Generate: sentiment classification of chinese reviews based on supervised latent n-gram analysis
+Year: 2011    Authority: 3
+
+Topic: sentiment classification
+Generate: twitter sentiment classification of data learning techniques
+Year: 2009    Authority: 145
+
+Topic: sentiment classification
+Generate: a lexicon-enhanced method for sentiment classification of online product reviews
+Year: 2009    Authority: 22
+
+Topic: machine translation
+Generate: bleu: a method for statistical machine translation.
+Year: 2002    Authority: 423
+
+Topic: machine translation
+Generate: large language models and crowd-sourcing for machine translation.
+Year: 2008    Authority: 31
+
+Topic: sentiment classification
+Generate: a comparative analysis based approach to cross improve semi-supervised sentiment classification.
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate: a comparative performance method based on sentiment classification: in the blogosphere
+Year: 2013    Authority: 7
+
+Topic: machine translation
+Generate: a smorgasbord approach for machine translation evaluation
+Year: 2005    Authority: 28
+
+Topic: sentiment classification
+Generate: sentiment classification of online political discussions: a comparison on feature subspaces
+Year: 2016    Authority: 1
+
+Topic: machine translation
+Generate: europarl: automatic of machine translation and phrase representations a
+Year: 2005    Authority: 169
+
+Topic: sentiment classification
+Generate: sentiment vector space for crfs-based sentence sentiment classification.
+Year: 2009    Authority: 5
+
+Topic: sentiment classification
+Generate: sentiment classification: a review of topical terms
+Year: 2011    Authority: 3
+
+Topic: machine translation
+Generate: machine translation system combination with contrastive decoder
+Year: 2014    Authority: 2
+
+Topic: sentiment classification
+Generate: a survey of sentiment classification and polarity shifting
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate: sentiment classification of online political discussions
+Year: 2015    Authority: 0
+
+Topic: machine translation
+Generate: object approaches to automatic using rnn encoder-decoder
+Year: 2005    Authority: 163
+
+Topic: sentiment classification
+Generate: sentiment classification: a lexical similarity framework based on string kernel
+Year: 2011    Authority: 3
+
+Topic: sentiment classification
+Generate: sentiment classification using rough of opinion mining text
+Year: 2013    Authority: 1
+
+Topic: sentiment classification
+Generate: sentiment classification of movie and movie reviews: a comparison of a method method
+Year: 2008    Authority: 2
+
+Topic: sentiment classification
+Generate: sentiment classification using sentence-level lexical of opinion mining and feature weighting
+Year: 2011    Authority: 5
+
+Topic: machine translation
+Generate: incremental translation for multilingual sentence-level statistical machine translation using linguistic features
+Year: 2009    Authority: 7
+
+Topic: sentiment classification
+Generate: sentiment classification for movie reviews in online product product reviews: a comparison of the movie reviews using multiple perspectives
+Year: 2007    Authority: 4
+
+Topic: sentiment classification
+Generate: sentiment classification of chinese traveler reviews: a comparison of factors forum
+Year: 2010    Authority: 2
+
+Topic: sentiment classification
+Generate: cross-domain sentiment classification via using contextual learning approaches
+Year: 2015    Authority: 36
+
+Topic: sentiment classification
+Generate: biographies, bollywood, boomboxes and ann using sentiwordnet
+Year: 2007    Authority: 129
+
+Topic: sentiment classification
+Generate: a comparative analysis performance of opinion mining and sentiment classification based on latent dirichlet allocation
+Year: 2015    Authority: 0
+
+Topic: machine translation
+Generate: improving machine translation performance using longest hypothesis alignment
+Year: 2005    Authority: 30
+
+Topic: sentiment classification
+Generate: a comparative study of feature selection and machine learning algorithms methods and methods based on emotion and semantic comprehension
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate: a feature selection method for sentiment classification: a survey
+Year: 2009    Authority: 2
+
+Topic: machine translation
+Generate: a comparative approach and robust approach for statistical machine translation
+Year: 2002    Authority: 88
+
+Topic: sentiment classification
+Generate: cross-domain adaptation for sentiment classification
+Year: 2013    Authority: 35
+
+Topic: sentiment classification
+Generate: sentiment classification using sentence-level semantic orientation using relative term frequency
+Year: 2012    Authority: 5
+
+Topic: sentiment classification
+Generate: sentiment classification: an model of factors and multinomial
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate: sentiment classification: an of unbalanced data adjustment
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate: sentiment classification: an experiment of different approaches
+Year: 2014    Authority: 16
+
+Topic: sentiment classification
+Generate: a method for user text sentiment classification based approach
+Year: 2015    Authority: 0
+
+Topic: machine translation
+Generate: object approaches to statistical alignment
+Year: 2003    Authority: 171
+
+Topic: sentiment classification
+Generate: cross-domain sentiment classification via spectral supervised features for sentiment classification.
+Year: 2009    Authority: 36
+
+Topic: machine translation
+Generate: automatic evaluation of machine translation quality via languages
+Year: 2002    Authority: 26
+
+Topic: sentiment classification
+Generate: a method for user text sentiment classification based on brc
+Year: 2014    Authority: 2
+
+Topic: sentiment classification
+Generate: sentiment classification using principal component learning to machine learning methods
+Year: 2016    Authority: 1

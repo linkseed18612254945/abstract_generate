@@ -1,0 +1,1 @@
+{"model_name": "FieldFeature", "data_name": "littleChinese_test", "decoder_start": null, "feature_choice": {"position": false, "year": false, "institution": false, "field": true, "cites": false}, "use_char": false, "with_pos": false}

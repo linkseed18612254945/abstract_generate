@@ -1,0 +1,1 @@
+{"model_name": "title-abstract-joint", "data_name": "title-abstract-joint_test", "decoder_start": null, "feature_choice": {"position": false, "year": false, "institution": false, "field": false, "cites": false, "feature": true}, "use_char": false, "with_pos": false}

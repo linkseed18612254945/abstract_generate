@@ -1,0 +1,22 @@
+{
+  "model_name": "simple_seq2seq",
+  "data_name": "textClassify_train",
+
+  "batch_size" : 64,
+  "hidden_size": 512,
+  "n_layers" : 2,
+  "learning_rate" : 0.0001,
+  "attn_model" : "dot",
+  "decoder_start": null,
+
+  "dropout" : 0.1,
+  "clip" : 50.0,
+  "teacher_forcing_ratio" : 0.8,
+  "decoder_learning_ratio" : 5.0,
+
+  "print_every" : 5,
+  "save_every" : 10,
+
+  "feature_choice": {"position" : false, "year" : false, "institution": false, "field": false, "cites": false},
+  "n_epochs" : 1200
+}

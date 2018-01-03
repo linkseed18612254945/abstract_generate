@@ -1,0 +1,886 @@
+machine translation	machine translation	-4	7.8888888889
+machine translation	bleu: a method for automatic evaluation of machine translation	-11	423.3125
+machine translation	ibm research report bleu: a method for automatic evaluation of machine translation	-11	340.125
+machine translation	moses: open source toolkit for statistical machine translation	-6	354.6363636364
+machine translation	minimum error rate training in statistical machine translation	-10	171.6
+machine translation	europarl: a parallel corpus for statistical machine translation	-8	169.4615384615
+machine translation	a parallel corpus for statistical machine translation	-8	163.0769230769
+machine translation	a statistical approach to machine translation	-23	72.8928571429
+machine translation	object recognition as machine translation: learning a lexicon for a fixed image vocabulary	-11	136.5
+machine translation	object recognition as machine translation: learning a lexicon for a fixed image vocabulary	-11	130
+machine translation	automatic evaluation of machine translation quality using n-gram co-occurrence statistics	-11	88.125
+machine translation	a hierarchical phrase-based model for statistical machine translation.	-8	107.2307692308
+machine translation	automatic evaluation of machine translation quality using longest common subsequence and skip-bigram statistics	-9	101.5
+machine translation	discriminative training and maximum entropy models for statistical machine translation	-11	87.625
+machine translation	machine translation and translation theory /	-16	62.619047619
+machine translation	statistical significance tests for machine translation evaluation	-9	66.7142857143
+machine translation	findings of the 2011 workshop on statistical machine translation	-2	97.2857142857
+machine translation	findings of the 2012 workshop on statistical machine translation	-1	101.8333333333
+machine translation	findings of the 2009 workshop on statistical machine translation	-4	85.5555555556
+machine translation	automatic evaluation of machine translation quality using n-gram co-occurrence statistics	-11	81.875
+machine translation	the alignment template approach to statistical machine translation	-9	76.5
+machine translation	a comparative study on reordering constraints in statistical machine translation	-10	64.3333333333
+machine translation	findings of the 2010 joint workshop on statistical machine translation and metrics for machine translation	-3	89.125
+machine translation	further meta-evaluation of machine translation	-5	43.6
+machine translation	clause restructuring for statistical machine translation	-8	41.9230769231
+machine translation	improved alignment models for statistical machine translation	-14	35.9473684211
+machine translation	exploiting similarities among languages for machine translation	0	63.2
+machine translation	findings of the 2009 workshop on statistical machine translation	-4	79
+machine translation	tree-to-string alignment template for statistical machine translation	-7	42.1666666667
+machine translation	a phrase-based, joint probability model for statistical machine translation	-11	34.5
+machine translation	pharaoh: a beam search decoder for phrase-based statistical machine translation models	-9	57.2857142857
+machine translation	meta evaluation of machine translation	-6	39.8181818182
+machine translation	large language models in machine translation	-1	47
+machine translation	large language models in machine translation	-6	37.4545454545
+machine translation	large language models in machine translation	-6	35.5454545455
+machine translation	building a large-scale knowledge base for machine translation	-19	22.4166666667
+machine translation	findings of the 2013 workshop on statistical machine translation	0	49.2
+machine translation	findings of the 2013 workshop on statistical machine translation	0	49.2
+machine translation	findings of the 2009 workshop on statistical machine translation	0	49.2
+machine translation	discriminative training and maximum entropy models for statistical machine translation	-11	28.5625
+machine translation	phrase-based statistical machine translation	-11	26.0625
+machine translation	confidence estimation for machine translation	-4	34.2222222222
+machine translation	improving machine translation performance by exploiting non-parallel corpora	-8	30
+machine translation	improving machine translation performance by exploiting non-parallel corpora	-8	28.3846153846
+machine translation	improving statistical machine translation using word sense disambiguation	-6	31.4545454545
+machine translation	batch tuning strategies for statistical machine translation	-1	37.3333333333
+machine translation	minimum bayes-risk decoding for statistical machine translation	-9	27.5714285714
+machine translation	lattice minimum bayes-risk decoding for statistical machine translation	-5	31.2
+machine translation	maximum entropy based phrase reordering model for statistical machine translation	-7	29.25
+machine translation	maximum entropy based phrase reordering model for statistical machine translation	-7	28.9166666667
+machine translation	the mathematics of machine translation: parameter estimation	-20	16.88
+machine translation	fast and optimal decoding for machine translation ☆	-9	23.8571428571
+machine translation	improving statistical machine translation using word sense disambiguation	-6	29.3636363636
+machine translation	spmt: statistical machine translation with syntactified target language phrases	-7	27.6666666667
+machine translation	batch tuning strategies for statistical machine translation	-1	36.6666666667
+machine translation	a smorgasbord of features for statistical machine translation	-9	24.2857142857
+machine translation	a new string-to-dependency machine translation algorithm with a target dependency language model	-5	29.4
+machine translation	better hypothesis testing for statistical machine translation: controlling for optimizer instability	-2	31.8571428571
+machine translation	syntax augmented machine translation via chart parsing	-7	25.0833333333
+machine translation	syntax augmented machine translation via chart parsing	-7	24.8333333333
+machine translation	the mathematics of machine translation: parameter estimation	-20	15.68
+machine translation	improved statistical machine translation using paraphrases	-7	25.0833333333
+machine translation	learning non-isomorphic tree mappings for machine translation	-10	22.4666666667
+machine translation	word sense disambiguation improves statistical machine translation	-6	26.1818181818
+machine translation	optimizing chinese word segmentation for machine translation performance	-5	26.4
+machine translation	experiments in domain adaptation for statistical machine translation	-6	25.6363636364
+machine translation	automatic evaluation of machine translation quality using longest common subsequence and skip-bigram statistics.	-9	23.7142857143
+machine translation	better hypothesis testing for statistical machine translation: controlling for optimizer instability	-2	30.2857142857
+machine translation	statistical machine translation by parsing	-9	13.0714285714
+machine translation	discriminative reranking for machine translation	-9	13.0714285714
+machine translation	synchronous binarization for machine translation	-7	14.0833333333
+machine translation	word-sense disambiguation for machine translation	-8	13
+machine translation	machine translation and telecommunications system using user id data to select dictionaries	-17	9.7272727273
+machine translation	active learning and crowd-sourcing for machine translation.	-3	16.625
+machine translation	hmm word and phrase alignment for statistical machine translation	-5	15.4
+machine translation	large-scale dictionary construction for foreign language tutoring and interlingual machine translation	-16	9.619047619
+machine translation	machine translation: an introductory guide	-19	13.125
+machine translation	machine translation and telecommunications system	-17	14.0454545455
+machine translation	statistical machine translation for query expansion in answer retrieval	-5	23.5
+machine translation	loosely tree-based alignment for machine translation	-10	18.6
+machine translation	chinese syntactic reordering for statistical machine translation	-6	21.9090909091
+machine translation	manual and automatic evaluation of machine translation between european languages	-7	20.5
+machine translation	a comparison of alignment models for statistical machine translation	-13	17
+machine translation	phrase-based joint probability model for statistical machine translation	-2	25
+machine translation	re-examining machine translation metrics for paraphrase identification	-1	15.1666666667
+machine translation	recent advances in example-based machine translation	-9	11.2857142857
+machine translation	deeper sentiment analysis using machine translation technology	-9	11.2857142857
+machine translation	following directions using statistical machine translation	-3	13.5
+machine translation	generation of word graphs in statistical machine translation	-11	10.25
+machine translation	active learning and crowdsourcing for machine translation in low resource scenarios	-1	16.3333333333
+machine translation	a comparative study on reordering constraints in statistical machine translation	-10	10.4666666667
+machine translation	a novel string-to-string distance measure with applications to machine translation evaluation	-10	10.7333333333
+machine translation	the candide system for machine translation	-19	7.4583333333
+machine translation	word-sense disambiguation for machine translation	-8	11.0769230769
+machine translation	domain adaptation for machine translation by mining unseen words	-2	14
+machine translation	improving machine translation quality with automatic named entity recognition	-10	9.8
+machine translation	translation engines: techniques for machine translation	-14	8.7894736842
+machine translation	tailoring word alignments to syntactic machine translation	-6	11.3636363636
+machine translation	reordering constraints for phrase-based statistical machine translation	-9	10.6428571429
+machine translation	consensus network decoding for statistical machine translation system combination	-6	11.6363636364
+machine translation	adaptation of the translation model for statistical machine translation based on information retrieval	-8	10.6153846154
+machine translation	perplexity minimization for translation model domain adaptation in statistical machine translation	-1	14.6666666667
+machine translation	n-gram-based machine translation	-7	16.6666666667
+machine translation	machine translation with inferred stochastic finite-state transducers	-7	16.5833333333
+machine translation	machine translation divergences: a formal description and proposed solution	-19	11.2083333333
+machine translation	improvements in phrase-based statistical machine translation	-9	16.0714285714
+machine translation	joshua: an open source toolkit for parsing-based machine translation	-4	18.2222222222
+machine translation	europarl: a multilingual corpus for evaluation of machine translation	-11	14.375
+machine translation	minimum error-rate training in statistical machine translation using structural svms	-4	19.3333333333
+machine translation	lattice-based minimum error rate training for statistical machine translation	-5	17.8
+machine translation	orange: a method for evaluating automatic evaluation metrics for machine translation	-9	15.8571428571
+machine translation	a non-contiguous tree sequence alignment-based model for statistical machine translation	-4	19.5555555556
+machine translation	synchronous binarization for machine translation	-7	15.5
+machine translation	review article: example-based machine translation	-14	12.2105263158
+machine translation	combining outputs from multiple machine translation systems	-6	16.6363636364
+machine translation	statistical machine translation : from single word models to alignment templates /	-11	12.9375
+machine translation	a polynomial-time algorithm for statistical machine translation	-17	10.2727272727
+machine translation	online large-margin training for statistical machine translation	-6	16.5454545455
+machine translation	learning for semantic parsing with statistical machine translation	-7	16
+machine translation	a tree-to-tree alignment-based model for statistical machine translation	-6	16.7272727273
+machine translation	computing consensus translation for multiple machine translation systems using enhanced hypothesis alignment	-7	15.8333333333
+machine translation	discriminative instance weighting for domain adaptation in statistical machine translation	-3	17.5
+machine translation	machine translation: past, present, future	-27	7.40625
+machine translation	machine translation and telecommunications system using user id data to select dictionaries	-17	9.7272727273
+machine translation	active learning and crowd-sourcing for machine translation	-3	16.875
+machine translation	predicting the sentence-level quality of machine translation systems	-4	16.2222222222
+machine translation	the meteor metric for automatic evaluation of machine translation	-4	16.6666666667
+machine translation	hmm word and phrase alignment for statistical machine translation	-5	15.4
+machine translation	apertium: a free/open-source platform for rule-based machine translation	-2	17.8571428571
+machine translation	demonstration of joshua: an open source toolkit for parsing-based machine translation	-4	16.3333333333
+machine translation	statistical machine translation by parsing	-9	13.0714285714
+machine translation	discriminative reranking for machine translation	-9	13.0714285714
+machine translation	synchronous binarization for machine translation	-7	14.0833333333
+machine translation	word-sense disambiguation for machine translation	-8	13
+machine translation	morphological analysis for statistical machine translation	-9	12.5714285714
+machine translation	active learning and crowd-sourcing for machine translation.	-3	16.625
+machine translation	experiments and prospects of example-based machine translation	-22	7.8148148148
+machine translation	word reordering and a dynamic programming beam search algorithm for statistical machine translation	-10	11.8666666667
+machine translation	large-scale dictionary construction for foreign language tutoring and interlingual machine translation	-16	9.619047619
+machine translation	machine translation of languages	-58	3.6031746032
+machine translation	statistical machine translation by parsing	-9	11.9285714286
+machine translation	the cmu statistical machine translation system	-10	11.2666666667
+machine translation	distortion models for statistical machine translation.	-7	13.0833333333
+machine translation	word-level confidence estimation for machine translation	-6	13.6363636364
+machine translation	computing consensus translation from multiple machine translation systems	-12	10.5294117647
+machine translation	a maximum entropy word aligner for arabic-english machine translation.	-8	12.3846153846
+machine translation	active learning and crowdsourcing for machine translation in low resource scenarios	-1	16.3333333333
+machine translation	the world wide web as a resource for example-based machine translation tasks	-14	9.8421052632
+machine translation	recent advances in example-based machine translation	-9	11.2857142857
+machine translation	deeper sentiment analysis using machine translation technology	-9	11.2857142857
+machine translation	generation of word graphs in statistical machine translation	-11	10.25
+machine translation	two approaches to matching in example-based machine translation	-20	7.56
+machine translation	proceedings of the fourth workshop on statistical machine translation	-4	13.7777777778
+machine translation	active learning and crowdsourcing for machine translation in low resource scenarios	-1	16.3333333333
+machine translation	a productivity test of statistical machine translation post-editing in a typical localisation context	-3	14.75
+machine translation	a novel string-to-string distance measure with applications to machine translation evaluation	-10	10.7333333333
+machine translation	word reordering and a dynamic programming beam search algorithm for statistical machine translation	-10	10.9333333333
+machine translation	the candide system for machine translation	-19	7.4583333333
+machine translation	word-sense disambiguation for machine translation	-8	11.0769230769
+machine translation	re-examining machine translation metrics for paraphrase identification	-1	15.1666666667
+machine translation	translation engines: techniques for machine translation	-14	8.7894736842
+machine translation	following directions using statistical machine translation	-3	13.5
+machine translation	word sense disambiguation vs. statistical machine translation	-8	11.4615384615
+machine translation	lattice minimum bayes-risk decoding for statistical machine translation	-5	12.7
+machine translation	reordering constraints for phrase-based statistical machine translation	-9	10.6428571429
+machine translation	a comparative study on reordering constraints in statistical machine translation	-10	10.4666666667
+machine translation	machine translation evaluation versus quality estimation	-3	10.5
+machine translation	machine translation with a stochastic grammatical channel	-15	6.55
+machine translation	multi-engine machine translation guided by explicit word matching	-8	8.3076923077
+machine translation	machine translation by triangulation: making effective use of multi-parallel corpora	-6	9.3636363636
+machine translation	bilingual framenet dictionaries for machine translation	-11	7.4375
+machine translation	statistical machine translation with word- and sentence-aligned parallel corpora.	-9	8.2142857143
+machine translation	applying morphology generation models to machine translation	-5	9.4
+machine translation	a probabilistic approach to syntax-based reordering for statistical machine translation	-6	9.3636363636
+machine translation	word-dependent transition models in hmm based word alignment for statistical machine translation	-2	10.7142857143
+machine translation	machine translation system	-16	4.7142857143
+machine translation	robust machine translation evaluation with entailment features	-4	7.3333333333
+machine translation	platform-independent automated machine translation system	-10	5.8666666667
+machine translation	syntactic preprocessing for statistical machine translation	-6	6.8181818182
+machine translation	phrase-based backoff models for machine translation of highly inflected languages	-7	6.5833333333
+machine translation	using multiple edit distances to automatically rank machine translation output	-12	5.4117647059
+machine translation	towards the use of word stems and suffixes for statistical machine translation	-6	6.8181818182
+machine translation	cross-lingual ontology mapping --- an investigation of the impact of machine translation	-4	7.3333333333
+machine translation	translation system, translation communication system, machine translation method, and medium embodying program	-7	6.5833333333
+machine translation	462 machine translation systems for europe	-4	7.2222222222
+machine translation	statistical machine translation. final report	-14	4.8947368421
+machine translation	using lexicalized tags for machine translation	-23	3.6428571429
+machine translation	target-text mediated interactive machine translation	-16	4.5714285714
+machine translation	a matching technique in example-based machine translation	-19	4.1666666667
+machine translation	an example-based method for transfer-driven machine translation	-21	3.9230769231
+machine translation	the use of lexical semantics in interlingual machine translation	-21	3.9230769231
+machine translation	maxsim: a maximum similarity metric for machine translation evaluation	-5	7
+machine translation	segmentation for english-to-arabic statistical machine translation	-5	7
+machine translation	novel reordering approaches in phrase-based statistical machine translation	-8	6.1538461538
+machine translation	machine translation system	-10	5.6666666667
+machine translation	the lrc machine translation system: linguistics research center	-31	2.9444444444
+machine translation	example-based machine translation using dp-matching between word sequences	-12	5.1764705882
+machine translation	machine translation system incorporating syntactic dependency treelets into a statistical framework	-3	7.375
+machine translation	shallow parsing for portuguese--spanish machine translation	-10	5.6
+machine translation	can crowds build parallel corpora for machine translation systems?	-3	7.375
+machine translation	multiple-parts-of-speech disambiguating method and apparatus for machine translation system	-26	3.2903225806
+machine translation	cross-lingual ontology mapping – an investigation of the impact of machine translation	-4	7.1111111111
+machine translation	dialectal to standard arabic paraphrasing to improve arabic-english statistical machine translation	-2	7.7142857143
+machine translation	incremental hypothesis alignment for building confusion networks with application to machine translation system combination	-5	6.8
+machine translation	syntax-based language models for machine translation	-10	5.5333333333
+machine translation	displaying and correcting method for machine translation system	-27	3.09375
+machine translation	online learning for interactive statistical machine translation	-3	7.125
+machine translation	e-services translation utilizing machine translation and translation memory	-2	7.4285714286
+machine translation	translating with examples: a new approach to machine translation	-23	3.5714285714
+machine translation	error detection for statistical machine translation using linguistic features	-3	7.25
+machine translation	maxsim: a maximum similarity metric for machine translation evaluation	-5	6.5
+machine translation	stochastic finite-state models for spoken language machine translation	-11	5.3125
+machine translation	language model adaptation for statistical machine translation based on information retrieval	-9	5.6428571429
+machine translation	handbook of natural language processing and machine translation: darpa global autonomous language exploitation	-2	7.5714285714
+machine translation	machine translation using vector space representations	-3	7
+machine translation	statistical machine translation gains respect	-8	5.7692307692
+machine translation	generation-heavy hybrid machine translation	-11	5.0625
+machine translation	a finite-state approach to machine translation	-12	4.9411764706
+machine translation	the lrc machine translation system: an overview of the linguistic component of metal	-31	2.7777777778
+machine translation	cache-based document-level statistical machine translation	-2	7.2857142857
+machine translation	purest ever example-based machine translation: detailed presentation and assessment	-6	6.1818181818
+machine translation	cohesive phrase-based decoding for statistical machine translation	-5	6.4
+machine translation	system and method for machine learning a confidence metric for machine translation	-4	6.6666666667
+machine translation	neural machine translation of rare words with subword units	3	84.5
+machine translation	neural machine translation by jointly learning to align and translate	1	472.5
+machine translation	on the properties of neural machine translation: encoder-decoder approaches	1	116.75
+machine translation	findings of the 2014 workshop on statistical machine translation	1	97.75
+machine translation	effective approaches to attention-based neural machine translation	2	100.3333333333
+machine translation	google's neural machine translation system: bridging the gap between human and machine translation	3	111.5
+machine translation	on using very large target vocabulary for neural machine translation	1	47
+machine translation	fast and robust neural network joint models for statistical machine translation	1	58.5
+machine translation	learning phrase representations using rnn encoder-decoder for statistical machine translation	1	293.5
+machine translation	modeling coverage for neural machine translation	3	26.5
+machine translation	minimum risk training for neural machine translation	2	23.3333333333
+machine translation	findings of the 2016 conference on machine translation	3	30
+machine translation	addressing the rare word problem in neural machine translation	1	39
+machine translation	findings of the 2015 workshop on statistical machine translation	2	44.3333333333
+machine translation	optimizing chinese word segmentation for machine translation performance	3	28
+machine translation	multi-way, multilingual neural machine translation with a shared attention mechanism	3	30
+machine translation	improved statistical machine translation for resource-poor languages using related resource-rich languages	1	20.5
+machine translation	a character-level decoder without explicit segmentation for neural machine translation	3	43
+machine translation	a character-level decoder without explicit segmentation for neural machine translation	3	27.5
+machine translation	is machine translation ready yet?	3	21.5
+machine translation	neural machine translation in linear time	3	20.5
+machine translation	character-based neural machine translation	2	23.3333333333
+machine translation	character-based neural machine translation	3	23.5
+machine translation	edinburgh neural machine translation systems for wmt 16	3	20
+machine translation	on using monolingual corpora in neural machine translation	2	19.3333333333
+machine translation	google's multilingual neural machine translation system: enabling zero-shot translation	3	24.5
+machine translation	achieving open vocabulary neural machine translation with hybrid word-character models	3	25.5
+machine translation	character-based neural machine translation	3	16.5
+machine translation	improving neural machine translation models with monolingual data	2	17.6666666667
+machine translation	minimum risk training for neural machine translation	3	19.5
+machine translation	computerized statistical machine translation with phrasal decoder	2	14.6666666667
+machine translation	neural versus phrase-based machine translation quality: a case study	3	18.5
+machine translation	neural versus phrase-based machine translation quality: a case study	3	17
+machine translation	knowledge-based question answering as machine translation	1	12.25
+machine translation	bilingually-constrained phrase embeddings for machine translation	1	14.5
+machine translation	comparative experiments using supervised learning and machine translation for multilingual sentiment analysis	1	12
+machine translation	dual learning for machine translation	3	15.5
+machine translation	lium smt machine translation system for wmt 2010	4	29
+machine translation	nematus: a toolkit for neural machine translation	4	29
+machine translation	opennmt: open-source toolkit for neural machine translation	4	31
+machine translation	linguistic input features improve neural machine translation	3	15.5
+machine translation	achieving open vocabulary neural machine translation with hybrid word-character models	3	14.5
+machine translation	a recursive recurrent neural network for statistical machine translation	1	11.5
+machine translation	integrating an unsupervised transliteration model into statistical machine translation	1	10.75
+machine translation	integrating an unsupervised transliteration model into statistical machine translation	1	10.75
+machine translation	nematus: a toolkit for neural machine translation	4	26
+machine translation	tree-to-sequence attentional neural machine translation	3	12.5
+machine translation	coverage embedding models for neural machine translation	3	13.5
+machine translation	linguistic input features improve neural machine translation	3	13
+machine translation	fully character-level neural machine translation without explicit segmentation	4	28
+machine translation	incorporating discrete translation lexicons into neural machine translation	3	12
+machine translation	deep recurrent models with fast-forward connections for neural machine translation	3	12
+machine translation	encoding source language with convolutional neural network for machine translation	2	10.6666666667
+machine translation	machine translation instant messaging applications	1	8.5
+machine translation	montreal neural machine translation systems for wmt’15	2	10
+machine translation	syntactically guided neural machine translation	3	11.5
+machine translation	vocabulary manipulation for neural machine translation	3	10
+machine translation	semi-supervised learning for neural machine translation	3	10
+machine translation	a coverage embedding model for neural machine translation	3	11.5
+machine translation	transfer learning for low-resource neural machine translation	3	10.5
+machine translation	is neural machine translation ready for deployment? a case study on 30 translation directions	3	10
+machine translation	learning from post-editing: online model adaptation for statistical machine translation	1	7.5
+machine translation	customizable machine translation service	1	6.25
+machine translation	optimizing parameters for machine translation	1	6.75
+machine translation	supervised attentions for neural machine translation	3	8.5
+machine translation	edinburgh's phrase-based machine translation systems for wmt-14	1	6.5
+machine translation	a shared task on multimodal machine translation and crosslingual image description	3	9.5
+machine translation	on the elements of an accurate tree-to-string machine translation system	1	6
+machine translation	zero-resource translation with multi-lingual neural machine translation	3	8.5
+machine translation	mutual information and diverse decoding improve neural machine translation	3	8.5
+machine translation	agreement-based joint training for bidirectional attention-based neural machine translation	3	9.5
+machine translation	systran's pure neural machine translation systems	3	7
+machine translation	semi-supervised learning for neural machine translation	3	7
+machine translation	is neural machine translation ready for deployment? a case study on 30 translation directions	3	7.5
+machine translation	hybrid simplification using deep semantics and machine translation	2	7
+machine translation	a sense-based translation model for statistical machine translation	1	5.75
+machine translation	zero-resource translation with multi-lingual neural machine translation	3	7
+machine translation	collecting and using comparable corpora for statistical machine translation	2	6.6666666667
+machine translation	neural reranking improves subjective quality of machine translation: naist at wat2015	2	7
+machine translation	um-corpus: a large english-chinese parallel corpus for statistical machine translation	1	5.5
+machine translation	combination of stochastic understanding and machine translation systems for language portability of dialogue systems	1	5.5
+machine translation	improved neural machine translation with smt features	3	7
+machine translation	improving evaluation of machine translation quality estimation	2	6
+machine translation	attention-based multimodal neural machine translation	3	6.5
+machine translation	towards zero unknown word in neural machine translation	3	7
+machine translation	edinburgh’s phrase-based machine translation systems for wmt-14.	1	5
+machine translation	hybrid simplification using deep semantics and machine translation	1	5.25
+machine translation	guided alignment training for topic-aware neural machine translation	3	6.5
+machine translation	overcoming the curse of sentence length for neural machine translation using automatic segmentation	1	5.25
+machine translation	learning to generate pseudo-code from source code using statistical machine translation (t)	2	6.3333333333
+machine translation	arabic machine translation: a survey	1	4.75
+machine translation	neural machine translation with reconstruction	3	6
+machine translation	fast domain adaptation for neural machine translation	3	6.5
+machine translation	massive exploration of neural machine translation architectures	4	13
+machine translation	vocabulary selection strategies for neural machine translation	3	6
+machine translation	polish - english speech statistical machine translation systems for the iwslt 2014	2	5.6666666667
+machine translation	proceedings of the 15th annual conference of the european association for machine translation	1	4.75
+machine translation	log-linear combinations of monolingual and bilingual neural machine translation models for automatic post-editing	3	6
+machine translation	log-linear combinations of monolingual and bilingual neural machine translation models for automatic post-editing	3	6
+machine translation	selection and use of nonstatistical translation components in a statistical machine translation framework	1	4.75
+machine translation	arabic machine translation: a survey	1	4.5
+machine translation	factored neural machine translation	3	5.5
+machine translation	variational neural machine translation	3	5.5
+machine translation	jane: open source machine translation system combination	1	4
+machine translation	using discourse structure improves machine translation evaluation	1	4
+machine translation	maximal lattice overlap in example-based machine translation	4	11
+machine translation	exploiting source-side monolingual data in neural machine translation	3	5.5
+machine translation	neural network based bilingual language model growing for statistical machine translation	1	4
+machine translation	don’t until the final verb wait: reinforcement learning for simultaneous machine translation	1	4.25
+machine translation	neural machine translation with supervised attention	3	5
+machine translation	coverage-based neural machine translation	3	5
+machine translation	edinburgh's statistical machine translation systems for wmt16	3	5
+machine translation	pragmatic neural language modelling in machine translation	2	4.6666666667
+machine translation	incorporating pronoun function into statistical machine translation	3	5
+machine translation	proceedings of the second workshop on statistical machine translation	2	4.3333333333
+machine translation	assessing the discourse factors that influence the quality of machine translation	1	3.5
+machine translation	an empirical analysis of data selection techniques in statistical machine translation.	2	4.6666666667
+machine translation	neural machine translation with external phrase memory	3	4.5
+machine translation	syntax-aware neural machine translation using ccg	4	9
+machine translation	embedding word similarity with neural machine translation	1	3.5
+machine translation	a convolutional encoder model for neural machine translation	3	4.5
+machine translation	standardizing tweets with character-level machine translation	1	3.5
+machine translation	standardizing tweets with character-level machine translation	1	3.5
+machine translation	adaptation of machine translation for multilingual information retrieval in the medical domain	1	3.5
+machine translation	learning to parse and translate improves neural machine translation	4	9
+machine translation	an empirical comparison of simple domain adaptation methods for neural machine translation	4	9
+machine translation	machine translation: mining text for social theory	3	4
+machine translation	neural machine translation with recurrent attention modeling	3	4
+machine translation	neural machine translation advised by statistical machine translation	3	4.5
+machine translation	towards string-to-tree neural machine translation	4	9
+machine translation	doubly-attentive decoder for multi-modal neural machine translation	4	8
+machine translation	nmtpy: a flexible toolkit for advanced neural machine translation systems	4	8
+machine translation	context-dependent word representation for neural machine translation ☆	4	8
+machine translation	systems and methods for tuning parameters in statistical machine translation	1	3.25
+machine translation	bilingual continuous-space language model growing for statistical machine translation	2	3.6666666667
+machine translation	the operation sequence model – combining n-gram-based and phrase-based statistical machine translation	2	4
+machine translation	machine translation for query expansion	2	3.6666666667
+machine translation	eu-bridge mt: combined machine translation	1	3
+machine translation	submodularity for data selection in machine translation	1	3
+machine translation	statistical machine translation enhancements through linguistic levels: a survey	1	3
+machine translation	the edinburgh/jhu phrase-based machine translation systems for wmt~2015	2	3.6666666667
+machine translation	the edinburgh/jhu phrase-based machine translation systems for wmt 2015	2	3.6666666667
+machine translation	phrasal: a toolkit for new directions in statistical machine translation	1	3
+machine translation	using joint models for domain adaptation in statistical machine translation	2	3.6666666667
+machine translation	an empirical comparison of features and tuning for phrase-based machine translation	1	3
+machine translation	towards string-to-tree neural machine translation	4	7
+machine translation	machine translation post-editing and effort. empirical studies on the post-editing process	3	3.5
+machine translation	latest trends in hybrid machine translation and its applications ☆	2	3.3333333333
+machine translation	an evaluation of machine translation for multilingual sentence-level sentiment analysis	3	3.5
+machine translation	an evaluation of machine translation for multilingual sentence-level sentiment analysis	3	3.5
+machine translation	improving neural machine translation with conditional sequence generative adversarial nets	4	7
+machine translation	topic-based coherence modeling for statistical machine translation	2	3.3333333333
+machine translation	learning to parse and translate improves neural machine translation	4	7
+machine translation	a survey of word reordering in statistical machine translation: computational models and language phenomena	3	3.5
+machine translation	can machine translation systems be evaluated by the crowd alone	2	3
+machine translation	temporal attention model for neural machine translation	3	3.5
+machine translation	response-based learning for grounded machine translation	1	2.75
+machine translation	topic-based coherence modeling for statistical machine translation	2	3
+machine translation	oxlm: a neural language modelling framework for machine translation	1	2.75
+machine translation	sentence level dialect identification for machine translation system selection	1	2.75
+machine translation	involving language professionals in the evaluation of machine translation	1	2.75
+machine translation	modelling and optimizing on syntactic n-grams for statistical machine translation	2	3
+machine translation	what’s in a domain? analyzing genre and topic differences in statistical machine translation	2	3
+machine translation	non-projective dependency-based pre-reordering with recurrent neural network for machine translation	2	3
+machine translation	pushdown automata in statistical machine translation	1	2.5
+machine translation	automatic spelling correction for machine translation	1	2.5
+machine translation	evaluation of machine translation systems at cls corporate language services ag	1	2.5
+machine translation	controlling politeness in neural machine translation via side constraints	3	3
+machine translation	models and inference for prefix-constrained machine translation	3	3
+machine translation	statistical machine translation in the translation curriculum: overcoming obstacles and empowering translators	1	2.5
+machine translation	rationalization: a neural machine translation approach to generating natural language explanations	4	6
+machine translation	online adaptation to post-edits for phrase-based statistical machine translation	1	2.5
+machine translation	incorporating global visual features into attention-based neural machine translation	4	6
+machine translation	the new thot toolkit for fully-automatic and interactive statistical machine translation	1	2.5
+machine translation	bridging neural machine translation and bilingual dictionaries	3	3
+machine translation	compression of neural machine translation models via pruning	3	3
+machine translation	memory-enhanced decoder for neural machine translation	3	3
+machine translation	hume: human ucca-based evaluation of machine translation	3	3
+machine translation	toward multilingual neural machine translation with universal encoder and decoder	3	3
+machine translation	zero-resource machine translation by multimodal encoder–decoder network with multimedia pivot	3	3
+machine translation	an evaluation methodology for english to sinhala machine translation	3	3
+machine translation	a survey of word reordering in statistical machine translation: computational models and language phenomena	3	3
+machine translation	how grammatical is character-level neural machine translation? assessing mt quality with contrastive translation pairs	3	3
+machine translation	learning local word reorderings for hierarchical phrase-based statistical machine translation	3	3
+machine translation	context gates for neural machine translation	4	6
+machine translation	six challenges for neural machine translation	4	6
+machine translation	interactive attention for neural machine translation	3	3
+machine translation	real time adaptive machine translation for post-editing with cdec and transcenter	1	2.25
+machine translation	using syntax-based machine translation to parse english into abstract meaning representation	2	2.6666666667
+machine translation	enhancing statistical machine translation with bilingual terminology in a cat environment	1	2.25
+machine translation	bilingual sentiment consistency for statistical machine translation	1	2.25
+machine translation	dependency-based pre-ordering for chinese-english machine translation	1	2.25
+machine translation	optimizing instance selection for statistical machine translation with feature decay algorithms	2	2.6666666667
+sentiment classification	sentiment classification using machine learning techniques	-11	363.5625
+sentiment classification	biographies, bollywood, boomboxes and blenders: domain adaptation for sentiment classification	-6	129.3636363636
+sentiment classification	twitter sentiment classification using distant supervision	-4	145.8888888889
+sentiment classification	sentiment classification of movie reviews using contextual valence shifters	-3	83
+sentiment classification	domain adaptation for large-scale sentiment classification: a deep learning approach	-2	84.8571428571
+sentiment classification	target-dependent twitter sentiment classification	-2	79.7142857143
+sentiment classification	cross-domain sentiment classification via spectral feature alignment	-3	46.375
+sentiment classification	co-training for cross-lingual sentiment classification	-4	42.6666666667
+sentiment classification	dependency tree-based sentiment classification using crfs with hidden variables	-3	31.875
+sentiment classification	comparative experiments on sentiment classification for online product reviews	-7	30.3333333333
+sentiment classification	sentiment classification of online reviews to travel destinations by supervised machine learning approaches	-4	36.7777777778
+sentiment classification	sentiment classification on customer feedback data: noisy data, large feature vectors, and the role of linguistic analysis	-8	35.7692307692
+sentiment classification	using emoticons to reduce dependency in machine learning techniques for sentiment classification	-4	51.5555555556
+sentiment classification	sentiment classification of reviews using sentiwordnet	-4	22.5555555556
+sentiment classification	document-level sentiment classification: an empirical comparison between svm and ann	0	35.6
+sentiment classification	ensemble of feature sets and classification algorithms for sentiment classification	-2	31.4285714286
+sentiment classification	feature ensemble plus sample selection: domain adaptation for sentiment classification	0	29.4
+sentiment classification	topic sentiment analysis in twitter: a graph-based hashtag sentiment classification approach	-2	30.8571428571
+sentiment classification	a non-negative matrix tri-factorization approach to sentiment classification with lexical prior knowledge	-4	18.6666666667
+sentiment classification	cross-domain sentiment classification using a sentiment sensitive thesaurus	0	24.8
+sentiment classification	sentiment classification for movie reviews in chinese by improved semantic oriented approach	-7	13
+sentiment classification	a lexicon-enhanced method for sentiment classification: an experiment on online product reviews	-3	17.375
+sentiment classification	automatic seed word selection for unsupervised sentiment classification of chinese text	-5	14.6
+sentiment classification	employing personal/impersonal views in supervised and semi-supervised sentiment classification	-3	16.5
+sentiment classification	adapting a polarity lexicon using integer linear programming for domain-specific sentiment classification	-4	15.6666666667
+sentiment classification	sentiment classification using phrase patterns	-9	9.1428571429
+sentiment classification	sentiment classification and polarity shifting	-3	13.25
+sentiment classification	semi-supervised learning for imbalanced sentiment classification.	-7	10
+sentiment classification	selecting attributes for sentiment classification using feature relation networks	-2	16.4285714286
+sentiment classification	multi-level structured models for document-level sentiment classification	-3	15
+sentiment classification	adding redundant features for crfs-based sentence sentiment classification	-5	12.4
+sentiment classification	multi-domain adaptation for sentiment classification: using multiple classifier combining methods	-4	12.5555555556
+sentiment classification	automatically extracting polarity-bearing topics for cross-domain sentiment classification.	-2	13.2857142857
+sentiment classification	mine the easy, classify the hard: a semi-supervised approach to automatic sentiment classification	-4	12.6666666667
+sentiment classification	using multiple sources to construct a sentiment sensitive thesaurus for cross-domain sentiment classification	-2	13.8571428571
+sentiment classification	multi-domain sentiment classification	-5	8.1
+sentiment classification	mining sentiment classification from political web logs	-7	7.1666666667
+sentiment classification	sentiment classification of internet restaurant reviews written in cantonese	-2	12.5714285714
+sentiment classification	selc:a self-supervised model for sentiment classification	-4	8.6666666667
+sentiment classification	fast and accurate sentiment classification using an enhanced naive bayes model	0	12.8
+sentiment classification	a neural network based approach for sentiment classification in the blogosphere	-2	10.5714285714
+sentiment classification	automatically extracting polarity-bearing topics for cross-domain sentiment classification	-2	12
+sentiment classification	multi-domain sentiment classification	-5	7.6
+sentiment classification	sentiment classification based on supervised latent n-gram analysis	-2	9.7142857143
+sentiment classification	sentiment classification based on supervised latent n-gram analysis	-1	10.3333333333
+sentiment classification	chinese sentence-level sentiment classification based on fuzzy sets	-3	8.625
+sentiment classification	scalable sentiment classification for big data analysis using naïve bayes classifier	0	10.8
+sentiment classification	cross lingual adaptation: an experiment on sentiment classifications.	-3	8.75
+sentiment classification	active deep learning method for semi-supervised sentiment classification	0	11.2
+sentiment classification	are sentiwordnet scores suited for multi-domain sentiment classification?	-4	8.3333333333
+sentiment classification	effectiveness of simple linguistic processing in automatic sentiment classification of product reviews	-9	5.9285714286
+sentiment classification	sentiment analysis of movie reviews: a new feature-based heuristic for aspect-level sentiment classification	0	10.8
+sentiment classification	sentiment classification based on supervised latent n-gram analysis	-2	9
+sentiment classification	joint bilingual sentiment classification with unlabeled parallel corpora.	-2	9.2857142857
+sentiment classification	sentiment classification for chinese reviews: a comparison between svm and semantic approaches	-8	5.7692307692
+sentiment classification	chinese sentence-level sentiment classification based on sentiment morphemes	-3	8.25
+sentiment classification	active deep networks for semi-supervised sentiment classification	-3	8.25
+sentiment classification	active deep networks for semi-supervised sentiment classification.	-3	8
+sentiment classification	experimental study on sentiment classification of chinese review using machine learning techniques	-6	6.8181818182
+sentiment classification	analysis of different approaches to sentence-level sentiment classification	0	9.8
+sentiment classification	weakly supervised techniques for domain-independent sentiment classification	-4	7.6666666667
+sentiment classification	sentiment classification of movie and product reviews using contextual valence shifters	-7	5.8333333333
+sentiment classification	sentiment classification for chinese reviews: a comparison between svm and semantic approaches	-8	5.3846153846
+sentiment classification	sentiment classification using sentence-level semantic orientation of opinion terms from blogs	-1	8.3333333333
+sentiment classification	sentiment classification using sentence-level lexical based semantic orientation of online reviews	-2	7.1428571429
+sentiment classification	chinese sentence-level sentiment classification based on sentiment morphemes	-3	7.75
+sentiment classification	learning to shift the polarity of words for sentiment classification	-5	6.5
+sentiment classification	using objective words in sentiwordnet to improve word-of-mouth sentiment classification	0	8.6
+sentiment classification	a feature selection method based on fisher’s discriminant ratio for text sentiment classification	-2	8.4285714286
+sentiment classification	using a contextual entropy model to expand emotion words and their intensity for the sentiment classification of stock market news	0	9
+sentiment classification	domain-specific sentiment classification	0	7.8
+sentiment classification	cross-lingual mixture model for sentiment classification	0	7.2
+sentiment classification	active learning for cross-domain sentiment classification	0	7.4
+sentiment classification	harnessing wordnet senses for supervised sentiment classification	-2	6
+sentiment classification	knowledge transformation for cross-domain sentiment classification	-4	5.8888888889
+sentiment classification	exploring the use of word relation features for sentiment classification.	-3	5.625
+sentiment classification	sample cutting method for imbalanced text sentiment classification based on brc	0	6.8
+sentiment classification	using objective words in sentiwordnet to improve word-of-mouth sentiment classification	0	7.2
+sentiment classification	mine the easy, classify the hard: a semi-supervised approach to automatic sentiment classification	-4	5.1111111111
+sentiment classification	sentiment classification using the theory of anns	-3	5.25
+sentiment classification	sentiment classification for chinese news using machine learning methods	-6	4.3636363636
+sentiment classification	multi-domain sentiment classification with classifier combination	-2	5.5714285714
+sentiment classification	active learning for imbalanced sentiment classification	-1	5.8333333333
+sentiment classification	active learning for cross-lingual sentiment classification	0	6.6
+sentiment classification	bilingual co-training for sentiment classification of chinese product reviews	-2	5.7142857143
+sentiment classification	sentirank: cross-domain graph ranking for sentiment classification	-4	4.6666666667
+sentiment classification	sentiment classification of customer reviews based on fuzzy logic	-3	4.75
+sentiment classification	opinion mining and sentiment classification: a survey	-1	5.5
+sentiment classification	sentiment classification using automatically extracted subgraph features	-3	4.25
+sentiment classification	research on language modeling based sentiment classification of text	-6	3.6363636364
+sentiment classification	sentirank: cross-domain graph ranking for sentiment classification	-4	4.4444444444
+sentiment classification	use of negation phrases in automatic sentiment classification of product reviews	-8	3.5384615385
+sentiment classification	sentiment vector space model for lyric-based song sentiment classification	-5	3.8
+sentiment classification	incorporating lexicon knowledge into svm learning to improve sentiment classification	0	6
+sentiment classification	a feature selection method based on fisher’s discriminant ratio for text sentiment classification	-4	3.8888888889
+sentiment classification	sentiment classification techniques for tracking literary reputation	-7	3.0833333333
+sentiment classification	sentiment classification using rough set based hybrid feature selection	0	4.8
+sentiment classification	a new method for sentiment classification in text retrieval	-8	2.8461538462
+sentiment classification	sentiment classification through combining classifiers with multiple feature sets	-6	3.1818181818
+sentiment classification	document sentiment classification by exploring description model of topical terms	-2	4.4285714286
+sentiment classification	sentiment classification from online customer reviews using lexical contextual sentence structure	-2	4.1428571429
+sentiment classification	bilingual co-training for sentiment classification of chinese product reviews	-2	4.1428571429
+sentiment classification	research on sentiment classification of chinese reviews based on supervised machine learning techniques	-6	3.1818181818
+sentiment classification	an empirical study to address the problem of unbalanced data sets in sentiment classification	-1	4.6666666667
+sentiment classification	a new method for sentiment classification in text retrieval	-8	2.6923076923
+sentiment classification	sentence based sentiment classification from online customer reviews	-3	3.75
+sentiment classification	comment target extraction and sentiment classification	-3	3.625
+sentiment classification	adaptive co-training svm for sentiment classification on tweets	0	4.4
+sentiment classification	sentiment classification from online customer reviews using lexical contextual sentence structure	-2	4.1428571429
+sentiment classification	sentiment classification for chinese reviews using machine learning methods based on string kernel	-5	3
+sentiment classification	an ontology-based sentiment classification methodology for online consumer reviews	-5	3.1
+sentiment classification	monitoring public health concerns using twitter sentiment classifications	0	4.6
+sentiment classification	a hybrid method of feature selection for chinese text sentiment classification	-6	2.9090909091
+sentiment classification	sentiment classification of chinese traveler reviews by support vector machine algorithm	-4	3.1111111111
+sentiment classification	sentiment classification for chinese reviews using machine learning methods based on string kernel	-5	3
+sentiment classification	an ontology-based sentiment classification methodology for online consumer reviews	-5	2.9
+sentiment classification	a two-stage framework for cross-domain sentiment classification	-2	3.7142857143
+sentiment classification	sentiment classification: a lexical similarity based approach for extracting subjectivity in documents	-2	3.5714285714
+sentiment classification	cross-lingual sentiment classification via bi-view non-negative matrix tri-factorization	-2	3.5714285714
+sentiment classification	imbalanced sentiment classification	-2	3.4285714286
+sentiment classification	sentiment classification based on ontology and svm classifier	-3	3.25
+sentiment classification	ensemble learning for sentiment classification	-1	3.6666666667
+sentiment classification	sentiment classification of chinese traveler reviews by support vector machine algorithm	-4	3
+sentiment classification	cross-lingual sentiment classification via bi-view non-negative matrix tri-factorization	-2	3.2857142857
+sentiment classification	is machine translation ripe for cross-lingual sentiment classification?	-2	3.4285714286
+sentiment classification	combining collaborative filtering and sentiment classification for improved movie recommendations	-2	3.4285714286
+sentiment classification	using objective words in sentiwordnet to improve sentiment classification for word of mouth	0	4
+sentiment classification	appraisal expression recognition with syntactic path for sentence sentiment classification	-2	3.2857142857
+sentiment classification	sentiment classification based on ontology and svm classifier	-3	2.75
+sentiment classification	sentiment classification of documents based on latent semantic analysis	-2	3.2857142857
+sentiment classification	sentiment classification for chinese product reviews using an unsupervised internet-based method	-5	2.5
+sentiment classification	ontology based combined approach for sentiment classification	-4	2.5555555556
+sentiment classification	cross-lingual sentiment classification via bi-view non-negative matrix tri-factorization	-2	3.2857142857
+sentiment classification	semantic-oriented sentiment classification for chinese product reviews: an experimental study of book and cell phone reviews	-8	2
+sentiment classification	an unsupervised snippet-based sentiment classification method for chinese unknown phrases without using reference word pairs	-3	2.75
+sentiment classification	identifying high-impact sub-structures for convolution kernels in document-level sentiment classification	-1	3.1666666667
+sentiment classification	augmenting chinese online video recommendations by using virtual ratings predicted by review sentiment classification	-3	2.75
+sentiment classification	verb oriented sentiment classification	-1	3
+sentiment classification	a novel approach to sentiment classification	-6	2.1818181818
+sentiment classification	super parsing:sentiment classification with review extraction	-8	1.9230769231
+sentiment classification	a probabilistic approach to tweets' sentiment classification	0	3.2
+sentiment classification	text mining facebook status updates for sentiment classification	0	3.2
+sentiment classification	sentiment classification by sentence level semantic orientation using sentiwordnet from online reviews and blogs	-2	2.7142857143
+sentiment classification	a review of opinion mining and sentiment classification framework in social networks	-4	2.3333333333
+sentiment classification	identifying high-impact sub-structures for convolution kernels in document-level sentiment classification	-1	3
+sentiment classification	sentiment classification of short chinese sentences	-3	2.5
+sentiment classification	sentiment classification of customer reviews on electric products	-5	2
+sentiment classification	sentiment classification considering negation and contrast transition	-4	2.1111111111
+sentiment classification	domain independent sentiment classification with many lexicons	-2	2.5714285714
+sentiment classification	joint bilingual sentiment classification with unlabeled parallel corpora	-2	2.4285714286
+sentiment classification	text sentiment classification for sns-based marketing using domain sentiment dictionary	-1	2.6666666667
+sentiment classification	ontology based combined approach for sentiment classification	-4	2.1111111111
+sentiment classification	incorporating lexicon knowledge into svm learning to improve sentiment classification	-2	2.4285714286
+sentiment classification	do neighbours help?: an exploration of graph-based algorithms for cross-domain sentiment classification	-1	2.8333333333
+sentiment classification	sentiment classification for indonesian message in social media	-1	2.5
+sentiment classification	cross-domain sentiment classification using a two-stage method	-4	1.8888888889
+sentiment classification	enhancing sentiment classification performance using bi-tagged phrases	0	2.6
+sentiment classification	sentiment classification of movie reviews by supervised machine learning approaches	0	2.6
+sentiment classification	research on sentence sentiment classification based on chinese sentiment word table	-4	2
+sentiment classification	empirical study of sentiment classification for chinese microblog based on machine learning	-1	2.3333333333
+sentiment classification	a new term weighting method by introducing class information for sentiment classification of textual data	-2	2.1428571429
+sentiment classification	sentiment classification approaches – a review	0	2.2
+sentiment classification	robust sense-based sentiment classification	-2	2.1428571429
+sentiment classification	sentiment classification of review documents using phrase patterns	0	2.4
+sentiment classification	data mining for tweet sentiment classification	-1	2.1666666667
+sentiment classification	cross-domain sentiment classification using a two-stage method	-4	1.7777777778
+sentiment classification	a cross-domain adaptation method for sentiment classification using probabilistic latent analysis	-2	2
+sentiment classification	a weakly supervised approach to chinese sentiment classification using partitioned self-training	0	2.4
+sentiment classification	transfer learning using twitter data for improving sentiment classification of turkish political news	0	2.4
+sentiment classification	adaptation and use of subjectivity lexicons for domain dependent sentiment classification	-1	2.1666666667
+sentiment classification	instance selection and instance weighting for cross-domain sentiment classification via pu learning	0	2.4
+sentiment classification	sentiment classification with polarity shifting detection	0	2.2
+sentiment classification	sentiment classification using information extraction technique	-8	1.2307692308
+sentiment classification	sentiment classification method of chinese micro-blog based on emotional knowledge	-1	2
+sentiment classification	improving sentiment classification using feature highlighting and feature bagging	-2	1.8571428571
+sentiment classification	language-independent sentiment classification using three common words	-2	1.8571428571
+sentiment classification	dynamic construction of dictionaries for sentiment classification	0	2.2
+sentiment classification	feature subsumption for sentiment classification of dynamic data in social networks using scddf	-1	2
+sentiment classification	sentiment classification for the italian language: a case study on movie reviews 365 sentiment classification for the italian language: a	-5	1.5
+sentiment classification	bottom up: exploring word emotions for chinese sentence chief sentiment classification	-3	1.75
+sentiment classification	turning online product reviews to customer knowledge: a semantic-based sentiment classification approach	-7	1.3333333333
+sentiment classification	a sentiment classification method for chinese document	-3	1.625
+sentiment classification	sentiment classification with supervised sequence embedding	-1	1.8333333333
+sentiment classification	sentiment classification using information extraction technique	-8	1.2307692308
+sentiment classification	learning sentiment classification model from labeled features	-3	1.625
+sentiment classification	sentiment classification via integrating multiple feature presentations	-1	1.8333333333
+sentiment classification	sentiment classification for chinese reviews based on key substring features	-4	1.5555555556
+sentiment classification	text feature selection for sentiment classification of chinese online reviews	0	2
+sentiment classification	dynamic construction of dictionaries for sentiment classification	0	2
+sentiment classification	sentiment classification for microblog by machine learning	-1	1.8333333333
+sentiment classification	sentiment classification with supervised sequence embedding	-1	1.8333333333
+sentiment classification	weighted scl model for adaptation of sentiment classification	-2	1.5714285714
+sentiment classification	a method of chinese texts sentiment classification based on bayesian algorithm	0	1.8
+sentiment classification	a cross-domain adaptation method for sentiment classification using probabilistic latent analysis	-2	1.7142857143
+sentiment classification	latent sentiment model for weakly-supervised cross-lingual sentiment classification	-2	1.7142857143
+sentiment classification	unsupervised sentiment classification of english movie reviews using automatic selection of positive and negative sentiment items	-3	1.5
+sentiment classification	evaluating the utility of appraisal hierarchies as a method for sentiment classification	-8	1.0769230769
+sentiment classification	sentiment classification for stock news	-2	1.5714285714
+sentiment classification	sentiment classification of online product reviews using product features	-2	1.5714285714
+sentiment classification	a cross-study of sentiment classification on arabic corpora	-1	1.6666666667
+sentiment classification	sentiment classification of chinese online reviews: analysing and improving supervised machine learning	-1	1.6666666667
+sentiment classification	effectiveness of web search results for genre and sentiment classification	-4	1.3333333333
+sentiment classification	turning online product reviews to customer knowledge: a semantic-based sentiment classification approach	-7	1.0833333333
+sentiment classification	sentiment classification with interpolated information diffusion kernels	-6	1.0909090909
+sentiment classification	bounce: sentiment classification in twitter using rich feature sets	0	1.6
+sentiment classification	sentiment classification analysis based on extraction of sentiment key sentence	-1	1.5
+sentiment classification	sentiment classification of drug reviews using a rule-based linguistic approach	-1	1.5
+sentiment classification	an unsupervised approach for sentiment classification	-1	1.5
+sentiment classification	reserved self-training: a semi-supervised sentiment classification method for chinese microblogs	0	1.6
+sentiment classification	using multiple sources of agreement information for sentiment classification of political transcripts	-5	1.2
+sentiment classification	integrating intra- and inter-document evidences for improving sentence sentiment classification	-3	1.375
+sentiment classification	text sentiment classification based on phrase patterns	-5	1.1
+sentiment classification	sentiment classification of movie reviews using multiple perspectives	-5	1.1
+sentiment classification	text sentiment classification research based on semantic comprehension	-3	1.25
+sentiment classification	sentiment classification using genetic algorithm and conditional random fields	-3	1.25
+sentiment classification	a method of text sentiment classification based on weighted rough membership	-2	1.2857142857
+sentiment classification	a non-syntactic approach for text sentiment classification with stopwords	-2	1.2857142857
+sentiment classification	snippet-based unsupervised approach for sentiment classification of chinese online reviews	-2	1.2857142857
+sentiment classification	developing evaluation model of topical term for document-level sentiment classification	-5	1.1
+sentiment classification	sentiment classification with support vector machines and multiple kernel functions	-4	1.1111111111
+sentiment classification	imbalanced sentiment classification with multi-strategy ensemble learning	-2	1.2857142857
+sentiment classification	a kernel-based sentiment classification approach for chinese sentences	-4	1.1111111111
+sentiment classification	a case-based approach to cross domain sentiment classification	-1	1.3333333333
+sentiment classification	sentiment classification in persian: introducing a mutual information-based method for feature selection	0	1.4
+sentiment classification	wikipedia based semantic smoothing for twitter sentiment classification	0	1.4
+sentiment classification	extracting features for sentiment classification: in the perspective of statistical natural language processing	-1	1.3333333333
+sentiment classification	nebular: a sentiment classification system for the tourism business	-2	1.1428571429
+sentiment classification	sentiment classification using semantic features extracted from wordnet-based resources	-2	1.1428571429
+sentiment classification	research on sentiment classification problem of sino-japanese relations forum	-6	0.9090909091
+sentiment classification	affective-word based chinese text sentiment classification	-2	1.1428571429
+sentiment classification	feature subsumption for sentiment classification in multiple languages	-3	1.125
+sentiment classification	a case-based approach to cross domain sentiment classification	-1	1.3333333333
+sentiment classification	recognizing contextual valence shifters in document-level sentiment classification	-2	1.1428571429
+sentiment classification	suicide note sentiment classification: a supervised approach augmented by web data	-1	1.1666666667
+sentiment classification	sentiment classification in persian: introducing a mutual information-based method for feature selection	0	1.2
+sentiment classification	improving document-level sentiment classification using contextual valence shifters	-1	1.1666666667
+sentiment classification	improving document-level sentiment classification using contextual valence shifters	-1	1.1666666667
+sentiment classification	spectral clustering-based semi-supervised sentiment classification	-1	1.1666666667
+sentiment classification	featured based sentiment classification for hotel reviews using nlp and bayesian classification	-1	1.1666666667
+sentiment classification	heterogeneous ensemble learning for chinese sentiment classification	-1	1.1666666667
+sentiment classification	revised mutual information approach for german text sentiment classification	0	1.2
+sentiment classification	sentiment classification using machine learning techniques with syntax features	3	42.5
+sentiment classification	cross-domain sentiment classification using sentiment sensitive embeddings	3	33.5
+sentiment classification	coooolll: a deep learning system for twitter sentiment classification	1	16.75
+sentiment classification	learning sentiment-specific word embedding for twitter sentiment classification	1	58
+sentiment classification	document modeling with gated recurrent neural network for sentiment classification	2	36
+sentiment classification	adaptive recursive neural network for target-dependent twitter sentiment classification	1	21
+sentiment classification	sentiment classification: the contribution of ensemble learning	1	15.75
+sentiment classification	target-dependent twitter sentiment classification with rich automatic features	2	11
+sentiment classification	harnessing wordnet senses for supervised sentiment classification.	1	10
+sentiment classification	a multi-label classification based approach for sentiment classification	2	9
+sentiment classification	swisscheese at semeval-2016 task 4: sentiment classification using an ensemble of convolutional neural networks with distant supervision	3	13.5
+sentiment classification	learning semantic representations of users and products for document level sentiment classification	2	14.3333333333
+sentiment classification	lifelong learning for sentiment classification	2	5
+sentiment classification	aspect level sentiment classification with deep memory network	3	7
+sentiment classification	tasc:topic-adaptive sentiment classification on dynamic tweets	2	5.6666666667
+sentiment classification	multilingual twitter sentiment classification: the role of human annotators	3	7.5
+sentiment classification	context-sensitive twitter sentiment classification using neural network	3	8.5
+sentiment classification	effective lstms for target-dependent sentiment classification	3	7
+sentiment classification	do users rate or review?: boost phrase-level sentiment labeling with review-level sentiment classification	1	4.25
+sentiment classification	do users rate or review?: boost phrase-level sentiment labeling with review-level sentiment classification	1	4
+sentiment classification	combination of active learning and self-training for cross-lingual sentiment classification with density analysis of unlabelled samples	2	5
+sentiment classification	neural sentiment classification with user and product attention	3	5
+sentiment classification	sentiment classification of online reviews: using sentence-based language model	1	3.5
+sentiment classification	a statistical parsing framework for sentiment classification	1	3.75
+sentiment classification	attention-based lstm for aspect-level sentiment classification	3	4.5
+sentiment classification	sentiment classification of online political discussions: a comparison of a word-based and dependency-based method	1	3
+sentiment classification	adversarial deep averaging networks for cross-lingual sentiment classification	3	5
+sentiment classification	enhanced twitter sentiment classification using contextual information	2	3.6666666667
+sentiment classification	sentiment classification on polarity reviews: an empirical study using rating-based features	1	2.75
+sentiment classification	personalized sentiment classification based on latent individuality of microblog users	2	3.6666666667
+sentiment classification	improving twitter sentiment classification using topic-enriched multi-prototype word embeddings	3	4
+sentiment classification	detecting adverse drug reactions using a sentiment classification framework	1	2.75
+sentiment classification	pos-rs: a random subspace method for sentiment classification based on part-of-speech analysis	2	3.6666666667
+sentiment classification	bi-view semi-supervised active learning for cross-lingual sentiment classification	1	2.75
+sentiment classification	bi-view semi-supervised active learning for cross-lingual sentiment classification	1	2.5
+sentiment classification	learning bilingual sentiment word embeddings for cross-language sentiment classification	2	3
+sentiment classification	aspect level sentiment classification with deep memory network	3	3.5
+sentiment classification	different feature selection for sentiment classification	1	2.25
+sentiment classification	a hybrid approach for sentiment classification of egyptian dialect tweets	2	2.6666666667
+sentiment classification	an ensemble sentiment classification system of twitter data for airline services analysis	3	3.5
+sentiment classification	an empirical study on sentiment classification of chinese review using word embedding	2	3
+sentiment classification	impact of feature selection techniques for tweet sentiment classification	2	2.6666666667
+sentiment classification	machine learning and lexicon based methods for sentiment classification: a survey	2	3
+sentiment classification	simpler is better? lexicon-based ensemble sentiment classification beats supervised methods	1	2.25
+sentiment classification	a comparative analysis of opinion mining and sentiment classification in non-english languages	1	2.25
+sentiment classification	a fuzzy logic based sentiment classification	1	2
+sentiment classification	collaborative multi-domain sentiment classification	3	3
+sentiment classification	chinese sentiment classification using a neural network tool — word2vec	1	2
+sentiment classification	an ensemble sentiment classification system of twitter data for airline services analysis	2	2.3333333333
+sentiment classification	sentiment classification in under-resourced languages using graph-based semi-supervised learning methods	1	1.75
+sentiment classification	enhancing machine-learning methods for sentiment classification of web data	1	1.75
+sentiment classification	cross-lingual sentiment classification using multiple source languages in multi-view semi-supervised learning	1	2
+sentiment classification	a comparative performance evaluation of neural network based approach for sentiment classification of online reviews	3	3
+sentiment classification	a sentiment classification model based on multiple classifiers	4	5
+sentiment classification	sentiment classification technology based on markov logic networks	3	2.5
+sentiment classification	polarity shifting for romanian sentiment classification	3	2.5
+sentiment classification	twise at semeval-2016 task 4: twitter sentiment classification	3	2.5
+sentiment classification	enhancing machine-learning methods for sentiment classification of web data	1	1.75
+sentiment classification	hybrid deep belief networks for semi-supervised sentiment classification	1	1.75
+sentiment classification	study on feature selection and machine learning algorithms for malay sentiment classification	2	2
+sentiment classification	combination of multi-view multi-source language classifiers for cross-lingual sentiment classification	1	1.75
+sentiment classification	sentiment classification of online political discussions	1	1.5
+sentiment classification	sentiment classification using enhanced contextual valence shifters	1	1.5
+sentiment classification	twitter sentiment classification for measuring public health concerns	2	2
+sentiment classification	semantic orientation approach for sentiment classification	1	1.5
+sentiment classification	sentitfidf – sentiment classification using relative term frequency inverse document frequency	1	1.5
+sentiment classification	density based active self-training for cross-lingual sentiment classification	1	1.5
+sentiment classification	using unsupervised information to improve semi-supervised tweet sentiment classification	3	2
+sentiment classification	cached long short-term memory neural networks for document-level sentiment classification	3	2
+sentiment classification	combination of multi-view multi-source language classifiers for cross-lingual sentiment classification	1	1.5
+sentiment classification	unimelb at semeval-2016 tasks 4a and 4b: an ensemble of neural networks and a word2vec based model for sentiment classification	3	2
+sentiment classification	sentiment classification based on latent dirichlet allocation	2	1.6666666667
+sentiment classification	sentiment classification techniques for arabic language: a survey	3	2
+sentiment classification	structured microblog sentiment classification via social context regularization	3	2
+sentiment classification	sentiment classification of online political discussions: a comparison of a word-based and dependency-based method	2	1.6666666667
+sentiment classification	extreme learning machine for multi-class sentiment classification of tweets	3	2
+sentiment classification	chinese microblog sentiment classification based on convolution neural network with content extension method	2	1.6666666667
+sentiment classification	comparative analysis of effect of stopwords removal on sentiment classification	3	2
+sentiment classification	jointly learning bilingual sentiment and semantic representations for cross-language sentiment classification	4	4
+sentiment classification	sentiment classification using subjective and objective views	1	1.25
+sentiment classification	target-dependent sentiment classification with long short term memory	2	1.6666666667
+sentiment classification	cross-domain sentiment classification via topical correspondence transfer	2	1.6666666667
+sentiment classification	role of emotion icons in sentiment classification of arabic tweets	1	1.25
+sentiment classification	fuzzy sentiment membership determining for sentiment classification	2	1.6666666667
+sentiment classification	applying three-way decisions to sentiment classification with sentiment uncertainty	1	1.25
+sentiment classification	applying three-way decisions to sentiment classification with sentiment uncertainty	1	1.25
+sentiment classification	facebook users relationships analysis based on sentiment classification	1	1.25
+sentiment classification	a comparative study of feature selection and machine learning algorithms for arabic sentiment classification	1	1.25
+sentiment classification	sentiment classification: an approach for indian language tweets using decision tree	2	1.3333333333
+sentiment classification	sentiment classification: an approach for indian language tweets using decision tree	2	1.3333333333
+sentiment classification	microblog sentiment classification with contextual knowledge regularization	2	1.3333333333
+sentiment classification	semi-stacking for semi-supervised sentiment classification	2	1.3333333333
+sentiment classification	lcct: a semi-supervised model for sentiment classification	2	1.3333333333
+sentiment classification	feature selection for sentiment classification using matrix factorization	2	1.3333333333
+sentiment classification	distributional correspondence indexing for cross-lingual and cross-domain sentiment classification	3	1.5
+sentiment classification	enhanced sentiment classification of telugu text using ml techniques.	3	1.5
+sentiment classification	transfer learning for cross-lingual sentiment classification with weakly shared deep neural networks	3	1.5
+sentiment classification	learning sentence embeddings with auxiliary tasks for cross-domain sentiment classification	3	1.5
+sentiment classification	leveraging large amounts of weakly supervised data for multi-language sentiment classification	4	3
+sentiment classification	sentiment classification of hinglish text	3	1.5
+sentiment classification	modeling rich contexts for sentiment classification with lstm	3	1.5
+sentiment classification	role of emotion icons in sentiment classification of arabic tweets	1	1
+sentiment classification	sentiment classification of chinese online reviews: a comparison of factors influencing performances	3	1.5
+sentiment classification	a novel deep learning architecture for sentiment classification	3	1.5
+sentiment classification	domain-specific sentiment classification via fusing sentiment knowledge from multiple sources	4	3
+sentiment classification	slangsd: building and using a sentiment dictionary of slang words for short-text sentiment classification	3	1.5
+sentiment classification	a comparative study of feature selection and machine learning algorithms for arabic sentiment classification	1	1
+sentiment classification	sentiment classification based on as-lda model	1	1
+sentiment classification	sentiment classification based on lda using smo classifier	2	1
+sentiment classification	twitter sentiment classification using machine learning techniques for stock markets	2	1
+sentiment classification	a survey of sentiment classification techniques used for indian regional languages	2	1
+sentiment classification	aspect-level cross-lingual sentiment classification with constrained smt	2	1
+sentiment classification	diegolab: an approach for message-level sentiment classification in twitter	2	1
+sentiment classification	jeam: a novel model for cross-domain sentiment classification based on emotion analysis	2	1
+sentiment classification	a subspace learning framework for cross-lingual sentiment classification with partial parallel data	2	1
+sentiment classification	learning document embeddings by predicting n-grams for sentiment classification of long movie reviews	2	1
+sentiment classification	harnessing consumer reviews for marketing intelligence: a domain-adapted sentiment classification approach	2	1
+sentiment classification	online and semi-online sentiment classification	2	1
+sentiment classification	multi-dimensional sentiment classification in online learning environment	2	1
+sentiment classification	cross-domain sentiment classification-feature divergence, polarity divergence or both?	2	1
+sentiment classification	word sense disambiguation based sentiment lexicons for sentiment classification	3	1
+sentiment classification	boost phrase-level polarity labelling with review-level sentiment classification	2	1
+sentiment classification	cached long short-term memory neural networks for document-level sentiment classification	3	1
+sentiment classification	harnessing consumer reviews for marketing intelligence: a domain-adapted sentiment classification approach	2	1
+sentiment classification	twitter sentiment classification using naive bayes based on trainer perception	3	1
+sentiment classification	convolutional neural networks for sentiment classification and quantification	3	1
+sentiment classification	attention-based lstm network for cross-lingual sentiment classification	3	1
+sentiment classification	deep belief networks with feature selection for sentiment classification	4	2
+sentiment classification	cufe at semeval-2016 task 4: a gated recurrent model for sentiment classification	3	1
+sentiment classification	stem at semeval-2016 task 4: applying active learning to improve sentiment classification	3	1
+sentiment classification	unlocking super bowl insights: weighted word embeddings for twitter sentiment classification	3	1
+sentiment classification	leveraging latent sentiment constraint in probabilistic matrix factorization for cross-domain sentiment classification ☆	3	1
+sentiment classification	sentiment classification using comprehensive attention recurrent models	3	1
+sentiment classification	cross-lingual sentiment classification with stacked autoencoders	3	1
+sentiment classification	text topic mining based on sentiment classification	3	1
+sentiment classification	efficient twitter sentiment classification using subjective distant supervision	4	2
+sentiment classification	linguistically regularized lstms for sentiment classification	4	2
+sentiment classification	sentiment classification by a hybrid method of greedy search and multinomial naïve bayes algorithm	1	0.75
+sentiment classification	senti.ue: tweet overall sentiment classification approach for semeval-2014 task 9	1	0.75
+sentiment classification	persentiment: a personalized sentiment classification system for microblog users	3	1
+sentiment classification	sentiment classification at the time of the tunisian uprising: machine learning techniques applied to a new corpus for arabic language	1	0.75
+sentiment classification	insight-1 at semeval-2016 task 4: convolutional neural networks for sentiment classification and quantification	3	1
+sentiment classification	sentiment classification analysis of chinese microblog network	2	0.6666666667
+sentiment classification	lexicon based approach for sentiment classification of user reviews	1	0.5
+sentiment classification	research of unbalance sentiment classification based on denoising autoencoders	1	0.5
+sentiment classification	sentrep: sentiment classification of movie reviews using efficient repetitive pre-processing	1	0.5
+sentiment classification	semantic weight-based naive bayesian algorithm for text sentiment classification	1	0.5
+sentiment classification	pre-processing online financial text for sentiment classification: a natural language processing approach	1	0.5
+sentiment classification	a comparison of the effect of feature selection and balancing strategies upon the sentiment classification of portuguese news stories	1	0.5
+sentiment classification	sentiment lexicon interpolation and polarity estimation of objective and out-of-vocabulary words to improve sentiment classification on microblogging	1	1
+sentiment classification	sentiment classification of unstructured data using lexical based techniques	2	0.6666666667
+sentiment classification	a common subspace construction method in cross-domain sentiment classification	2	0.6666666667
+sentiment classification	co-training for semi-supervised sentiment classification based on dual-view bags-of-words representation	2	0.6666666667
+sentiment classification	exploiting dependency relations for sentence level sentiment classification using svm	2	0.6666666667
+sentiment classification	physiological signals based day-dependence analysis with metric multidimensional scaling for sentiment classification in wearable sensors	2	0.6666666667
+sentiment classification	sentiment classification using principal component analysis based neural network model	2	0.6666666667
+sentiment classification	entity-specific sentiment classification of yahoo news comments	2	0.6666666667
+sentiment classification	a sentiment classification algorithm of chinese comments based on multi features fusion	2	0.6666666667
+sentiment classification	using stylometric features for sentiment classification	2	0.6666666667
+sentiment classification	sentiment classification analysis of chinese microblog network	2	0.6666666667
+sentiment classification	topic-dependent sentiment classification on twitter	2	0.6666666667
+sentiment classification	sentiment classification analysis of chinese microblog network	2	0.6666666667
+sentiment classification	uyghur text sentiment classification based on discriminative keyword model	1	0.5
+sentiment classification	lexicon based approach for sentiment classification of user reviews	1	0.5
+sentiment classification	research of unbalance sentiment classification based on denoising autoencoders	1	0.5
+sentiment classification	sentrep: sentiment classification of movie reviews using efficient repetitive pre-processing	1	0.5
+sentiment classification	machine learning algorithms for opinion mining and sentiment classification	1	0.5
+sentiment classification	semantic weight-based naive bayesian algorithm for text sentiment classification	1	0.5
+sentiment classification	pre-processing online financial text for sentiment classification: a natural language processing approach	1	0.5
+sentiment classification	a comparison of the effect of feature selection and balancing strategies upon the sentiment classification of portuguese news stories	1	0.5
+sentiment classification	sentiment classification in hindi	1	0.5
+sentiment classification	sentiment classification of news articles	1	0.5
+sentiment classification	sentiment classification of chinese reviews in different domain: a comparative study	1	0.5
+sentiment classification	semi-supervised sentiment classification with self-training on feature subspaces	1	0.5
+sentiment classification	artfsc – average relative term frequency sentiment classification	1	0.5
+sentiment classification	low-resource cross-domain product review sentiment classification based on a cnn with an auxiliary large-scale corpus	4	1
+sentiment classification	cross-domain sentiment classification via topic-related tradaboost	4	1
+sentiment classification	linguistically regularized lstm for sentiment classification	4	1
+sentiment classification	from opinion lexicons to sentiment classification of tweets and vice versa: a transfer learning approach	4	1
+sentiment classification	particle swarm optimization-based feature selection in sentiment classification	3	0.5
+sentiment classification	word embeddings and convolutional neural network for arabic sentiment classification	3	0.5
+sentiment classification	a deep neural architecture for sentence-level sentiment classification in twitter social networking	4	1
+sentiment classification	uofl at semeval-2016 task 4: multi domain word2vec for twitter sentiment classification	3	0.5
+sentiment classification	yzu-nlp team at semeval-2016 task 4: ordinal sentiment classification using a recurrent convolutional network	3	0.5
+sentiment classification	lys at semeval-2016 task 4: exploiting neural activation values for twitter sentiment classification and quantification	3	0.5
+sentiment classification	sentiment classification based on domain prediction	3	0.5
+sentiment classification	a new method for sentiment classification on weibo	3	0.5
+sentiment classification	sentiment classification of consumer-generated online reviews using topic modeling	4	1
+sentiment classification	deep neural network for short-text sentiment classification	3	0.5
+sentiment classification	study of sentiment classification for chinese microblog based on recurrent neural network	3	0.5
+sentiment classification	a teaching evaluation method based on sentiment classification	3	0.5
+sentiment classification	sting algorithm used english sentiment classification in a parallel environment	4	1
+sentiment classification	data properties and the performance of sentiment classification for electronic commerce applications	4	1
+sentiment classification	building thesaurus lexicon using dictionary-based approach for sentiment classification	3	0.5
+sentiment classification	a comparative study of feature selection and machine learning methods for sentiment classification on movie data set	2	0.3333333333
+sentiment classification	review-level sentiment classification with sentence-level polarity correction	2	0.3333333333
+sentiment classification	hybrid model based sentiment classification of chinese micro-blog	2	0.3333333333
+sentiment classification	no sentiment is an island: sentiment classification on medical forums	2	0.3333333333
+sentiment classification	sentiment classification with graph sparsity regularization	2	0.3333333333
+sentiment classification	sentiment classification for turkish twitter feeds using lda	3	0.5
+sentiment classification	sentiment classification for unlabeled dataset using doc2vec with jst	3	0.5
+sentiment classification	a new sentiment classification method based on hybrid classification in twitter	3	0.5
+sentiment classification	an ensemble method for unbalanced sentiment classification	3	0.5
+sentiment classification	hierarchical micro-blog sentiment classification based on feature fusion	3	0.5
+sentiment classification	cross-lingual sentiment classification: similarity discovery plus training data adjustment	3	0.5
+sentiment classification	improving twitter sentiment classification via multi-level sentiment-enriched word embeddings	3	0.5
+sentiment classification	adding cnns to the mix: stacking models for sentiment classification	4	1
+sentiment classification	swatcs65: sentiment classification using an ensemble of class projects	2	0.3333333333
+sentiment classification	cross-domain text sentiment classification based on grouping-adaboost ensemble	2	0.3333333333
+sentiment classification	sentence sentiment classification using fuzzy word matching combined with fuzzy sentiment classifier	2	0.3333333333
+sentiment classification	fine grained sentiment classification of customer reviews using computational intelligent technique	2	0.3333333333
+sentiment classification	a survey of machine learning techniques for sentiment classification	2	0.3333333333
+sentiment classification	sentiment classification of roman-urdu opinions using navie baysian, decision tree and knn classification techniques	2	0.3333333333
+sentiment classification	a feature selection model based on genetic rank aggregation for text sentiment classification	2	0.3333333333
+sentiment classification	content-specific unigrams and syntactic phrases to enhance sentiwordnet based sentiment classification	2	0.3333333333
+sentiment classification	using feature selection in combination with ensemble learning techniques to improve tweet sentiment classification performance	2	0.3333333333
+sentiment classification	improving sentiment classification accuracy of financial news using n-gram approach and feature weighting methods	2	0.3333333333
+sentiment classification	sentiment classification of portuguese news headlines	2	0.3333333333
+sentiment classification	documentmodeling with convolutional-gated recurrent neural network for sentimentclassification	2	0.3333333333
+sentiment classification	a method for user sentiment classification using instagram hashtags	2	0.3333333333
+sentiment classification	an combined sentiment classification system for sighan-8	2	0.3333333333
+sentiment classification	an improved k-nearest-neighbor algorithm using genetic algorithm for sentiment classification	2	0.3333333333
+sentiment classification	a comparative study of feature selection and machine learning methods for sentiment classification on movie data set	2	0.3333333333
+sentiment classification	review-level sentiment classification with sentence-level polarity correction	2	0.3333333333
+sentiment classification	hybrid model based sentiment classification of chinese micro-blog	2	0.3333333333
+sentiment classification	no sentiment is an island: sentiment classification on medical forums	2	0.3333333333
+sentiment classification	sentiment classification with graph sparsity regularization	2	0.3333333333
+sentiment classification	personality based public sentiment classification in microblog	2	0.3333333333
+sentiment classification	a survey of sentiment classification techniques	2	0.3333333333

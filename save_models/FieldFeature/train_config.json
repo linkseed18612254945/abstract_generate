@@ -1,0 +1,26 @@
+{
+  "model_name": "FieldFeature",
+  "data_name": "littleChinese_train",
+  "train_with_one_batch": true,
+  "use_char":false,
+
+  "batch_size" : 64,
+  "hidden_size": 256,
+  "n_layers" : 1,
+  "learning_rate" : 0.0001,
+  "attn_model" : "dot",
+  "decoder_start": "field",
+  "max_seq_length": 60,
+  "with_pos": false,
+
+  "dropout" : 0.1,
+  "clip" : 50.0,
+  "teacher_forcing_ratio" : 0.8,
+  "decoder_learning_ratio" : 5.0,
+
+  "print_every" : 5,
+  "save_every" : 5,
+
+  "feature_choice": {"position" : false, "year" : false, "institution": false, "field": false, "cites": false},
+  "n_epochs" : 1000
+}

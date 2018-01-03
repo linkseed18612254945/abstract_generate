@@ -1,0 +1,349 @@
+Topic: Machine Translation
+Title: active learning with fast-forward connections model into statistical network improves statistical network for translation
+Generate: the way for statistical machine translation. neural network language model has been widely observed based word in both translation, where larger of words in both translation directions. as a larger strategy of arbitrary and other sources, which can be differently observed that require not only improves the translation productivity. therefore, however, the two models, namely classblind, observed our method obtains outperforms the previous methods one to select their respective additional data. we release our empirical study we evaluate an existing machine translation. the best results on the nist chineseenglish task of wmt and englishfrench translation. this process are designed to select all different information from the space of the art results.
+Year: 2014    Authority: 11
+
+Topic: Machine Translation
+Title: integrating the 15th verb wait: training and phrase-based decoding for phrase-based statistical machine based
+Generate: larger phrasebased statistical machine translation (smt). we investigate the use between statistical machine translation. in statistical mt alignment models. we show that a sequence for phrasebased statistical machine translation. we explore the effectiveness of the training and reordering features. that are more than normalizing translated by using maximum entropy classifier on integrating these and an ngrambased translation of source and reordering features. we also show how for training nmt systems were significant improvements over the stateoftheart mt system based on moses shows that osm the assumption that osm the main model or more features, which are more than those generated using this improvement by better translation tasks. we also compare the reordering model can be used to tune mt than those pairs for each source and the target side
+Year: 2014    Authority: 10
+
+Topic: Machine Translation
+Title: knowledge-based for phrase-based machine translation
+Generate: the toolkit is a free/opensource natural language is used for initializing in translation quality, for machine translation,
+Year: 2014    Authority: 10
+
+Topic: Machine Translation
+Title: nematus: a toolkit for vocabulary attention-based neural network improves neural in statistical machine translation.
+Generate: in this paper presents the decoder in a neural network translation models outperform a background of lowresource language pairs show the proposed model should focus on all or trained improvements in the translation quality when compared with the potential of recurrent networks and achieves stateoftheart performance on all or require in the nist lstm chineseenglish chineseenglish alignment translation is an improvement over our model can achieve significant gains for each word and translation performance. our results on the wmt'14 englishtofrench task show that it is not only using one of our models trained on the translation task. our enhanced model outperforms the best conventional model and the previous work on wmt'15 englishgerman over stateoftheart experiments and when applied in the translation quality when trained on the stateoftheart mt system. we also compare with very substantial amount of source and target languages. we propose a mixed encoder using an attention model to be translated. based with a positive decoder outperform the stateoftheart mt system. we also show based approaches to be trained endtoend. different information using the standard phrasebased network translation model. experiments on both training data and translation quality. our resulting improvement on all our experiments show the proposed model yields further improvements over stateoftheart phrasebased models.
+Year: 2017    Authority: 26
+
+Topic: Machine Translation
+Title: transfer neural language models to machine translation: darpa translation theory
+Generate: reacttext 526 and machine translation (mt) of online systems have to a neural network translation model for higher faithfulness with smt by several hundred in the same image. in a framework for samples for modeling. we also report smt to address this paper is not make an extrinsic evaluation for the concept we discuss our rationalization technique that it is a difficult framework that exploits overlapping evaluation and also for each source language with a simple agent method with the same target language pairs czech–english, other time the first difficult a few for czech, finnish,  /reacttext [show integration of the same time in a given which is being employed in the form probable of a language model on the web, social distance, and the concept within electronic text to be carried out at the same time, and it is not make a specification of the translation process at least an image output into the same accuracy as the input between either or more than 2 million sentence and their own features were obtained by 0.7 points.
+Year: 2016    Authority: 12
+
+Topic: Machine Translation
+Title: neural versus language machine translation. quality using enhanced decoder
+Generate: reacttext 343 in machine translation. the first pass. able for fully conceptual language pairs. instead, the major medical in the translation process in the form parallel corpus for training neural mt based on the common crawl corpus.
+Year: 2016    Authority: 13
+
+Topic: Machine Translation
+Title: neural reranking for neural machine translation
+Generate: in this way, this memoryenhanced synthesis of facial animation of neural machine translation (nmt) by adding an attentionbased neural machine translation. as by machine translation. however, in recent years. we show an effective approach towards incorporating nmt models, namely our attention mechanism has been shown trained over the encoder (bahdanau learns for each source sentence to improve nmt. we propose to improve nmt models as a single cpu model by temporal unknown bleu on chineseenglish translation has only groundhog by generating a phrase baseline and nmt model to translate large data selection show that the decoder can keep neural mt models as words that in a sentence simultaneously compared by up as input without any of lowresource languages. we also show both the nmt model on a stateoftheart nmt system.
+Year: 2016    Authority: 13
+
+Topic: Machine Translation
+Title: nematus: multilingual neural machine translation
+Generate: we propose a neural machine translation. this finetuning is useful for source words which can achieve significant improvements over the neural machine translation model and the target language, words. our approach achieves better than bleu points are translated by the target language, and (2) a single attention model, for the wmt task and faster training, or batchlevel vocabulary in the same dataset. our approach is still very large vocabularies with the source language is performed with very small language pairs. ensembling and syntax better than... than previous significant improvements over stateoftheart nmt and the other sentence. this is not only exploit the monolingual data is constrained by both both tasks from the same and the target language, but also in the germanenglish lstm wmt of the art show that the proposed method achieves better than pivotbased translation and reordering on the translation quality significantly over both wmt directions and even beats the best conventional system and then with four language pairs and (2) performed on both chineseenglish and chineseenglish translation tasks.
+Year: 2017    Authority: 28
+
+Topic: Machine Translation
+Title: transfer neural network for statistical translation model in machine translation: controlling at translation
+Generate: in this paper, we propose an approach for neural machine translation, to neural machine translation. in which a neural machine translation model by restricting a stateoftheart neural machine translation. the best results show that, by 1.61 on two languages. we show that the proposed approach enables stateoftheart performance for rare words and english — a number of candidate translation units to translate a large type/token do significantly better than stateoftheart performance for lowresource translation quality. in order in order to improve the translation quality on a large number of the representation of the previous space as the two model. as well with wrappers over stateoftheart smt and neural machine translation.
+Year: 2016    Authority: 12
+
+Topic: Machine Translation
+Title: a recursive character-level neural network for neural language model based phrase alignment
+Generate: in this paper, we focus on two different models suffer from previous work in neural machine translation. in this paper, we propose a comprehensive method to generate parallel data from closelyrelated sentences from comparable corpora. we propose to incorporate global image features based with the bilingual training data. experiments on multiple features of source words while the target language pairs show the model is trained with up to build internal stateaction for document or require concepts by examining bleu score by 1.61 on multiple translations of the same or more than just are not make all easy to be extracted from any data. our specifically designed to generate bleu and unknown source words by using multiple phrase over the recently proposed method can achieve good translation tasks.
+Year: 2016    Authority: 12
+
+Topic: Machine Translation
+Title: knowledge-based answering joint training model into statistical network for statistical machine translation
+Generate: in statistical machine translation. we build two reordering model to integrate phrasebased and hierarchical neural machine translation. we explore the gap of statistical machine translation (smt). with larger ngram translation from source text by a larger sequence model that significantly improves other quality estimation word reordering occur in smt. the model is used for smt, in smt. however, different reorderings according to the pda sequence has been shown used to train systems and show that this corpora had not been not been used in smt. the model represents a linear sequence of operations. the gap in smt.
+Year: 2015    Authority: 10
+
+Topic: Machine Translation
+Title: proceedings training for domain adaptation of statistical machine translation. models for automatic evaluation
+Generate: this paper describes the evaluation between one or more de correlation with other automatic metrics such that there has been addressed than those implementations such as these measures perform release less approaches that clarifies results in this paper, however, the vast development to address the framework of such the vast set to address this poses the problem is that is one of the most salient one techniques (linear designed at the segmentand at one human evaluation campaign to select it differ we propose a new type of statistical mt metrics for automatic translation and framework that clarifies mt evaluation (e.g., using the systemlevel. rather of two different characteristics for automatic translation and implementation of the rhetorical framework had not make two different evaluated during human scores for each sentence in accordance with a stateoftheart phrasebased machine translation system. experiments demonstrate the proposed framework that employ two system scores for arbitrary evaluation campaign at human evaluation at least that are concatenated into two times in the human other hand, we also show that machine translation. when compared with a stateoftheart evaluation measure, human correlation between the two systems across sentences.
+Year: 2014    Authority: 8
+
+Topic: Machine Translation
+Title: integrating the 15th sequence generative machine in statistical framework
+Generate: neural network language models that learn from a source sentence by adding an smt system. in this paper we present a method with no parallel data for neural network translation models with the same language models have a method with a statistical translation model. that can be easily used to generate parallel corpus with the statistical engine in the statistical network on a stateoftheart neural machine translation.
+Year: 2015    Authority: 10
+
+Topic: Machine Translation
+Title: is phrase-based machine translation components by explicit segmentation
+Generate: this paper describes it is possible into a new framework that learn not been fully segmentation to determine whether word reordering component of the encoder in smt. the results show that a single characterlevel encoder across the iwslt parallel corpus, and the distribution component for the task evaluation.
+Year: 2016    Authority: 11
+
+Topic: Machine Translation
+Title: is character-level neural language professionals language model models in statistical translation
+Generate: reacttext 371 in statistical mt in statistical mt systems usually takes as producing translation results, we investigate the use between natural languages.
+Year: 2016    Authority: 10
+
+Topic: Machine Translation
+Title: a shared attention modeling
+Generate: this paper describes these and human requirements, how models for predicting the choice in which the first pass. to their own individual upon our approach has not been more than one should use of multimodal smt performed on other pronouns. to train a stateoftheart phrasebased statistical mt system based based on two types of smt and test bleu on the nist test baseline.
+Year: 2016    Authority: 10
+
+Topic: Machine Translation
+Title: a recursive recurrent coverage neural machine translation: controlling into a statistical
+Generate: in this paper, we maintain an opensource nmt framework towards the main challenge architecture into an important aspects of statistical machine translation. our approach encourages the smt (smt) by integrating the generation of translation quality when compared to the neural network joint models suffer from previous work, the framework into a stateoftheart phrasebased machine translation. nmt. we propose to incorporate different information step. namely it outperformed no insight that, as additional data pair. integrated as a linear program, our framework achieves penalty of the same training programmes, within our approach appears into the decoder into a stateoftheart smt system.
+Year: 2016    Authority: 11
+
+Topic: Machine Translation
+Title: transfer neural machine translation: computational and data
+Generate: we propose an approach to learn for training neural language models for translation task to build the same language is to a new language model and for which the core idea behind is to be translated. that is the two methods to build a monolingual corpus that the model can obtain reduce our system by participating with a characterlevel neural machine translation. in this work, synthesis of different modalities. does not require the monolingual corpora for each sentence or the core contribution of a translation and smt system.
+Year: 2016    Authority: 10
+
+Topic: Machine Translation
+Title: improving statistical translation machine machine translation and rare common theory non-parallel languages
+Generate: we propose an effective approach for a source sentence for phrase substitution and language pairs. in a simulated of a language model for the source sentence. the proposed model can achieve significant to select using the target language is used for a translation of the target language pairs and the form is translated with a very small number at each of our model is used for a language pair and more specific using english and finnish the bilingual correspondence
+Year: 2007    Authority: 37
+
+Topic: Machine Translation
+Title: large alignment models to improve for statistical translation metrics machine translation.
+Generate: this article is a method that automatically automatically stateofthe art in translation quality. it allows to train two different preprocessing for training data machine translation. in this paper, we propose an analysis to use a new model for language pairs of the existing machine translation. we automatically extract an unsupervised approach to the unsupervised learning techniques to produce outputs information is used to the translation hypothesis space for each source language is to the most used for translation quality in the context of edinburgh and its quality estimation based on the error rate data is used in particular, three language pairs show the key space is to select the translation task can obtain a language pair and also show that the use between two languages. in a general domain error rate. experiments on all data are used to all language pairs. we also show that it can be trained trained to the iwslt 14 task show an improvement level. in terms of bleu score and test the most used in both automatic and translation quality for both translation and test increase on all translation quality.
+Year: 2007    Authority: 35
+
+Topic: Machine Translation
+Title: machine translation: detailed presentation and skip-bigram statistics.
+Generate: in which we develop a first method for machine translation.
+Year: 1994    Authority: 22
+
+Topic: Machine Translation
+Title: large a beam search decoder for statistical machine translation.
+Generate: this paper describes the new translation model is used for a statistical machine translation based on synchronous tree functions based translation model that is based on data in the context between a phrasebased decoder with explicit segmentation techniques in the context of translation quality in a sentence is a bitext the decoder is shown to be used for the translation process are based on a synchronous tree based with a characterlevel decoder with the translation model is used to generate sentences and the target language is to a new domain adaptation for each word and phrase table in terms of translation quality in a source sentence and a stateoftheart decoder in the context of translation quality.
+Year: 2013    Authority: 49
+
+Topic: Machine Translation
+Title: large a beam search decoder model for statistical translation model segmentation
+Generate: the authors between source and source language model into a stateoftheart statistical machine translation. a phrasebased baseline on all parallel texts in a characterlevel decoder on a source sentence. a characterlevel phrasebased decoder on a phrasebased decoder on all language pairs.
+Year: 2013    Authority: 49
+
+Topic: Machine Translation
+Title: batch source code with phrase reordering constraints in statistical translation
+Generate: phrasebased machine translation systems are used in analyzing a statistical models for phrasebased statistical machine translation systems for a phrasebased decoder is designed and to produce a linear topic structure to the source sentence. is based in the two joint models enables the decoder to translate a source language documents, to translate oov words. in an appropriate way, we also specialize the two model to use a linear topic structure for the statistical machine translation system.
+Year: 2013    Authority: 49
+
+Topic: Machine Translation
+Title: a comparison training and statistical network statistical in statistical language machine based metrics for paraphrase
+Generate: in this paper presents the problem is largely largely largely largely largely largely largely adaptation that are able by using generalized especially of the art language model are still limited by using generalized in smt. we propose a new approach is based on the iwslt data. we can achieve any word representations, and then ask that are trained with a subwordlevel encoder and a characterlevel translation model based on the nist task we show that word models that are then used that are trained using two different explicit segmentation? with the test corpus as any of multiple information show an improvement of it,
+Year: 2002    Authority: 28
+
+Topic: Machine Translation
+Title: discriminative training and phrase constraints for statistical translation
+Generate: a statistical machine translation (mt) system is used to a phrasebased translation is modeled with phrase lexica, in the same spirit between two tasks of the source language is to select the translation quality of a translation task and also show how for training and translation outputs can also provide an extension of a translation of a sentence in translation quality is to produce translations of the extracted features in the training data.
+Year: 2002    Authority: 26
+
+Topic: Machine Translation
+Title: confidence entropy translation from / word in statistical machine based segmentation
+Generate: the way for chineseenglish models have shown to be comparable corpora in recent years. in recent years. in this paper, we present an efficient and method for integrating the use between natural language pairs of such a phrasebased statistical translation models that use translation quality that is comparable to new parameters from a source language pair and a stateoftheart phrasebased statistical machine translation systems based on word alignment models are trained trained with a characterlevel decoder outperform the stateoftheart mt system. this model, we evaluate an existing phrasebased statistical models with a subwordlevel encoder and also gives stateoftheart phrasebased system.
+Year: 2009    Authority: 34
+
+Topic: Machine Translation
+Title: syntax approaches in hmm translation for multiple statistical machine translation.
+Generate: in statistical machine translation. this issue from a mixture between two parts, and also that 1) it is shown that it can improve by the amount of source sentence, the bilingual data.
+Year: 2005    Authority: 30
+
+Topic: Machine Translation
+Title: a new approach model reordering statistical statistical machine translation.
+Generate: in this paper, introduces we present an efficient alignment information, in contrast to a phrasebased network based translation model. experiments show that our models trained translation quality when compared with a stateoftheart translation model. experiments show that the proposed method achieves better translation quality on the europarl corpus in terms in translation quality. our approach achieves stateoftheart performance in smt.
+Year: 2005    Authority: 28
+
+Topic: Machine Translation
+Title: improving evaluation methodology machine translation. using paraphrases common for optimizer subsequence using related
+Generate: in this paper, a method with no machine translation. a language model for each sentence in a second natural language model may be needed. the use in which improved the same information in the context of the target language pairs and more given a target sides, and more more more than multitask items are presented.
+Year: 2007    Authority: 31
+
+Topic: Machine Translation
+Title: batch hierarchical statistical machine translation using structural subsequence
+Generate: this article is the use in statistical mt is based with no explicit coverage embedding for statistical network translation and translation quality.
+Year: 2012    Authority: 37
+
+Topic: Machine Translation
+Title: improving statistical translation machine translation quality a formal chart chart parsing
+Generate: in which the target language is necessary with no of source and syntactic dependency parsing to do bilingual phrase table in a time, parsing to the translation component is a classifier that is input with a bilingual corpus,
+Year: 2004    Authority: 27
+
+Topic: Machine Translation
+Title: standardizing tweets directions using evaluation methodology
+Generate: this article is an evaluation methodology that the reason that use automatic evaluation metrics for english and human correlation at least
+Year: 2014    Authority: 2
+
+Topic: Machine Translation
+Title: the operation decoder to improve arabic-english statistical translation english machine translation.
+Generate: this paper presents an approach to accomplish their respective statistical models for runtime or more detail. we took this paper presents a new method is driven by contrast, a new domain of the university of edinburgh and their sentencelevel and speed of human scores based on noise translation pairs. we have achieved remarkable individual translation quality. our main submissions to the shared task show that it can substantially substantially substantially substantially increased features. human scores for each language pairs. in this paper we also compare them with no significant gains in both automatic and translation quality when used with smt to produce evaluation metrics.
+Year: 2016    Authority: 3
+
+Topic: Machine Translation
+Title: an empirical comparison methodology and crowd-sourcing for prefix-constrained statistical network
+Generate: in this paper presents an approach to build a neural network language model with the ted corpus based word reordering is trained on a language model and the johns amount of the university component by the features. which are more successful than all created for a subset of a language model and for the same corpus in a given this challenge has recently shown to adapt in the world鈥檚 communities by the interest of this is to select the existing approaches on a set agent method can also include all tokens by using automatic metrics of different preparations and compare and efficiency. despite these effects hold on the common baseline. this problem, we release several approaches depends on two different types of translation quality. our approach are not have the new model to select the new evaluation of neural machine translation. our results indicate can also provide stateoftheart evaluation campaign, and a large variety and free strategies for neural network translation models trained on smt frameworks and using our 2013 system for four label could one that the new features. the most methods for integrating phrasebased statistical mt systems.
+Year: 2016    Authority: 3
+
+Topic: Machine Translation
+Title: statistical translation system, translation system, the world wide web as machine translation.
+Generate: this article is used to produce techniques for domain adaptation is that are used for domain adaptation, which are used frequently in which are able for conceptual language pairs of crosslingual ir. our approach is based with human evaluations.
+Year: 2004    Authority: 10
+
+Topic: Machine Translation
+Title: statistical machine translation : dictionaries
+Generate: machine translation systems and use a translation engine which uses natural and bilingual text input. we apply a new framework for integrating the task has proven for a translation component of the source language is used in the form of treelet from a text input is received to the user is a preferred in the form of a total of translation outputs through a plurality for each source text and using the expanded search query being the generated test set by a plurality of candidate translations from the same search query to a target sentence is not one to produce receiving from the text input.
+Year: 2003    Authority: 10
+
+Topic: Machine Translation
+Title: word-dependent transition models with application in statistical language models machine translation.
+Generate: [en] selection has recently gained integrated have to learn a new class for constructing nmt. we propose a novel learning approach to a new domain while monolingual corpora for the international workshop on statistical machine translation.
+Year: 2010    Authority: 10
+
+Topic: Machine Translation
+Title: translation communication system, example-based translation to machine translation.
+Generate: this book book is researching developed less such scenarios. is based with human judgments cost for computational translation. we demonstrate that the techniques developed has been returned the most salient important developed for computational linguistics. machine translation,
+Year: 1998    Authority: 6
+
+Topic: Machine Translation
+Title: statistical translation with multi-lingual translation to machine translation
+Generate: this challenge was identified to learn minimum error surface translators is less techniques (morphological integration estimation of machine translation (smt). however, which are developed by combining the major factors have to pave the benefits of arabicenglish this challenge was observed of edinburgh,  /reacttext [more]  reacttext 453  /reacttext [show mechanisms involved in order to date. combining the relationship between natural languages, through three steps. is less prone to produce pure a blind test language im we describe an approach to the integration between two language pairs was pertoken accuracy as the ranking of both at both the university of edinburgh,
+Year: 2005    Authority: 8
+
+Topic: Machine Translation
+Title: word-sense disambiguation for statistical translation machine based
+Generate: in this paper presents an effective sense of statistical models in translation accuracy, usability, in statistical translation quality that has shown great word level and syntax features into a phrasebased translation task is still far from references and syntactic collocations by exploit improved translation. in this paper, introduces we show that a sequence of source sentence topics or after translations from a phrase level coherence models can be used to produce generated from a phrase table based on two main document level.
+Year: 2007    Authority: 9
+
+Topic: Machine Translation
+Title: statistical framework in phrase-based statistical machine translation
+Generate: this paper presents a method for language sentence length. this opportunity to estimate mt from a source sentence is selected. a translation is that operations. a phrasal translation task. second, we also show that both translation units models with linear reordering structure is less structure of the phrasal translation quality when used determines which allows its model that osm both reordering units of both the translation task.
+Year: 2002    Authority: 7
+
+Topic: Machine Translation
+Title: statistical machine translation: an presentation guide solution
+Generate: the problem in contrast to the same natural language is combined as a deep lstm network architecture has been used for openvocabulary translation,
+Year: 2004    Authority: 8
+
+Topic: Machine Translation
+Title: applying morphology generation using language modelling in example-based translation
+Generate: this work is observed successfully existing machine translation. this approach differs is subject of language models are used frequently for translation and promising translation quality in translation systems. scaling neural machine translation across two optional across language pairs. however, the major integration between words and its benefits and foreignlanguage elements. with the aim set.
+Year: 2008    Authority: 9
+
+Topic: Machine Translation
+Title: statistical machine translation with inferred stochastic stochastic grammatical channel
+Generate: this paper presents the problem in detail which the application of two questions to transform the context of statistical machine translation. in this paper, however, we present a new domain (here problem is used for statistical machine translation. this paper is used for both translation quality and pronoun prediction, based and investigate different models as a (relatively) free test improve the space of edinburgh to our earlier models and a source language. experiments on the test document
+Year: 2007    Authority: 9
+
+Topic: Machine Translation
+Title: active an empirical comparison estimation for phrase-based statistical machine translation.
+Generate: this article is the most of statistical models in translation quality. our approach is the bilingual parallel corpora for this task and we discuss the way for phrasebased statistical machine translation in statistical machine translation are still for training phrasebased smt and can achieve good on translation quality on the europarl corpus based on the translation task in translation quality in statistical machine translation with the existing approaches are subject into most parallel data in the medical we also compare our models trained with human evaluation used as well as additional data. we show that an smt system. experiments on largescale training data show that our method can be carried out in a testing range of it, we use the decoder on two different domains in a given human corpus.
+Year: 2011    Authority: 10
+
+Topic: Machine Translation
+Title: machine learning and telecommunications system for transfer-driven using interlingual machine translation
+Generate: a computer computer framework enables enables semantic information about the identified elements with human translators is required, to it is presented.
+Year: 1997    Authority: 4
+
+Topic: Machine Translation
+Title: machine translation: an investigation of the fourth workshop
+Generate: in statistical mt is based on an unfamiliar programming of these systems.
+Year: 2009    Authority: 7
+
+Topic: Machine Translation
+Title: a finite-state of example-based using language machine translation
+Generate: while endtoend neural machine translation. that maximizes other natural languages. in this paper, describes it consists is robust selection of language processing. we investigate how techniques to enable word grammars are able of natural language barriers. this paper examines it consists into an important aim in order that enables integrating when used in order to leverage abundant lexical selection are shown that it is approached from the major noncollagenous proteins first, as that are able by projecting a valuable space to support the identified language. we investigate the efficacy of slovene increased rate and arabictoenglish techniques can pinpoint release which engage knowledge. no mt is designed into english and chinese. our framework is explored that enables us to translate an extrinsic mt is to reconstruct an extra case at once. a result, (2) a metric mum
+Year: 2003    Authority: 5
+
+Topic: Machine Translation
+Title: maxsim: reordering constraints and a dynamic semantics approach machine learning to automatically rank building low resource
+Generate: in this paper presents an approach for machine translation (mt) in machine translation.
+Year: 2007    Authority: 6
+
+Topic: Machine Translation
+Title: machine translation: an introductory introductory for europe
+Generate: this paper presents an overview of one or more than form is an important tool by several machine translation are disclosed. by the social field of the social social world or after university of edinburgh and the johns domain. the most important of the most of the most of such as translation of previously  /reacttext [show full ]
+Year: 2006    Authority: 6
+
+Topic: Machine Translation
+Title: statistical translation engines: translation for multiple machine translation: an overview estimation
+Generate: this paper presents an important for smt. we propose a new type for machine translation (smt) that are trained on two language pairs of such as translation, we propose a direct approach to this process but also that do not require those features, such as translation performance. we propose to this problem, a new framework is not decreased, and no machine translation. we can transform the highest contribution is that are able to train prediction quality is that are not require any preprocessing or require related to overcome this work are then able with possible domains. two main problems should be easily used in particular, three new content component to have estimate machine translation. this can arise easily easily simultaneously of the same corpus. we show that this problem has been addressed outperforms the major correlation with human evaluations. we can obtain then estimate the ability to estimate mt evaluation campaign, which can produce not have two groups rather than just those that are not require those extracted like the same like estimate each component component than those according into the first time is necessary to make address our results show that, as a baseline.
+Year: 2001    Authority: 5
+
+Topic: Machine Translation
+Title: maxsim: using discourse semantics for machine translation
+Generate: this problem is not been observed that do not been previously progress in recent years, collected of science with large training data selection problems for machine translation has been shown promising on various test in several language model and we explore different wordlevel monolingual data is done to this problem, there are method are able shown to semantic similarity and robust translation quality for mt.
+Year: 2007    Authority: 6
+
+Topic: Machine Translation
+Title: maxsim: and crowd-sourcing model vs. statistical machine translation: machine translation: computational exploitation
+Generate: in this paper, we present a comprehensive fundamental that operation, contrast for combining language pairs of such the aim was used in addition, the last corpus. the last between the social research
+Year: 2009    Authority: 7
+
+Topic: Machine Translation
+Title: machine translation system
+Generate: a system for performing translation system includes a plurality of a source unit, the system to a second natural language. in this paper, we propose a new document, pairs, with a crosslanguage elements must with a bilingual correspondence rate for each sentence or more computer program interacts with an expanded system combination. allows to be determined
+Year: 2006    Authority: 6
+
+Topic: Machine Translation
+Title: 462 language model growing to in statistical translation
+Generate: recent research has shown promising translation models are used to learn syntactic information from a standard domain adaptation. statistical mt is still available, where we present a novel neural network models that learn from source and target contexts, release especially more specifically of the two optional framework. a linear space in which a stateoftheart likelihood we show that our main contribution is greater with an existing mt evaluation criteria experimental results on various levels of up to address the problem of pda increase retrieval between two optional to compute phrasal translation quality on various quality of two different domains when use more more more more more more more more than all outperforms both phrasebased statistical mt models and also several different models produced less system.
+Year: 2009    Authority: 7
+
+Topic: Machine Translation
+Title: machine translation and system
+Generate: the approach is being returned transmission/reception from the same program have the first time for storing translation and window out processing, and japanese mappings of electronic or japanese bilingual data, and japanese translators include in machine translation, with a crosslanguage eigen language.
+Year: 1999    Authority: 4
+
+Topic: Machine Translation
+Title: the use and apparatus and apparatus in statistical machine based example-based
+Generate: the problem of two translation, models able by applying the selection of source and target language models are able to machine translation tasks.
+Year: 1990    Authority: 3
+
+Topic: Machine Translation
+Title: machine learning a method for europe machine translation: parameter recognition
+Generate: in this paper, we present an approach for information first, the same program have not have been used for reducing the representation into mt to the first text error for chineseenglish chineseenglish translation of a machine translation system. this task is largely disappears on smaller corpus.
+Year: 1997    Authority: 4
+
+Topic: Machine Translation
+Title: the lrc machine translation: detailed past, future
+Generate: this paper describes it is critical to have not have designed, but that are not require their individual machine translation tasks for machine translation across mt could be carried out to identify mt to have two limitations, we introduce an attempt framework that can help not make the way for english, the lrc machine translation. we can be able by applying the 'purest vary and conceptual translators. translation, however, we argue that the first time have methods that can be easily developed for lexical w. and slocum, out of research but also we demonstrate for machine translation across lexical techniques to support lexical w. and assessed for mt evaluation measures, which have not have been developed assessed for translations out are assessed in an exactly experiments will be taken into account the approach to avoid other mt evaluation metrics. this provides we propose an important tool for each of the case in particular, three metrics through the inclusion is an analysis is that can not have two different mt to have first design that are assessed for conceptual machine translation could could their specific developed by the case here in order as an analysis component of the abovementioned research is evaluated the need to the last mt quality is evaluated the exploitation is that can be differently largely out to have not require related to mt translations are then evaluated the first time have not have two different mt across the techniques is largely out into two different outputs, can not make the first work was need its techniques have been implemented in contrast to mt out are presented. three not make an important corpus.
+Year: 1994    Authority: 4
+
+Topic: Machine Translation
+Title: machine translation: an overview evaluation estimation
+Generate: we propose a new approach to identify mt that can be presented. we can arise extends one should not have designed, metrics, weight to identify nist, are presented. we also provide several correlation to be metrics, that are identify in two discourseaware certain measures, the systemlevel. of such as correlation between two languages.
+Year: 1992    Authority: 3
+
+Topic: Machine Translation
+Title: the lrc machine translation system: linguistics system
+Generate: we propose a method for correcting spelling based on computers record written and the window written in the same file which can choose written by assigning the requested or email identifications assigned to the clipboard, assigned of a display unit, the translation job queue, a crosslanguage eigen record subsystem section is revised in the form database management, a display unit,
+Year: 1992    Authority: 3
+
+Topic: Machine Translation
+Title: maxsim: and crowd-sourcing to for arabic-english statistical translation machine based
+Generate: we propose to enhance statistical models that uses maximum the approach to learn word representations, learning techniques (linear able to employ syntaxbased machine translation. in which a source language. experiments demonstrate that pdas not be handled shown that enables its model or require knowledge of the translation quality when compared on the test language.
+Year: 2008    Authority: 7
+
+Topic: Machine Translation
+Title: maxsim: and maximum similarity with statistical translation framework models for statistical machine translation.
+Generate: this article is that is able with bilingual document aims to enhance translation quality. our model has been addressed by humans for phrasebased smt. we propose to enhance our statistical machine translation (smt) that allows from the bilingual parallel corpora is used for 7 information based translation for smt.
+Year: 2008    Authority: 7
+
+Topic: Machine Translation
+Title: statistical network example-based language models in machine translation
+Generate: this challenge is provided. it is not able to express politeness, data selection for computational language modeling and machine translation. in recent work aims to select submodular a deep topology of depth a...   /reacttext [show full ]
+Year: 2005    Authority: 6
+
+Topic: Machine Translation
+Title: generation-heavy a domain? corpora corpora corpora for statistical translation machine translation
+Generate: in this paper presents an analysis of the toolkit can be used in the transduction problem and did not have been used for dialectal arabic importance has shown that the toolkit can enable lexical domain adaptation presented has been observed in order for syntax. we also explore several domain adaptation. we describe two main drawbacks is required, into account the operation in order is that enables can be valuable translated to be mostly driven for various ways are presented. such scenarios. we present a new domain (here application of arabicenglish (+1.05) where we use in knowledge syntactic language pairs are presented. the application of arabicenglish statistical ma chine translation tasks to the test corpus which is shown that especially for english translation, multilevel presented for computational linguistics.this task are presented improvements from a range between natural language pairs, are presented. based on nine agents additionally, no alignment between two subproblems (a) lexical features. 1
+Year: 2003    Authority: 5
+
+Topic: Machine Translation
+Title: the candide method for example-based using interlingual translation transfer-driven to select dictionaries
+Generate: machine translation engine is stored dictionary database from japanese written from a receiving database interface, is transformed against the first natural text input. dictionary dictionary dictionary management could indicative indicative written indicative of two text processing are disclosed. in machine translation,
+Year: 1982    Authority: 2
+
+Topic: Machine Translation
+Title: machine translation system
+Generate: a computer program t2s together to clarify translation is a client memory to clarify written in a computer, of the client computer database transmission/reception and the other memory area for storing translation of the bilingual texts, data through a crosslanguage elements queue, it includes an englishtojapanese or japanese in a respective pattern is assembled. japanese
+Year: 2001    Authority: 5
+
+Topic: Machine Translation
+Title: cross-lingual coherence on reordering approaches to improve statistical network statistical translation
+Generate: the paper presents the use of statistical ma chine translation systems submitted with the same natural language. in this paper we investigate different ways to fill three kinds of words in both tasks and their quality compared to all mt metrics and in translation quality, and russian and health on arabic corpora was features into two language models and 2) english, reordering or in translation quality when combined with the abovementioned evaluation metrics. we empirically show that an approach to the abovementioned training corpus is relational of the same information from the source text, and their postedited to date. the abovementioned research community, which are obtained into two different ways to produce modified message and calculated it allows us to use bilingual data related to the gnu model, and this architecture includes initial translation, and present the abovementioned research pair, and also that the abovementioned wmt results are used for bleu and 2) three types and interactive moses has been used by 2.64.6 models to accomplish the abovementioned and target language, but show an additional signal to the content, we empirically demonstrate that the potential combined model for runtime estimation and robustness to each error of urinary pronouns from a standard network task.
+Year: 2010    Authority: 7
+
+Topic: Machine Translation
+Title: machine translation system
+Generate: a machine translator with the bilingual correspondence translation memory written by grounding translation and translation theoretically in the translation of the natural languages, are identified. a plurality for performing language processing.
+Year: 2003    Authority: 5

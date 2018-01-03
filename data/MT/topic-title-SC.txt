@@ -1,0 +1,470 @@
+sentiment classification	sentiment classification using machine learning techniques	-11	363.5625
+sentiment classification	biographies, bollywood, boomboxes and blenders: domain adaptation for sentiment classification	-6	129.3636363636
+sentiment classification	twitter sentiment classification using distant supervision	-4	145.8888888889
+sentiment classification	sentiment classification of movie reviews using contextual valence shifters	-3	83
+sentiment classification	domain adaptation for large-scale sentiment classification: a deep learning approach	-2	84.8571428571
+sentiment classification	target-dependent twitter sentiment classification	-2	79.7142857143
+sentiment classification	cross-domain sentiment classification via spectral feature alignment	-3	46.375
+sentiment classification	co-training for cross-lingual sentiment classification	-4	42.6666666667
+sentiment classification	dependency tree-based sentiment classification using crfs with hidden variables	-3	31.875
+sentiment classification	comparative experiments on sentiment classification for online product reviews	-7	30.3333333333
+sentiment classification	sentiment classification of online reviews to travel destinations by supervised machine learning approaches	-4	36.7777777778
+sentiment classification	sentiment classification on customer feedback data: noisy data, large feature vectors, and the role of linguistic analysis	-8	35.7692307692
+sentiment classification	using emoticons to reduce dependency in machine learning techniques for sentiment classification	-4	51.5555555556
+sentiment classification	sentiment classification of reviews using sentiwordnet	-4	22.5555555556
+sentiment classification	document-level sentiment classification: an empirical comparison between svm and ann	0	35.6
+sentiment classification	ensemble of feature sets and classification algorithms for sentiment classification	-2	31.4285714286
+sentiment classification	feature ensemble plus sample selection: domain adaptation for sentiment classification	0	29.4
+sentiment classification	topic sentiment analysis in twitter: a graph-based hashtag sentiment classification approach	-2	30.8571428571
+sentiment classification	a non-negative matrix tri-factorization approach to sentiment classification with lexical prior knowledge	-4	18.6666666667
+sentiment classification	cross-domain sentiment classification using a sentiment sensitive thesaurus	0	24.8
+sentiment classification	sentiment classification for movie reviews in chinese by improved semantic oriented approach	-7	13
+sentiment classification	a lexicon-enhanced method for sentiment classification: an experiment on online product reviews	-3	17.375
+sentiment classification	automatic seed word selection for unsupervised sentiment classification of chinese text	-5	14.6
+sentiment classification	employing personal/impersonal views in supervised and semi-supervised sentiment classification	-3	16.5
+sentiment classification	adapting a polarity lexicon using integer linear programming for domain-specific sentiment classification	-4	15.6666666667
+sentiment classification	sentiment classification using phrase patterns	-9	9.1428571429
+sentiment classification	sentiment classification and polarity shifting	-3	13.25
+sentiment classification	semi-supervised learning for imbalanced sentiment classification.	-7	10
+sentiment classification	selecting attributes for sentiment classification using feature relation networks	-2	16.4285714286
+sentiment classification	multi-level structured models for document-level sentiment classification	-3	15
+sentiment classification	adding redundant features for crfs-based sentence sentiment classification	-5	12.4
+sentiment classification	multi-domain adaptation for sentiment classification: using multiple classifier combining methods	-4	12.5555555556
+sentiment classification	automatically extracting polarity-bearing topics for cross-domain sentiment classification.	-2	13.2857142857
+sentiment classification	mine the easy, classify the hard: a semi-supervised approach to automatic sentiment classification	-4	12.6666666667
+sentiment classification	using multiple sources to construct a sentiment sensitive thesaurus for cross-domain sentiment classification	-2	13.8571428571
+sentiment classification	multi-domain sentiment classification	-5	8.1
+sentiment classification	mining sentiment classification from political web logs	-7	7.1666666667
+sentiment classification	sentiment classification of internet restaurant reviews written in cantonese	-2	12.5714285714
+sentiment classification	selc:a self-supervised model for sentiment classification	-4	8.6666666667
+sentiment classification	fast and accurate sentiment classification using an enhanced naive bayes model	0	12.8
+sentiment classification	a neural network based approach for sentiment classification in the blogosphere	-2	10.5714285714
+sentiment classification	automatically extracting polarity-bearing topics for cross-domain sentiment classification	-2	12
+sentiment classification	multi-domain sentiment classification	-5	7.6
+sentiment classification	sentiment classification based on supervised latent n-gram analysis	-2	9.7142857143
+sentiment classification	sentiment classification based on supervised latent n-gram analysis	-1	10.3333333333
+sentiment classification	chinese sentence-level sentiment classification based on fuzzy sets	-3	8.625
+sentiment classification	scalable sentiment classification for big data analysis using naïve bayes classifier	0	10.8
+sentiment classification	cross lingual adaptation: an experiment on sentiment classifications.	-3	8.75
+sentiment classification	active deep learning method for semi-supervised sentiment classification	0	11.2
+sentiment classification	are sentiwordnet scores suited for multi-domain sentiment classification?	-4	8.3333333333
+sentiment classification	effectiveness of simple linguistic processing in automatic sentiment classification of product reviews	-9	5.9285714286
+sentiment classification	sentiment analysis of movie reviews: a new feature-based heuristic for aspect-level sentiment classification	0	10.8
+sentiment classification	sentiment classification based on supervised latent n-gram analysis	-2	9
+sentiment classification	joint bilingual sentiment classification with unlabeled parallel corpora.	-2	9.2857142857
+sentiment classification	sentiment classification for chinese reviews: a comparison between svm and semantic approaches	-8	5.7692307692
+sentiment classification	chinese sentence-level sentiment classification based on sentiment morphemes	-3	8.25
+sentiment classification	active deep networks for semi-supervised sentiment classification	-3	8.25
+sentiment classification	active deep networks for semi-supervised sentiment classification.	-3	8
+sentiment classification	experimental study on sentiment classification of chinese review using machine learning techniques	-6	6.8181818182
+sentiment classification	analysis of different approaches to sentence-level sentiment classification	0	9.8
+sentiment classification	weakly supervised techniques for domain-independent sentiment classification	-4	7.6666666667
+sentiment classification	sentiment classification of movie and product reviews using contextual valence shifters	-7	5.8333333333
+sentiment classification	sentiment classification for chinese reviews: a comparison between svm and semantic approaches	-8	5.3846153846
+sentiment classification	sentiment classification using sentence-level semantic orientation of opinion terms from blogs	-1	8.3333333333
+sentiment classification	sentiment classification using sentence-level lexical based semantic orientation of online reviews	-2	7.1428571429
+sentiment classification	chinese sentence-level sentiment classification based on sentiment morphemes	-3	7.75
+sentiment classification	learning to shift the polarity of words for sentiment classification	-5	6.5
+sentiment classification	using objective words in sentiwordnet to improve word-of-mouth sentiment classification	0	8.6
+sentiment classification	a feature selection method based on fisher’s discriminant ratio for text sentiment classification	-2	8.4285714286
+sentiment classification	using a contextual entropy model to expand emotion words and their intensity for the sentiment classification of stock market news	0	9
+sentiment classification	domain-specific sentiment classification	0	7.8
+sentiment classification	cross-lingual mixture model for sentiment classification	0	7.2
+sentiment classification	active learning for cross-domain sentiment classification	0	7.4
+sentiment classification	harnessing wordnet senses for supervised sentiment classification	-2	6
+sentiment classification	knowledge transformation for cross-domain sentiment classification	-4	5.8888888889
+sentiment classification	exploring the use of word relation features for sentiment classification.	-3	5.625
+sentiment classification	sample cutting method for imbalanced text sentiment classification based on brc	0	6.8
+sentiment classification	using objective words in sentiwordnet to improve word-of-mouth sentiment classification	0	7.2
+sentiment classification	mine the easy, classify the hard: a semi-supervised approach to automatic sentiment classification	-4	5.1111111111
+sentiment classification	sentiment classification using the theory of anns	-3	5.25
+sentiment classification	sentiment classification for chinese news using machine learning methods	-6	4.3636363636
+sentiment classification	multi-domain sentiment classification with classifier combination	-2	5.5714285714
+sentiment classification	active learning for imbalanced sentiment classification	-1	5.8333333333
+sentiment classification	active learning for cross-lingual sentiment classification	0	6.6
+sentiment classification	bilingual co-training for sentiment classification of chinese product reviews	-2	5.7142857143
+sentiment classification	sentirank: cross-domain graph ranking for sentiment classification	-4	4.6666666667
+sentiment classification	sentiment classification of customer reviews based on fuzzy logic	-3	4.75
+sentiment classification	opinion mining and sentiment classification: a survey	-1	5.5
+sentiment classification	sentiment classification using automatically extracted subgraph features	-3	4.25
+sentiment classification	research on language modeling based sentiment classification of text	-6	3.6363636364
+sentiment classification	sentirank: cross-domain graph ranking for sentiment classification	-4	4.4444444444
+sentiment classification	use of negation phrases in automatic sentiment classification of product reviews	-8	3.5384615385
+sentiment classification	sentiment vector space model for lyric-based song sentiment classification	-5	3.8
+sentiment classification	incorporating lexicon knowledge into svm learning to improve sentiment classification	0	6
+sentiment classification	a feature selection method based on fisher’s discriminant ratio for text sentiment classification	-4	3.8888888889
+sentiment classification	sentiment classification techniques for tracking literary reputation	-7	3.0833333333
+sentiment classification	sentiment classification using rough set based hybrid feature selection	0	4.8
+sentiment classification	a new method for sentiment classification in text retrieval	-8	2.8461538462
+sentiment classification	sentiment classification through combining classifiers with multiple feature sets	-6	3.1818181818
+sentiment classification	document sentiment classification by exploring description model of topical terms	-2	4.4285714286
+sentiment classification	sentiment classification from online customer reviews using lexical contextual sentence structure	-2	4.1428571429
+sentiment classification	bilingual co-training for sentiment classification of chinese product reviews	-2	4.1428571429
+sentiment classification	research on sentiment classification of chinese reviews based on supervised machine learning techniques	-6	3.1818181818
+sentiment classification	an empirical study to address the problem of unbalanced data sets in sentiment classification	-1	4.6666666667
+sentiment classification	a new method for sentiment classification in text retrieval	-8	2.6923076923
+sentiment classification	sentence based sentiment classification from online customer reviews	-3	3.75
+sentiment classification	comment target extraction and sentiment classification	-3	3.625
+sentiment classification	adaptive co-training svm for sentiment classification on tweets	0	4.4
+sentiment classification	sentiment classification from online customer reviews using lexical contextual sentence structure	-2	4.1428571429
+sentiment classification	sentiment classification for chinese reviews using machine learning methods based on string kernel	-5	3
+sentiment classification	an ontology-based sentiment classification methodology for online consumer reviews	-5	3.1
+sentiment classification	monitoring public health concerns using twitter sentiment classifications	0	4.6
+sentiment classification	a hybrid method of feature selection for chinese text sentiment classification	-6	2.9090909091
+sentiment classification	sentiment classification of chinese traveler reviews by support vector machine algorithm	-4	3.1111111111
+sentiment classification	sentiment classification for chinese reviews using machine learning methods based on string kernel	-5	3
+sentiment classification	an ontology-based sentiment classification methodology for online consumer reviews	-5	2.9
+sentiment classification	a two-stage framework for cross-domain sentiment classification	-2	3.7142857143
+sentiment classification	sentiment classification: a lexical similarity based approach for extracting subjectivity in documents	-2	3.5714285714
+sentiment classification	cross-lingual sentiment classification via bi-view non-negative matrix tri-factorization	-2	3.5714285714
+sentiment classification	imbalanced sentiment classification	-2	3.4285714286
+sentiment classification	sentiment classification based on ontology and svm classifier	-3	3.25
+sentiment classification	ensemble learning for sentiment classification	-1	3.6666666667
+sentiment classification	sentiment classification of chinese traveler reviews by support vector machine algorithm	-4	3
+sentiment classification	cross-lingual sentiment classification via bi-view non-negative matrix tri-factorization	-2	3.2857142857
+sentiment classification	is machine translation ripe for cross-lingual sentiment classification?	-2	3.4285714286
+sentiment classification	combining collaborative filtering and sentiment classification for improved movie recommendations	-2	3.4285714286
+sentiment classification	using objective words in sentiwordnet to improve sentiment classification for word of mouth	0	4
+sentiment classification	appraisal expression recognition with syntactic path for sentence sentiment classification	-2	3.2857142857
+sentiment classification	sentiment classification based on ontology and svm classifier	-3	2.75
+sentiment classification	sentiment classification of documents based on latent semantic analysis	-2	3.2857142857
+sentiment classification	sentiment classification for chinese product reviews using an unsupervised internet-based method	-5	2.5
+sentiment classification	ontology based combined approach for sentiment classification	-4	2.5555555556
+sentiment classification	cross-lingual sentiment classification via bi-view non-negative matrix tri-factorization	-2	3.2857142857
+sentiment classification	semantic-oriented sentiment classification for chinese product reviews: an experimental study of book and cell phone reviews	-8	2
+sentiment classification	an unsupervised snippet-based sentiment classification method for chinese unknown phrases without using reference word pairs	-3	2.75
+sentiment classification	identifying high-impact sub-structures for convolution kernels in document-level sentiment classification	-1	3.1666666667
+sentiment classification	augmenting chinese online video recommendations by using virtual ratings predicted by review sentiment classification	-3	2.75
+sentiment classification	verb oriented sentiment classification	-1	3
+sentiment classification	a novel approach to sentiment classification	-6	2.1818181818
+sentiment classification	super parsing:sentiment classification with review extraction	-8	1.9230769231
+sentiment classification	a probabilistic approach to tweets' sentiment classification	0	3.2
+sentiment classification	text mining facebook status updates for sentiment classification	0	3.2
+sentiment classification	sentiment classification by sentence level semantic orientation using sentiwordnet from online reviews and blogs	-2	2.7142857143
+sentiment classification	a review of opinion mining and sentiment classification framework in social networks	-4	2.3333333333
+sentiment classification	identifying high-impact sub-structures for convolution kernels in document-level sentiment classification	-1	3
+sentiment classification	sentiment classification of short chinese sentences	-3	2.5
+sentiment classification	sentiment classification of customer reviews on electric products	-5	2
+sentiment classification	sentiment classification considering negation and contrast transition	-4	2.1111111111
+sentiment classification	domain independent sentiment classification with many lexicons	-2	2.5714285714
+sentiment classification	joint bilingual sentiment classification with unlabeled parallel corpora	-2	2.4285714286
+sentiment classification	text sentiment classification for sns-based marketing using domain sentiment dictionary	-1	2.6666666667
+sentiment classification	ontology based combined approach for sentiment classification	-4	2.1111111111
+sentiment classification	incorporating lexicon knowledge into svm learning to improve sentiment classification	-2	2.4285714286
+sentiment classification	do neighbours help?: an exploration of graph-based algorithms for cross-domain sentiment classification	-1	2.8333333333
+sentiment classification	sentiment classification for indonesian message in social media	-1	2.5
+sentiment classification	cross-domain sentiment classification using a two-stage method	-4	1.8888888889
+sentiment classification	enhancing sentiment classification performance using bi-tagged phrases	0	2.6
+sentiment classification	sentiment classification of movie reviews by supervised machine learning approaches	0	2.6
+sentiment classification	research on sentence sentiment classification based on chinese sentiment word table	-4	2
+sentiment classification	empirical study of sentiment classification for chinese microblog based on machine learning	-1	2.3333333333
+sentiment classification	a new term weighting method by introducing class information for sentiment classification of textual data	-2	2.1428571429
+sentiment classification	sentiment classification approaches – a review	0	2.2
+sentiment classification	robust sense-based sentiment classification	-2	2.1428571429
+sentiment classification	sentiment classification of review documents using phrase patterns	0	2.4
+sentiment classification	data mining for tweet sentiment classification	-1	2.1666666667
+sentiment classification	cross-domain sentiment classification using a two-stage method	-4	1.7777777778
+sentiment classification	a cross-domain adaptation method for sentiment classification using probabilistic latent analysis	-2	2
+sentiment classification	a weakly supervised approach to chinese sentiment classification using partitioned self-training	0	2.4
+sentiment classification	transfer learning using twitter data for improving sentiment classification of turkish political news	0	2.4
+sentiment classification	adaptation and use of subjectivity lexicons for domain dependent sentiment classification	-1	2.1666666667
+sentiment classification	instance selection and instance weighting for cross-domain sentiment classification via pu learning	0	2.4
+sentiment classification	sentiment classification with polarity shifting detection	0	2.2
+sentiment classification	sentiment classification using information extraction technique	-8	1.2307692308
+sentiment classification	sentiment classification method of chinese micro-blog based on emotional knowledge	-1	2
+sentiment classification	improving sentiment classification using feature highlighting and feature bagging	-2	1.8571428571
+sentiment classification	language-independent sentiment classification using three common words	-2	1.8571428571
+sentiment classification	dynamic construction of dictionaries for sentiment classification	0	2.2
+sentiment classification	feature subsumption for sentiment classification of dynamic data in social networks using scddf	-1	2
+sentiment classification	sentiment classification for the italian language: a case study on movie reviews 365 sentiment classification for the italian language: a	-5	1.5
+sentiment classification	bottom up: exploring word emotions for chinese sentence chief sentiment classification	-3	1.75
+sentiment classification	turning online product reviews to customer knowledge: a semantic-based sentiment classification approach	-7	1.3333333333
+sentiment classification	a sentiment classification method for chinese document	-3	1.625
+sentiment classification	sentiment classification with supervised sequence embedding	-1	1.8333333333
+sentiment classification	sentiment classification using information extraction technique	-8	1.2307692308
+sentiment classification	learning sentiment classification model from labeled features	-3	1.625
+sentiment classification	sentiment classification via integrating multiple feature presentations	-1	1.8333333333
+sentiment classification	sentiment classification for chinese reviews based on key substring features	-4	1.5555555556
+sentiment classification	text feature selection for sentiment classification of chinese online reviews	0	2
+sentiment classification	dynamic construction of dictionaries for sentiment classification	0	2
+sentiment classification	sentiment classification for microblog by machine learning	-1	1.8333333333
+sentiment classification	sentiment classification with supervised sequence embedding	-1	1.8333333333
+sentiment classification	weighted scl model for adaptation of sentiment classification	-2	1.5714285714
+sentiment classification	a method of chinese texts sentiment classification based on bayesian algorithm	0	1.8
+sentiment classification	a cross-domain adaptation method for sentiment classification using probabilistic latent analysis	-2	1.7142857143
+sentiment classification	latent sentiment model for weakly-supervised cross-lingual sentiment classification	-2	1.7142857143
+sentiment classification	unsupervised sentiment classification of english movie reviews using automatic selection of positive and negative sentiment items	-3	1.5
+sentiment classification	evaluating the utility of appraisal hierarchies as a method for sentiment classification	-8	1.0769230769
+sentiment classification	sentiment classification for stock news	-2	1.5714285714
+sentiment classification	sentiment classification of online product reviews using product features	-2	1.5714285714
+sentiment classification	a cross-study of sentiment classification on arabic corpora	-1	1.6666666667
+sentiment classification	sentiment classification of chinese online reviews: analysing and improving supervised machine learning	-1	1.6666666667
+sentiment classification	effectiveness of web search results for genre and sentiment classification	-4	1.3333333333
+sentiment classification	turning online product reviews to customer knowledge: a semantic-based sentiment classification approach	-7	1.0833333333
+sentiment classification	sentiment classification with interpolated information diffusion kernels	-6	1.0909090909
+sentiment classification	bounce: sentiment classification in twitter using rich feature sets	0	1.6
+sentiment classification	sentiment classification analysis based on extraction of sentiment key sentence	-1	1.5
+sentiment classification	sentiment classification of drug reviews using a rule-based linguistic approach	-1	1.5
+sentiment classification	an unsupervised approach for sentiment classification	-1	1.5
+sentiment classification	reserved self-training: a semi-supervised sentiment classification method for chinese microblogs	0	1.6
+sentiment classification	using multiple sources of agreement information for sentiment classification of political transcripts	-5	1.2
+sentiment classification	integrating intra- and inter-document evidences for improving sentence sentiment classification	-3	1.375
+sentiment classification	text sentiment classification based on phrase patterns	-5	1.1
+sentiment classification	sentiment classification of movie reviews using multiple perspectives	-5	1.1
+sentiment classification	text sentiment classification research based on semantic comprehension	-3	1.25
+sentiment classification	sentiment classification using genetic algorithm and conditional random fields	-3	1.25
+sentiment classification	a method of text sentiment classification based on weighted rough membership	-2	1.2857142857
+sentiment classification	a non-syntactic approach for text sentiment classification with stopwords	-2	1.2857142857
+sentiment classification	snippet-based unsupervised approach for sentiment classification of chinese online reviews	-2	1.2857142857
+sentiment classification	developing evaluation model of topical term for document-level sentiment classification	-5	1.1
+sentiment classification	sentiment classification with support vector machines and multiple kernel functions	-4	1.1111111111
+sentiment classification	imbalanced sentiment classification with multi-strategy ensemble learning	-2	1.2857142857
+sentiment classification	a kernel-based sentiment classification approach for chinese sentences	-4	1.1111111111
+sentiment classification	a case-based approach to cross domain sentiment classification	-1	1.3333333333
+sentiment classification	sentiment classification in persian: introducing a mutual information-based method for feature selection	0	1.4
+sentiment classification	wikipedia based semantic smoothing for twitter sentiment classification	0	1.4
+sentiment classification	extracting features for sentiment classification: in the perspective of statistical natural language processing	-1	1.3333333333
+sentiment classification	nebular: a sentiment classification system for the tourism business	-2	1.1428571429
+sentiment classification	sentiment classification using semantic features extracted from wordnet-based resources	-2	1.1428571429
+sentiment classification	research on sentiment classification problem of sino-japanese relations forum	-6	0.9090909091
+sentiment classification	affective-word based chinese text sentiment classification	-2	1.1428571429
+sentiment classification	feature subsumption for sentiment classification in multiple languages	-3	1.125
+sentiment classification	a case-based approach to cross domain sentiment classification	-1	1.3333333333
+sentiment classification	recognizing contextual valence shifters in document-level sentiment classification	-2	1.1428571429
+sentiment classification	suicide note sentiment classification: a supervised approach augmented by web data	-1	1.1666666667
+sentiment classification	sentiment classification in persian: introducing a mutual information-based method for feature selection	0	1.2
+sentiment classification	improving document-level sentiment classification using contextual valence shifters	-1	1.1666666667
+sentiment classification	improving document-level sentiment classification using contextual valence shifters	-1	1.1666666667
+sentiment classification	spectral clustering-based semi-supervised sentiment classification	-1	1.1666666667
+sentiment classification	featured based sentiment classification for hotel reviews using nlp and bayesian classification	-1	1.1666666667
+sentiment classification	heterogeneous ensemble learning for chinese sentiment classification	-1	1.1666666667
+sentiment classification	revised mutual information approach for german text sentiment classification	0	1.2
+sentiment classification	sentiment classification using machine learning techniques with syntax features	3	42.5
+sentiment classification	cross-domain sentiment classification using sentiment sensitive embeddings	3	33.5
+sentiment classification	coooolll: a deep learning system for twitter sentiment classification	1	16.75
+sentiment classification	learning sentiment-specific word embedding for twitter sentiment classification	1	58
+sentiment classification	document modeling with gated recurrent neural network for sentiment classification	2	36
+sentiment classification	adaptive recursive neural network for target-dependent twitter sentiment classification	1	21
+sentiment classification	sentiment classification: the contribution of ensemble learning	1	15.75
+sentiment classification	target-dependent twitter sentiment classification with rich automatic features	2	11
+sentiment classification	harnessing wordnet senses for supervised sentiment classification.	1	10
+sentiment classification	a multi-label classification based approach for sentiment classification	2	9
+sentiment classification	swisscheese at semeval-2016 task 4: sentiment classification using an ensemble of convolutional neural networks with distant supervision	3	13.5
+sentiment classification	learning semantic representations of users and products for document level sentiment classification	2	14.3333333333
+sentiment classification	lifelong learning for sentiment classification	2	5
+sentiment classification	aspect level sentiment classification with deep memory network	3	7
+sentiment classification	tasc:topic-adaptive sentiment classification on dynamic tweets	2	5.6666666667
+sentiment classification	multilingual twitter sentiment classification: the role of human annotators	3	7.5
+sentiment classification	context-sensitive twitter sentiment classification using neural network	3	8.5
+sentiment classification	effective lstms for target-dependent sentiment classification	3	7
+sentiment classification	do users rate or review?: boost phrase-level sentiment labeling with review-level sentiment classification	1	4.25
+sentiment classification	do users rate or review?: boost phrase-level sentiment labeling with review-level sentiment classification	1	4
+sentiment classification	combination of active learning and self-training for cross-lingual sentiment classification with density analysis of unlabelled samples	2	5
+sentiment classification	neural sentiment classification with user and product attention	3	5
+sentiment classification	sentiment classification of online reviews: using sentence-based language model	1	3.5
+sentiment classification	a statistical parsing framework for sentiment classification	1	3.75
+sentiment classification	attention-based lstm for aspect-level sentiment classification	3	4.5
+sentiment classification	sentiment classification of online political discussions: a comparison of a word-based and dependency-based method	1	3
+sentiment classification	adversarial deep averaging networks for cross-lingual sentiment classification	3	5
+sentiment classification	enhanced twitter sentiment classification using contextual information	2	3.6666666667
+sentiment classification	sentiment classification on polarity reviews: an empirical study using rating-based features	1	2.75
+sentiment classification	personalized sentiment classification based on latent individuality of microblog users	2	3.6666666667
+sentiment classification	improving twitter sentiment classification using topic-enriched multi-prototype word embeddings	3	4
+sentiment classification	detecting adverse drug reactions using a sentiment classification framework	1	2.75
+sentiment classification	pos-rs: a random subspace method for sentiment classification based on part-of-speech analysis	2	3.6666666667
+sentiment classification	bi-view semi-supervised active learning for cross-lingual sentiment classification	1	2.75
+sentiment classification	bi-view semi-supervised active learning for cross-lingual sentiment classification	1	2.5
+sentiment classification	learning bilingual sentiment word embeddings for cross-language sentiment classification	2	3
+sentiment classification	aspect level sentiment classification with deep memory network	3	3.5
+sentiment classification	different feature selection for sentiment classification	1	2.25
+sentiment classification	a hybrid approach for sentiment classification of egyptian dialect tweets	2	2.6666666667
+sentiment classification	an ensemble sentiment classification system of twitter data for airline services analysis	3	3.5
+sentiment classification	an empirical study on sentiment classification of chinese review using word embedding	2	3
+sentiment classification	impact of feature selection techniques for tweet sentiment classification	2	2.6666666667
+sentiment classification	machine learning and lexicon based methods for sentiment classification: a survey	2	3
+sentiment classification	simpler is better? lexicon-based ensemble sentiment classification beats supervised methods	1	2.25
+sentiment classification	a comparative analysis of opinion mining and sentiment classification in non-english languages	1	2.25
+sentiment classification	a fuzzy logic based sentiment classification	1	2
+sentiment classification	collaborative multi-domain sentiment classification	3	3
+sentiment classification	chinese sentiment classification using a neural network tool — word2vec	1	2
+sentiment classification	an ensemble sentiment classification system of twitter data for airline services analysis	2	2.3333333333
+sentiment classification	sentiment classification in under-resourced languages using graph-based semi-supervised learning methods	1	1.75
+sentiment classification	enhancing machine-learning methods for sentiment classification of web data	1	1.75
+sentiment classification	cross-lingual sentiment classification using multiple source languages in multi-view semi-supervised learning	1	2
+sentiment classification	a comparative performance evaluation of neural network based approach for sentiment classification of online reviews	3	3
+sentiment classification	a sentiment classification model based on multiple classifiers	4	5
+sentiment classification	sentiment classification technology based on markov logic networks	3	2.5
+sentiment classification	polarity shifting for romanian sentiment classification	3	2.5
+sentiment classification	twise at semeval-2016 task 4: twitter sentiment classification	3	2.5
+sentiment classification	enhancing machine-learning methods for sentiment classification of web data	1	1.75
+sentiment classification	hybrid deep belief networks for semi-supervised sentiment classification	1	1.75
+sentiment classification	study on feature selection and machine learning algorithms for malay sentiment classification	2	2
+sentiment classification	combination of multi-view multi-source language classifiers for cross-lingual sentiment classification	1	1.75
+sentiment classification	sentiment classification of online political discussions	1	1.5
+sentiment classification	sentiment classification using enhanced contextual valence shifters	1	1.5
+sentiment classification	twitter sentiment classification for measuring public health concerns	2	2
+sentiment classification	semantic orientation approach for sentiment classification	1	1.5
+sentiment classification	sentitfidf – sentiment classification using relative term frequency inverse document frequency	1	1.5
+sentiment classification	density based active self-training for cross-lingual sentiment classification	1	1.5
+sentiment classification	using unsupervised information to improve semi-supervised tweet sentiment classification	3	2
+sentiment classification	cached long short-term memory neural networks for document-level sentiment classification	3	2
+sentiment classification	combination of multi-view multi-source language classifiers for cross-lingual sentiment classification	1	1.5
+sentiment classification	unimelb at semeval-2016 tasks 4a and 4b: an ensemble of neural networks and a word2vec based model for sentiment classification	3	2
+sentiment classification	sentiment classification based on latent dirichlet allocation	2	1.6666666667
+sentiment classification	sentiment classification techniques for arabic language: a survey	3	2
+sentiment classification	structured microblog sentiment classification via social context regularization	3	2
+sentiment classification	sentiment classification of online political discussions: a comparison of a word-based and dependency-based method	2	1.6666666667
+sentiment classification	extreme learning machine for multi-class sentiment classification of tweets	3	2
+sentiment classification	chinese microblog sentiment classification based on convolution neural network with content extension method	2	1.6666666667
+sentiment classification	comparative analysis of effect of stopwords removal on sentiment classification	3	2
+sentiment classification	jointly learning bilingual sentiment and semantic representations for cross-language sentiment classification	4	4
+sentiment classification	sentiment classification using subjective and objective views	1	1.25
+sentiment classification	target-dependent sentiment classification with long short term memory	2	1.6666666667
+sentiment classification	cross-domain sentiment classification via topical correspondence transfer	2	1.6666666667
+sentiment classification	role of emotion icons in sentiment classification of arabic tweets	1	1.25
+sentiment classification	fuzzy sentiment membership determining for sentiment classification	2	1.6666666667
+sentiment classification	applying three-way decisions to sentiment classification with sentiment uncertainty	1	1.25
+sentiment classification	applying three-way decisions to sentiment classification with sentiment uncertainty	1	1.25
+sentiment classification	facebook users relationships analysis based on sentiment classification	1	1.25
+sentiment classification	a comparative study of feature selection and machine learning algorithms for arabic sentiment classification	1	1.25
+sentiment classification	sentiment classification: an approach for indian language tweets using decision tree	2	1.3333333333
+sentiment classification	sentiment classification: an approach for indian language tweets using decision tree	2	1.3333333333
+sentiment classification	microblog sentiment classification with contextual knowledge regularization	2	1.3333333333
+sentiment classification	semi-stacking for semi-supervised sentiment classification	2	1.3333333333
+sentiment classification	lcct: a semi-supervised model for sentiment classification	2	1.3333333333
+sentiment classification	feature selection for sentiment classification using matrix factorization	2	1.3333333333
+sentiment classification	distributional correspondence indexing for cross-lingual and cross-domain sentiment classification	3	1.5
+sentiment classification	enhanced sentiment classification of telugu text using ml techniques.	3	1.5
+sentiment classification	transfer learning for cross-lingual sentiment classification with weakly shared deep neural networks	3	1.5
+sentiment classification	learning sentence embeddings with auxiliary tasks for cross-domain sentiment classification	3	1.5
+sentiment classification	leveraging large amounts of weakly supervised data for multi-language sentiment classification	4	3
+sentiment classification	sentiment classification of hinglish text	3	1.5
+sentiment classification	modeling rich contexts for sentiment classification with lstm	3	1.5
+sentiment classification	role of emotion icons in sentiment classification of arabic tweets	1	1
+sentiment classification	sentiment classification of chinese online reviews: a comparison of factors influencing performances	3	1.5
+sentiment classification	a novel deep learning architecture for sentiment classification	3	1.5
+sentiment classification	domain-specific sentiment classification via fusing sentiment knowledge from multiple sources	4	3
+sentiment classification	slangsd: building and using a sentiment dictionary of slang words for short-text sentiment classification	3	1.5
+sentiment classification	a comparative study of feature selection and machine learning algorithms for arabic sentiment classification	1	1
+sentiment classification	sentiment classification based on as-lda model	1	1
+sentiment classification	sentiment classification based on lda using smo classifier	2	1
+sentiment classification	twitter sentiment classification using machine learning techniques for stock markets	2	1
+sentiment classification	a survey of sentiment classification techniques used for indian regional languages	2	1
+sentiment classification	aspect-level cross-lingual sentiment classification with constrained smt	2	1
+sentiment classification	diegolab: an approach for message-level sentiment classification in twitter	2	1
+sentiment classification	jeam: a novel model for cross-domain sentiment classification based on emotion analysis	2	1
+sentiment classification	a subspace learning framework for cross-lingual sentiment classification with partial parallel data	2	1
+sentiment classification	learning document embeddings by predicting n-grams for sentiment classification of long movie reviews	2	1
+sentiment classification	harnessing consumer reviews for marketing intelligence: a domain-adapted sentiment classification approach	2	1
+sentiment classification	online and semi-online sentiment classification	2	1
+sentiment classification	multi-dimensional sentiment classification in online learning environment	2	1
+sentiment classification	cross-domain sentiment classification-feature divergence, polarity divergence or both?	2	1
+sentiment classification	word sense disambiguation based sentiment lexicons for sentiment classification	3	1
+sentiment classification	boost phrase-level polarity labelling with review-level sentiment classification	2	1
+sentiment classification	cached long short-term memory neural networks for document-level sentiment classification	3	1
+sentiment classification	harnessing consumer reviews for marketing intelligence: a domain-adapted sentiment classification approach	2	1
+sentiment classification	twitter sentiment classification using naive bayes based on trainer perception	3	1
+sentiment classification	convolutional neural networks for sentiment classification and quantification	3	1
+sentiment classification	attention-based lstm network for cross-lingual sentiment classification	3	1
+sentiment classification	deep belief networks with feature selection for sentiment classification	4	2
+sentiment classification	cufe at semeval-2016 task 4: a gated recurrent model for sentiment classification	3	1
+sentiment classification	stem at semeval-2016 task 4: applying active learning to improve sentiment classification	3	1
+sentiment classification	unlocking super bowl insights: weighted word embeddings for twitter sentiment classification	3	1
+sentiment classification	leveraging latent sentiment constraint in probabilistic matrix factorization for cross-domain sentiment classification ☆	3	1
+sentiment classification	sentiment classification using comprehensive attention recurrent models	3	1
+sentiment classification	cross-lingual sentiment classification with stacked autoencoders	3	1
+sentiment classification	text topic mining based on sentiment classification	3	1
+sentiment classification	efficient twitter sentiment classification using subjective distant supervision	4	2
+sentiment classification	linguistically regularized lstms for sentiment classification	4	2
+sentiment classification	sentiment classification by a hybrid method of greedy search and multinomial naïve bayes algorithm	1	0.75
+sentiment classification	senti.ue: tweet overall sentiment classification approach for semeval-2014 task 9	1	0.75
+sentiment classification	persentiment: a personalized sentiment classification system for microblog users	3	1
+sentiment classification	sentiment classification at the time of the tunisian uprising: machine learning techniques applied to a new corpus for arabic language	1	0.75
+sentiment classification	insight-1 at semeval-2016 task 4: convolutional neural networks for sentiment classification and quantification	3	1
+sentiment classification	sentiment classification analysis of chinese microblog network	2	0.6666666667
+sentiment classification	lexicon based approach for sentiment classification of user reviews	1	0.5
+sentiment classification	research of unbalance sentiment classification based on denoising autoencoders	1	0.5
+sentiment classification	sentrep: sentiment classification of movie reviews using efficient repetitive pre-processing	1	0.5
+sentiment classification	semantic weight-based naive bayesian algorithm for text sentiment classification	1	0.5
+sentiment classification	pre-processing online financial text for sentiment classification: a natural language processing approach	1	0.5
+sentiment classification	a comparison of the effect of feature selection and balancing strategies upon the sentiment classification of portuguese news stories	1	0.5
+sentiment classification	sentiment lexicon interpolation and polarity estimation of objective and out-of-vocabulary words to improve sentiment classification on microblogging	1	1
+sentiment classification	sentiment classification of unstructured data using lexical based techniques	2	0.6666666667
+sentiment classification	a common subspace construction method in cross-domain sentiment classification	2	0.6666666667
+sentiment classification	co-training for semi-supervised sentiment classification based on dual-view bags-of-words representation	2	0.6666666667
+sentiment classification	exploiting dependency relations for sentence level sentiment classification using svm	2	0.6666666667
+sentiment classification	physiological signals based day-dependence analysis with metric multidimensional scaling for sentiment classification in wearable sensors	2	0.6666666667
+sentiment classification	sentiment classification using principal component analysis based neural network model	2	0.6666666667
+sentiment classification	entity-specific sentiment classification of yahoo news comments	2	0.6666666667
+sentiment classification	a sentiment classification algorithm of chinese comments based on multi features fusion	2	0.6666666667
+sentiment classification	using stylometric features for sentiment classification	2	0.6666666667
+sentiment classification	sentiment classification analysis of chinese microblog network	2	0.6666666667
+sentiment classification	topic-dependent sentiment classification on twitter	2	0.6666666667
+sentiment classification	sentiment classification analysis of chinese microblog network	2	0.6666666667
+sentiment classification	uyghur text sentiment classification based on discriminative keyword model	1	0.5
+sentiment classification	lexicon based approach for sentiment classification of user reviews	1	0.5
+sentiment classification	research of unbalance sentiment classification based on denoising autoencoders	1	0.5
+sentiment classification	sentrep: sentiment classification of movie reviews using efficient repetitive pre-processing	1	0.5
+sentiment classification	machine learning algorithms for opinion mining and sentiment classification	1	0.5
+sentiment classification	semantic weight-based naive bayesian algorithm for text sentiment classification	1	0.5
+sentiment classification	pre-processing online financial text for sentiment classification: a natural language processing approach	1	0.5
+sentiment classification	a comparison of the effect of feature selection and balancing strategies upon the sentiment classification of portuguese news stories	1	0.5
+sentiment classification	sentiment classification in hindi	1	0.5
+sentiment classification	sentiment classification of news articles	1	0.5
+sentiment classification	sentiment classification of chinese reviews in different domain: a comparative study	1	0.5
+sentiment classification	semi-supervised sentiment classification with self-training on feature subspaces	1	0.5
+sentiment classification	artfsc – average relative term frequency sentiment classification	1	0.5
+sentiment classification	low-resource cross-domain product review sentiment classification based on a cnn with an auxiliary large-scale corpus	4	1
+sentiment classification	cross-domain sentiment classification via topic-related tradaboost	4	1
+sentiment classification	linguistically regularized lstm for sentiment classification	4	1
+sentiment classification	from opinion lexicons to sentiment classification of tweets and vice versa: a transfer learning approach	4	1
+sentiment classification	particle swarm optimization-based feature selection in sentiment classification	3	0.5
+sentiment classification	word embeddings and convolutional neural network for arabic sentiment classification	3	0.5
+sentiment classification	a deep neural architecture for sentence-level sentiment classification in twitter social networking	4	1
+sentiment classification	uofl at semeval-2016 task 4: multi domain word2vec for twitter sentiment classification	3	0.5
+sentiment classification	yzu-nlp team at semeval-2016 task 4: ordinal sentiment classification using a recurrent convolutional network	3	0.5
+sentiment classification	lys at semeval-2016 task 4: exploiting neural activation values for twitter sentiment classification and quantification	3	0.5
+sentiment classification	sentiment classification based on domain prediction	3	0.5
+sentiment classification	a new method for sentiment classification on weibo	3	0.5
+sentiment classification	sentiment classification of consumer-generated online reviews using topic modeling	4	1
+sentiment classification	deep neural network for short-text sentiment classification	3	0.5
+sentiment classification	study of sentiment classification for chinese microblog based on recurrent neural network	3	0.5
+sentiment classification	a teaching evaluation method based on sentiment classification	3	0.5
+sentiment classification	sting algorithm used english sentiment classification in a parallel environment	4	1
+sentiment classification	data properties and the performance of sentiment classification for electronic commerce applications	4	1
+sentiment classification	building thesaurus lexicon using dictionary-based approach for sentiment classification	3	0.5
+sentiment classification	a comparative study of feature selection and machine learning methods for sentiment classification on movie data set	2	0.3333333333
+sentiment classification	review-level sentiment classification with sentence-level polarity correction	2	0.3333333333
+sentiment classification	hybrid model based sentiment classification of chinese micro-blog	2	0.3333333333
+sentiment classification	no sentiment is an island: sentiment classification on medical forums	2	0.3333333333
+sentiment classification	sentiment classification with graph sparsity regularization	2	0.3333333333
+sentiment classification	sentiment classification for turkish twitter feeds using lda	3	0.5
+sentiment classification	sentiment classification for unlabeled dataset using doc2vec with jst	3	0.5
+sentiment classification	a new sentiment classification method based on hybrid classification in twitter	3	0.5
+sentiment classification	an ensemble method for unbalanced sentiment classification	3	0.5
+sentiment classification	hierarchical micro-blog sentiment classification based on feature fusion	3	0.5
+sentiment classification	cross-lingual sentiment classification: similarity discovery plus training data adjustment	3	0.5
+sentiment classification	improving twitter sentiment classification via multi-level sentiment-enriched word embeddings	3	0.5
+sentiment classification	adding cnns to the mix: stacking models for sentiment classification	4	1
+sentiment classification	swatcs65: sentiment classification using an ensemble of class projects	2	0.3333333333
+sentiment classification	cross-domain text sentiment classification based on grouping-adaboost ensemble	2	0.3333333333
+sentiment classification	sentence sentiment classification using fuzzy word matching combined with fuzzy sentiment classifier	2	0.3333333333
+sentiment classification	fine grained sentiment classification of customer reviews using computational intelligent technique	2	0.3333333333
+sentiment classification	a survey of machine learning techniques for sentiment classification	2	0.3333333333
+sentiment classification	sentiment classification of roman-urdu opinions using navie baysian, decision tree and knn classification techniques	2	0.3333333333
+sentiment classification	a feature selection model based on genetic rank aggregation for text sentiment classification	2	0.3333333333
+sentiment classification	content-specific unigrams and syntactic phrases to enhance sentiwordnet based sentiment classification	2	0.3333333333
+sentiment classification	using feature selection in combination with ensemble learning techniques to improve tweet sentiment classification performance	2	0.3333333333
+sentiment classification	improving sentiment classification accuracy of financial news using n-gram approach and feature weighting methods	2	0.3333333333
+sentiment classification	sentiment classification of portuguese news headlines	2	0.3333333333
+sentiment classification	documentmodeling with convolutional-gated recurrent neural network for sentimentclassification	2	0.3333333333
+sentiment classification	a method for user sentiment classification using instagram hashtags	2	0.3333333333
+sentiment classification	an combined sentiment classification system for sighan-8	2	0.3333333333
+sentiment classification	an improved k-nearest-neighbor algorithm using genetic algorithm for sentiment classification	2	0.3333333333
+sentiment classification	a comparative study of feature selection and machine learning methods for sentiment classification on movie data set	2	0.3333333333
+sentiment classification	review-level sentiment classification with sentence-level polarity correction	2	0.3333333333
+sentiment classification	hybrid model based sentiment classification of chinese micro-blog	2	0.3333333333
+sentiment classification	no sentiment is an island: sentiment classification on medical forums	2	0.3333333333
+sentiment classification	sentiment classification with graph sparsity regularization	2	0.3333333333
+sentiment classification	personality based public sentiment classification in microblog	2	0.3333333333
+sentiment classification	a survey of sentiment classification techniques	2	0.3333333333

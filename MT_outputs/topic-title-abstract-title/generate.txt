@@ -1,0 +1,124 @@
+Topic: machine translation
+Generate title: machine translation and telecommunications system using user id data to select dictionaries
+Generate abstract: a machine translation system output is being indicative of a translation component text to the user database to be translated includes a receiving engine for translation of sublanguage text and translation engine for translation and machine translation input. the user can be used to control the user can be maintained and then used with the same user can be easily through the user can easily then then indicative of the same input. the user can be used to the same dictionary control indicative of the same database from the same database from the same database from the same user can be used as the dictionary of the user can be easily used by using the same dictionary of the same text the input text is to perform database indicative of the same program be used by the user which can be pruned from the same user can be easily through the user of the user from the user id the user can be used as the dictionary database from the user is a preferred database from a receiving interface is based on a particular translation input. a translation input. the translation server is a preferred database from a receiving interface is to produce user from the same dictionary database from the same user can be easily used in a dictionary database from the same user id the same input. the same dictionary from the same dictionary from the same text input. the same dictionary from the same dictionary from the same dictionary database from the same user can be easily through the user can be translated into a second dictionary database from a receiving engine is a preferred the user is to obtain a plurality of sublanguage of the same dictionary from the same text the user is to perform
+Year: 1993    Authority: 7
+
+Topic: machine translation
+Generate title: a statistical approach to machine translation
+Generate abstract: this paper describes the problem of arabicenglish machine translation (ebmt). results are used to automatically learn from the source and target grammars. the surface of two subproblems (a) lexical selection; (b) lexical selection; and interlingual mt is still far from japanese from serbian of unconstrained speech utterances.
+Year: 1990    Authority: 72
+
+Topic: machine translation
+Generate title: ibm research report bleu: a method for automatic evaluation of machine translation
+Generate abstract: this paper reports on the quality of machine translation systems for 8 language pairs that measure of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality panel for human judgments and collecting timing scores and intended enduser application. we then demonstrate the system to english translation quality, and a set of human judgments for each of the system and judged for human judgments of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of
+Year: 2002    Authority: 340
+
+Topic: machine translation
+Generate title: machine translation and telecommunications system using user id data to select dictionaries
+Generate abstract: a machine translation engine a receiving interface of a text input from a source text to the translation input. a translation component of the user one or more sublanguages preferred from the user one or more sublanguages preferred the user being used to control information retrieval to the same database from the user being used for translation tasks for the translation component. we can use a target language documents, text is a preferred the user is to select performing translation input. the user interface.
+Year: 1999    Authority: 12
+
+Topic: machine translation
+Generate title: bleu: a method for automatic evaluation of machine translation
+Generate abstract: this paper reports on the quality of machine translation systems for 8 language pairs translating french, german, hungarian, and interannotator agreement for three types of human judgments for machine translation and back. we report the correlation of different ways of 8 language to english and back. we report the system also to english and back. we report the system to english translation systems for 8 language pairs at the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of these resources are presented.
+Year: 2002    Authority: 420
+
+Topic: machine translation
+Generate title: a smorgasbord of features for statistical machine translation
+Generate abstract: we present a new version of fers a range of candidate translation units to be mostly from a text of a sentence is mapped to be presented. we can easily use of comparable corpora in a scenario which stores model that is not only to a translation of translation outputs can achieve two main drawbacks
+Year: 2003    Authority: 22
+
+Topic: machine translation
+Generate title: automatic evaluation of machine translation quality using longest common subsequence and skip-bigram statistics
+Generate abstract: in this paper we describe two new objective automatic evaluation methods for automatic translation of reference translations in the form of a sentence we present a method for integrating a similarity between the input and the first to produce a similarity between the translation and target language sentences in order to produce translations of the form of a sentence is a set of reference translations. in an order that is two reasons
+Year: 2004    Authority: 101
+
+Topic: machine translation
+Generate title: machine translation system
+Generate abstract: in this paper we present the first time for machine translation (mt) systems with a bilingual correspondence between user as a plurality of peripheral elements namely the following providing a translation job queue window the first time have a plurality of peripheral of the translated input is received at least for translation and bilingual data against a crosslanguage eigen dictionary,
+Year: 2006    Authority: 6
+
+Topic: machine translation
+Generate title: moses: open source toolkit for statistical machine translation
+Generate abstract: we present a novel statistical machine translation systems for determining this paper describes the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality of the quality estimation of the quality of the quality estimation task had the verbmobil task (germanenglish).
+Year: 2007    Authority: 354
+
+Topic: machine translation
+Generate title: machine translation system combination
+Generate abstract: this paper presents an overview of the gale research community, which are translated based on various test sets including computer program products, for combining the translation hypothesis is required, from the open source language, and also provides improved translation systems.
+Year: 2008    Authority: 7
+
+Topic: machine translation
+Generate title: findings of the 2009 workshop on statistical machine translation
+Generate abstract: this paper presents the results of the quality of machine translation systems and 22 system combination entries. in the standard news translation task. a task of edinburgh language pairs and content. a description task and a total of 10 teams, manual and translation directions in a total of translation directions in a total of 10 teams, submitting 7 translations in the different data is used in 7 directions in the translation task.
+Year: 2009    Authority: 85
+
+Topic: machine translation
+Generate title: machine translation system incorporating syntactic dependency treelets into a statistical framework
+Generate abstract: in this paper we present a set of linear use of source code to use statistical machine translation and reordering of the source language. in this paper we present a new type of statistical machine translation (mt). and a comprehensive amount of target language pairs, german→english and medical translation quality and out of the wmt 2007 and medical translation task show that the decoder also accesses a dependency of the same training data.
+Year: 2010    Authority: 7
+
+Topic: machine translation
+Generate title: active learning and crowd-sourcing for machine translation.
+Generate abstract: in this paper we present the new learning of the availability of expensive language pairs. we have active learning and expensive to enable automatic translation and availability of expensive language pairs. we have improved  with crowdsourcing on the availability of large outofdomain availability of expensive language pairs. we have shown that the availability of expensive learning strategies to enable automatic translation and most of parallel corpora in several language pairs. we have shown that the most actively progressing is that it is critical for the most actively and availability of expensive to enable mechanical turk for translation quality. our approach is trained on the availability of large outofdomain data selection of the learning techniques have a method for learning learning and crowdsourcing that them with the availability of expensive with the availability of expensive language pairs. we also provide several approach to the lack of expensive language pairs. we have a new type of language pairs. we have improved upon our approach is a subset of the most difficult learning strategies for new language pairs and it is critical to have two new corpora are trained with the monolingual corpora in the same information in the context of translation quality. our approach is possible to the existing approaches on the availability of this kind of a subset of the learning strategies for new language pairs. we also provide the use of such as automatic translation and supervised data selection methods that is possible to the existing learning strategies for english translation. our method is trained with the translation of the monolingual corpora in the context of the learning and cost of the learning techniques have the most of the most strategies that have the existing approaches have the new corpora for the corpus where we also compare the most
+Year: 2011    Authority: 17
+
+Topic: machine translation
+Generate title: findings of the 2011 workshop on statistical machine translation
+Generate abstract: this paper presents the results of the wmt13 shared tasks, which included a translation task, a task of machine translation systems were submitted to 7 ranking and low anonymized translation systems were submitted to the ten translation directions in the same document institutions. automatic translation directions in a total of 10 teams, submitting 7 entries.
+Year: 2012    Authority: 101
+
+Topic: machine translation
+Generate title: findings of the 2009 workshop on statistical machine translation
+Generate abstract: this paper presents a new evaluation technique that uses machine translation systems for a description translation of a total of language components to a description translation directions in a total of translation directions in the standard news translation task.
+Year: 2013    Authority: 63
+
+Topic: machine translation
+Generate title: findings of the 2014 workshop on statistical machine translation
+Generate abstract: this paper presents the results of the wmt13 shared tasks, which included a translation task, a task for runtime estimation of machine translation quality, and an unofficial metrics task. this year, 68 translation quality, for runtime estimation and manually. the quality estimation task had four subtasks, with a total of 10 teams, submitting 55 entries. 1
+Year: 2014    Authority: 116
+
+Topic: machine translation
+Generate title: neural machine translation by jointly learning to align and translate
+Generate abstract: this paper we propose a novel statistical machine translation systems that a fixedlength encoder and a fixedlength vector is a fixedlength vector that is a fixedlength vector a fixedlength vector representation, to generate a source language to a source language to a source language model by a fixedlength vector that is a hard segment generates a source language to a source language model for a source language model by a source language to this approach, we evaluate the decoder to a source language to the target side of a source language to the target language sentence, the decoder generates a source language to a source language model by a source language model by a source language to a source language to a source language model by a target language model by a fixedlength in the source language models for the source language pairs by the source language pairs by selecting the decoder of a source language models for a source language to this paper, we evaluate the decoder to a source language to a source language to a source language to a source language to a source language to a source language to this problem. furthermore, the decoder to a source language to a source language model by having a single sentence that is a hard segment by allowing the decoder generates a source language to this problem. furthermore, we show that our proposed model to translate parts for the source language to generate a source language to a source language to this problem. furthermore, the decoder generates a source language to this problem. furthermore, and a fixedlength of this representation. we show that the decoder generates a source language models for a source language to this representation. in this paper, we evaluate the decoder and a stateoftheart phrasebased statistical
+Year: 2014    Authority: 472
+
+Topic: machine translation
+Generate title: findings of the 2015 workshop on statistical machine translation
+Generate abstract: this paper presents the results of the quality of machine translation systems and 22 systems were submitted to the shared translation task. this task and the biomedical task received 15 submissions systems were submitted to the translation directions in the news translation task. this year, 102 mt systems from the standard news task were submitted to the standard news translation task. this year, the use of edinburgh and the biomedical task received were submitted to the translation quality for runtime estimation and translation quality, and were submitted in the news translation task.
+Year: 2014    Authority: 47
+
+Topic: machine translation
+Generate title: machine translation post-editing and effort. empirical studies on the post-editing process
+Generate abstract: this dissertation investigates the practice of machine translation postediting and the various aspects of effort involved in postediting work. through analyses of edits made by posteditors, the work described here examines three main questions 1) postediting work. through analyses of edits made by posteditors, the effort postediting of the shared task of the articles postediting data related to postediting postediting data, and involve analyses of edits made by posteditors, the toolkit consists of machine translation postediting and the various aspects of effort involved in postediting work. through analyses of edits made to postediting effort. the dissertation consists of six previously published articles, and a survey presenting an overview of the research literature. the research reported is based on the fields of machine translation errors or more diverse of the articles project postediting work. our submission is performed by posteditors, postediting time, keylogging data, and subjective evaluations of effort are used to examine questions to postediting language technology versions, as well as differences between posteditors. the sixth article is a survey presenting an overview of the source text, and 3) how different indicators of effort vary between different posteditors. the dissertation consists of six previously published articles, and postediting effort as well as differences between posteditors. the sixth article is a survey presenting an overview of the shared task of the articles wmt translation tasks of the articles postediting corpus which is a mixed data related to postediting postediting data, we filtered treat up to postediting data related to postediting effort. the dissertation is a survey presenting postediting challenge to postediting postediting data, and involve analyses of postediting data by posteditors, postediting time, keylogging or effort as well as differences between posteditors. the sixth article is a survey presenting an overview of the research literature. the research reported is based on
+Year: 2014    Authority: 4
+
+Topic: machine translation
+Generate title: findings of the 2014 workshop on statistical machine translation
+Generate abstract: this paper presents the results of the wmt13 shared tasks, which included a translation task, a task of translation task. a total of 10 teams, submitting 7 entries. the system combination task, a task of 10 teams, submitting 34 and the translation task, a task of 10 teams, submitting 7 entries.
+Year: 2015    Authority: 100
+
+Topic: machine translation
+Generate title: machine translation post-editing and effort. empirical studies on the post-editing process
+Generate abstract: this dissertation investigates the practice of machine translation postediting and the various aspects of effort involved in postediting work. through analyses of edits made by posteditors, the effort postediting of the shared task of the articles englishgerman task of edits performed.
+Year: 2015    Authority: 3
+
+Topic: machine translation
+Generate title: findings of the 2014 workshop on statistical machine translation
+Generate abstract: this paper presents the results of the quality of machine translation systems and an automatic evaluation technique for runtime estimation and low translation directions in a total of 10 teams, and a total of 10 teams, submitting 7 task and low translation directions and a total of 10 teams, submitting 7 over the standard news task received 31 submissions were submitted to the standard news translation system combination entries. the output of the translation task. our results show that the ranking task.
+Year: 2016    Authority: 84
+
+Topic: machine translation
+Generate title: an evaluation of machine translation for multilingual sentence-level sentiment analysis
+Generate abstract: sentiment analysis has become an important aspects of machine translation systems for existing sentiment analysis methods that employ machine translation has been addressed better than existing methods and companies worldwide, this work covers therefore, we present a new methodology for existing sentiment analysis methods that employ existing existing multilanguage approaches. our main result has been developed by making using one language pair efforts and also provide several methods that acquired we compare existing sentiment analysis methods that acquired the proposed method for specific language pairs despite the research community has been addressed within the existing evaluation campaign,
+Year: 2016    Authority: 3
+
+Topic: machine translation
+Generate title: nematus: a toolkit for neural machine translation
+Generate abstract: we present nematus, a toolkit for neural machine translation. the toolkit can be easily incorporated to be used for lium's topranked of repeating and dropping translations in the past few nmt has been used to train systems for production environments.
+Year: 2017    Authority: 29
+
+Topic: machine translation
+Generate title: neural machine translation with recurrent attention modeling
+Generate abstract: knowing which words have been attended to in this paper, we propose a novel neural network that generates target words in a source language model, while the target side to generate the representation of source sentences in terms of words in the source sentence. in this paper, we present a novel method to incorporate target words so that information from previous work in two main document between two benchmarks to be worse by explicitly modeling the relationship between previous and subsequent attention to the stateoftheart phrasebased machine translation system. this is also makes using two questions improves over long sentences, the representation of the wmt german/english and french/english models.
+Year: 2017    Authority: 6

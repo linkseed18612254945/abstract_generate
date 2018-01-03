@@ -1,0 +1,1 @@
+{"model_name": "YearStart", "data_name": "littleChinese_test", "decoder_start": "year", "feature_choice": {"position": false, "year": false, "institution": false, "field": false, "cites": false}, "use_char": false, "with_pos": false}

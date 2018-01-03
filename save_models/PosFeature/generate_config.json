@@ -1,0 +1,1 @@
+{"model_name": "PosFeature", "data_name": "littleChineseWithPos_test", "decoder_start": null, "feature_choice": {"position": true, "year": false, "institution": false, "field": false, "cites": false}, "use_char": false, "with_pos": true}

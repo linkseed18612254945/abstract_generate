@@ -1,0 +1,1 @@
+{"model_name": "BaseLine", "with_pos": false, "data_name": "littleChinese_test", "decoder_start": null, "feature_choice": {"position": false, "year": false, "institution": false, "field": false, "cites": false}, "use_char": false}

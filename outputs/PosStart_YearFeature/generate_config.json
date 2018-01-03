@@ -1,0 +1,1 @@
+{"model_name": "PosStart_YearFeature", "data_name": "littleChineseWithPos_test", "decoder_start": "position", "feature_choice": {"position": false, "year": true, "institution": false, "field": false, "cites": false}, "use_char": false, "with_pos": true}

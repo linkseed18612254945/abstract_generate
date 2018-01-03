@@ -1,0 +1,639 @@
+Topic: machine translation
+Generate title: machine translation evaluation versus quality estimation
+Generate abstract: we show that the method can be used to measure the problem of sentences in comparison to the same sentence .  we show that our method can be used to address the problem of training data from the training set of sentences in comparison to the baseline . this paper describes we present a novel method for statistical machine translation (mt) systems . we propose a method for machine translation (mt) of sentences in comparison to the baseline . method for neural machine translation (mt) systems are used to address the problem of sentences in comparison to the same set of sentences .
+Year: 2009    Authority: 7
+
+Topic: machine translation
+Generate title: bleu: a method for automatic evaluation of machine translation
+Generate abstract:  this paper is to measure their human judgments .  we present a method to measure their human judgments .  this paper is to measure automatic translation quality of human judgments .  this paper is not to be used to be used as well as well as well as well as well as well as well as well as well as well as well as well . machine translation (mt) systems for machine translation .
+Year: 2002    Authority: 423
+
+Topic: machine translation
+Generate title: bleu: a method for automatic evaluation of machine translation
+Generate abstract:  this paper is to measure automatic translation quality of the quality of human judgments .  we present a method to measure their correlation and interannotator agreement, for machine translation .  this paper is to measure their correlation with human judgments .  this paper is to measure the quality of human judgments . machine translation (mt) systems for machine translation (mt) systems .
+Year: 2002    Authority: 340
+
+Topic: machine translation
+Generate title: moses: open source toolkit for statistical machine translation
+Generate abstract: the toolkit is used to statistical machine translation (smt) systems to be used to statistical machine translation (smt) .  we describe a novel statistical machine translation (smt) system to the grammar of statistical machine translation (smt) tion . the toolkit present a statistical machine translation (smt) system on the nist mt05 of the translation task . statistical machine translation (smt) systems to be used to statistical machine translation (smt) systems to be used to statistical machine translation (smt) . statistical translation model that uses statistical machine translation (smt) systems to be used to statistical machine translation (smt) .
+Year: 2007    Authority: 354
+
+Topic: machine translation
+Generate title: object recognition as machine translation: learning a lexicon for a fixed image vocabulary
+Generate abstract: the problem of a new approach is a variety of words .  we can be used in an important training and a new method .  we can be used in an important text .  this paper is a method to automatically positive . method for machine translation .
+Year: 2003    Authority: 171
+
+Topic: machine translation
+Generate title: object recognition as machine translation: learning a lexicon for a fixed image vocabulary
+Generate abstract: the problem of a new words is not fully a variety of a variety .  we can be used to automatically automatically negative words .  this paper is proposed to a variety of words .  this paper is proposed to a variety of words . method to a new method is used in an important of a new translation .
+Year: 2005    Authority: 169
+
+Topic: machine translation
+Generate title: object recognition as machine translation: learning a lexicon for a fixed image vocabulary
+Generate abstract: the problem is proposed .  we also can be used to automatically automatically using a variety of words .  this paper is proposed to solve the quality of a new words .  this paper is a new method to a variety of words . method to automatically their computational words in the original and mt .
+Year: 2005    Authority: 163
+
+Topic: machine translation
+Generate title: a statistical approach to machine translation
+Generate abstract: the non decoding is shown to produce a number of speech translation of the translation .  this paper describes the proposed approach is an efficient decoder that the decoder is fed to a number of speech that the translation of the translation . this paper describes the first approach for statistical machine translation (smt) . this paper describes the proposed approach for statistical machine translation (smt) . machine translation system is shown to produce the problem of a translation system .
+Year: 1990    Authority: 72
+
+Topic: machine translation
+Generate title: object recognition as machine translation: learning a lexicon for a fixed image vocabulary
+Generate abstract: the problem of a variety of words is proposed .  we can be used as a new approach to a large number of a variety of words .  we can be used in an important of a new word from an important of a new translation .  this paper is a new approach to the quality of a new translation . method to automatically automatically using a variety of machine translation .
+Year: 2002    Authority: 136
+
+Topic: machine translation
+Generate title: object recognition as machine translation: learning a lexicon for a fixed image vocabulary
+Generate abstract:  this paper is a new approach to the quality of a variety of words .  we show that the proposed approach is proposed to a variety of words .  this paper is proposed to address the problem of a new translation .  we propose a new method to automatically automatically to a variety of words . method is proposed by using a new word .
+Year: 2002    Authority: 130
+
+Topic: machine translation
+Generate title: automatic evaluation of machine translation quality using n-gram co-occurrence statistics
+Generate abstract:  /reacttext  /reacttext  /reacttext  /reacttext [show full ] .  in this paper, we present an approach to measure the quality of machine translation (mt) systems .  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext   /reacttext  /reacttext  /reacttext   /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext   /reacttext   /reacttext  /reacttext  /reacttext   /reacttext   /reacttext   /reacttext  /reacttext   /reacttext of the quality of mt systems .  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext  /reacttext [show full ] . method for machine translation (mt) systems are used to measure their strengths in the translation quality of an automatic translation of human language .
+Year: 2002    Authority: 88
+
+Topic: machine translation
+Generate title: a smorgasbord of features for statistical machine translation
+Generate abstract: we present a novel method for statistical machine translation systems for statistical machine translation systems .  we also explore the problem of statistical machine translation systems for the translation of the word . this paper is a novel method for statistical machine translation system and the translation task . we propose a novel method to use the use of the translation model that are more features for word and test data for the translation of the word . method for statistical machine translation systems for statistical machine translation systems for statistical machine translation systems on the word features .
+Year: 2002    Authority: 26
+
+Topic: machine translation
+Generate title: large language models in machine translation
+Generate abstract: in this paper we propose an effective approach to the problem of neural machine translation (smt) .  in this paper, we propose an effective approach to the problem of neural machine translation (smt) . this paper describes the problem of statistical machine translation (smt) on the same corpus . we propose an effective approach to train and more attention for language pairs of the translation quality . new paradigm is necessary in which the problem of a language model for the language translation .
+Year: 2009    Authority: 34
+
+Topic: machine translation
+Generate title: improving machine translation performance by exploiting non-parallel corpora
+Generate abstract: we present a novel approach to incorporate the parallel corpus and a large number of data from the source language .  we also show that our approach to adapt translation and a large amount of parallel corpora for the translation of the training data .  we present a novel approach to incorporate a large data for each language .  we propose a novel approach to incorporate and english features for each of the translation of a sentence . method for statistical machine translation systems on the same corpus and the translation quality of the parallel corpora for the same corpus .
+Year: 2005    Authority: 30
+
+Topic: machine translation
+Generate title: improving machine translation performance by exploiting non-parallel corpora
+Generate abstract: we present a novel approach to incorporate parallel corpora for each of the translation task .  we also show that our approach to incorporate features for each of the translation quality of the parallel corpus .  we present a novel approach to incorporate and english features for each of the translation of the training data . we propose a novel approach to learn to improve the translation of the source and target languages . method for statistical machine translation systems on the same corpus .
+Year: 2005    Authority: 28
+
+Topic: machine translation
+Generate title: improving statistical machine translation using word sense disambiguation
+Generate abstract: we show that the problem of word sense disambiguation system that the performance of the translation task has been used to address this task .  in this paper, we propose a new approach to address the problem of word sense disambiguation system that we show that the problem of word sense disambiguation system that performs better in the same task .  we show that our approach improves the problem of word sense disambiguation system that our model improves the translation task of the same training data for the same word sense disambiguation . this work presents a new approach to this problem in the first step, a new model for the iwslt smt system for this task . new system for statistical machine translation (smt) systems to address the problem of word sense disambiguation system that performs fully fully the quality of word sense disambiguation .
+Year: 2007    Authority: 31
+
+Topic: machine translation
+Generate title: batch tuning strategies for statistical machine translation
+Generate abstract:  we show that our approach to improve the performance of this task .  we show that our approach performs better than the training and test data is not been done in the same corpus .  we present a novel method to incorporate linguistic features and make a new model to train a large number of features .  we propose a novel method to learn a large number of features that are not only . new approach to the problem of statistical machine translation (smt) systems are tested in a variety of natural language processing .
+Year: 2012    Authority: 37
+
+Topic: machine translation
+Generate title: a smorgasbord of features for statistical machine translation
+Generate abstract: we present a novel method for statistical machine translation system and the translation task of text features .  we also use a large number of features that are not to the translation of the translation model that are more than the word features for word and english features . this paper we present a novel method for statistical machine translation system and a model for statistical machine translation (smt) . we propose a novel method for statistical machine translation systems for the statistical machine translation system and the word for statistical machine translation systems . method of statistical machine translation systems for statistical machine translation (smt) .
+Year: 2004    Authority: 27
+
+Topic: machine translation
+Generate title: improving statistical machine translation using word sense disambiguation
+Generate abstract: we show that our approach improves the problem of word sense disambiguation system that performs better in smt system for the iwslt word sense disambiguation .  in this paper, we propose a novel method for statistical machine translation (smt) systems on the iwslt smt system .  we show that our approach improves the problem of word sense disambiguation disambiguation system that performs fully fully fully fully fully smt in the same task . this work presents a new approach to address this problem in smt adaptation for smt . new system for smt and test set, in this work we propose to address the problem of word sense disambiguation system for the iwslt smt system .
+Year: 2008    Authority: 31
+
+Topic: machine translation
+Generate title: machine translation evaluation versus quality estimation
+Generate abstract: we show that the method can be used for this task .  we show that our method can be used to measure the problem of sentences and their ability to be used as a large set of sentences . this paper describes we present a novel method for machine translation (mt) and we propose to measure the problem of sentences and their strengths .  we show that our method can be used to address the quality of word alignment . method for neural machine translation systems are used to address the problem of training data for a sentence .
+Year: 2011    Authority: 7
+
+Topic: machine translation
+Generate title: machine translation system incorporating syntactic dependency treelets into a statistical framework
+Generate abstract: the decoder to a statistical machine translation system with a statistical machine translation engine .  the decoder also accesses a model for the translation of the translation and a model for the translation of the translation and the decoder based on a search engine . the decoder a statistical machine translation system with a statistical translation engine . the decoder that the decoder is a search of the decoder to the target and the target language . statistical machine translation system for statistical machine translation (smt) and a model for statistical machine translation (smt) .
+Year: 2008    Authority: 6
+
+Topic: machine translation
+Generate title: machine translation system
+Generate abstract: in the first text is a natural language processing and a system for a text analysis of the input in the input text .  the input a new system is a very important for a text input and a large number of data from the input and a target language . the second of a text input in the language processing of data in a translation system . the first step, translation system is a translated of the input in the input text . machine translation system includes a bilingual correspondence of translation and a bilingual correspondence of the text .
+Year: 2003    Authority: 5
+
+Topic: machine translation
+Generate title: the lrc machine translation system: linguistics research center
+Generate abstract: we describe evaluate the semantic restrictions, experiments proposed experiments show that this paper describes describes we investigate evaluate this paper describes describes describes describes describes paper, describes describes describes describes describes paper, describes describes we investigate investigate describes describes describes describes paper, we evaluate investigate investigate evaluate this paper describes describes paper, describes paper, paper, describes describes describes describes describes describes describes paper, paper, describes describes paper, this paper describes describes paper, paper, we investigate investigate investigate investigate paper describes describes describes paper, paper, experiments paper, experiments also describes presents presents paper describes describes paper, describes paper, describes paper, paper, describes describes describes paper, paper describes describes describes describes paper, describes describes describes paper, describes describes paper, we investigate investigate describe describes describes describes describes describes describes describes describes describes paper, addition, this paper describes describes describes paper, describes paper, describes paper, describes paper, describes describes paper, describes describes paper, describes describes paper, describes describes paper, we investigate investigate describes describes describes describes describes describes paper, addition, this paper paper, we investigate investigate investigate describes describes paper, addition, this paper describes describes paper, describes describes paper, describes paper, describes describes paper, describes describes paper, describes paper, describes describes describes paper, we investigate investigate describes describes describes describes describes describes describes describes describes describes describes paper, describes describes paper, describes describes describes describes paper, describes describes describes paper, describes describes describes paper, we investigate describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes paper, describes describes describes describes describes describes describes paper, describes paper, describes describes describes paper, describes describes describes paper, we investigate investigate describes describes describes describes describes describes paper, describes paper, describes describes paper, addition, this paper describes paper, describes describes paper, describes paper, describes paper, describes describes this paper describes paper, .  the experimental results show that an approach is proposed to be used to be a semantic representation of an equivalent utterance; to be used to be classification . text classification is proposed an alternative technique to analyse sentiment classification of opinions is proposed based on chinese sentiment classification technique includes using text classification text is analyzed . this paper describes we describe evaluate this paper describes describes describes describes describes describes describes describes describes presents describes describes describes describes describes describes describes describes presents describes describes describes presents describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes describes this paper describes describes describes describes describes paper, describes describes describes describes describes describes paper, we investigate investigate describes describes describes describes describes describes describes describes describes describes describes describes paper, describes describes describes describes presents describes describes describes describes describes describes describes paper, describes describes paper, we investigate investigate describes describes describes describes describes describes describes describes describes describes describes describes describes paper, describes describes presents describes describes describes describes describes describes describes this paper describes describes describes describes describes describes describes paper, describes describes paper, describes describes describes describes paper, paper, we investigate investigate describes describes describes describes describes describes this paper, describes describes describes paper, we investigate investigate describes describes describes describes describes describes describes describes describes describes paper, describes describes describes this paper, describes paper, we investigate investigate describes describes describes describes describes describes describes this paper describes describes describes paper, describes paper, we investigate investigate investigate describes describes describes describes describes paper, describes paper, describes describes describes paper, we investigate investigate describes describes describes describes describes describes describes describes describes describes describes paper, describes paper, describes describes describes describes describes paper, we investigate investigate describes describes describes describes describes paper, paper, we investigate investigate investigate describes describes describes describes describes describes paper, addition, this paper paper, we investigate investigate investigate evaluate this paper describes describes paper, describes describes describes describes paper, describes describes describes paper, describes describes describes paper, describes describes describes describes paper, describes describes paper, describes . method is proposed that an equivalent utterance; to use a number of text classification is to be used to be used to be used in text text and a method of text classification .
+Year: 1986    Authority: 3
+
+Topic: machine translation
+Generate title: machine translation evaluation versus quality estimation
+Generate abstract: we show that our method can be used to address the problem of sentences in comparison to the quality of human evaluation .  we show that our method can be used to address the problem of training data for a set of mt .  we show that our method can be used to address this problem by using a large number of sentences from different domains . we propose a novel method to address the problem of word translations for a machine translation . method for sentiment classification of the quality of human data to be used as a large set of sentences is not .
+Year: 2010    Authority: 7
+
+Topic: machine translation
+Generate title: machine translation evaluation versus quality estimation
+Generate abstract: we show that our method can be used to address the problem of sentences in this work .  we show that our model can be used to address the problem of training data for a set of human evaluation .  we show that our method can be used to address the problem of training data for a language pair of sentences . we present a novel method for statistical machine translation (mt) systems . method for sentiment classification of sentences is not only .
+Year: 2011    Authority: 7
+
+Topic: machine translation
+Generate title: the candide system for machine translation
+Generate abstract: we present an overview of text analysis is to determine whether text and text .  the main challenge of text analysis is an overview of the text expresses a text expresses a large amount of text and is studied . machine translation system is an overview of text analysis of the text text in text analysis . machine translation system is an overview of text analysis of the text information from text . machine translation system is an overview of text analysis of the text from text .
+Year: 1990    Authority: 3
+
+Topic: machine translation
+Generate title: neural machine translation with external phrase memory
+Generate abstract: in this paper, we propose a novel neural network based neural network for neural machine translation (nmt) and a neural network model that has recently introduced on external memory and target contexts .  our approach outperforms the baseline on the training set of a sentence with a single neural network with a neural network model . neural machine translation (nmt) systems on a large number of sentences from source and target contexts . neural machine translation (nmt) has been shown to address this problem in a sentence . neural machine translation (nmt) is a neural machine translation (nmt) model that has been shown to enhance the target sentence .
+Year: 2016    Authority: 5
+
+Topic: machine translation
+Generate title: an empirical comparison of features and tuning for phrase-based machine translation
+Generate abstract:  /reacttext  reacttext 500   /reacttext [show full ] .  we also investigate the effectiveness of the art translation quality on various features are sparse to train more than dense features .  reacttext 153   /reacttext [show full ] . an important role in the arabic language is the ability to classify the features . method for chinese online product review sentiment analysis is the best performance on the web .
+Year: 2015    Authority: 4
+
+Topic: machine translation
+Generate title: neural machine translation with external phrase memory
+Generate abstract: we propose a novel neural network based neural network to address this problem in a target language, and the target sentence .  our system is a neural network based neural network for neural machine translation (nmt) . neural machine translation (nmt) systems is able to translate a single neural network for neural machine translation (nmt) . neural machine translation (nmt) systems are able to be translated in a target sentence . neural machine translation (nmt) is a neural network for neural machine translation (nmt) .
+Year: 2016    Authority: 5
+
+Topic: machine translation
+Generate title: machine translation instant messaging applications
+Generate abstract: the translation task are used to be translated with a particular language to be translated .  the main challenge of translation and instant messaging which are not out to the same language . this paper describes an overview of the translation of the translation and the translation system for the translation of the same data and a translation task . translation plugin is an overview of the translation task for text and also introduce a new translation of which is an overview of the translation task . new approach for translation of the translation task and the translation task .
+Year: 2015    Authority: 4
+
+Topic: machine translation
+Generate title: machine translation instant messaging applications
+Generate abstract: the translation of the content of data from the translation and the translation task is to the translation task .  the results of translation and the translation system is a natural language processing . this paper describes the translation of the translation of the translation and the translation of the translation and the translation task are used to be translated in order to be used to be translated in a language processing . instant messaging translation and translation plugin have been done on the same data and translation of the translation . new translation task of text mining and the translation of the same data and to determine the same data to the translation task .
+Year: 2014    Authority: 3
+
+Topic: machine translation
+Generate title: machine translation instant messaging applications
+Generate abstract: the translation task of data from the translation and the translation system for each language is an instant to the translation task .  the main challenge of translation and instant messaging translation and messaging for the translation of the translation and a language to use translation task and a language to be translated . the translation of documents in the translation and the translation task is to the translation task and the translation task . the submission of the translation and the translation of the translation and the translation system is a natural language processing . new translation system for use in this field .
+Year: 2015    Authority: 4
+
+Topic: machine translation
+Generate title: neural machine translation with external phrase memory
+Generate abstract: we propose a neural machine translation model that has been shown to enhance the target sentence .  our results show that our approach improves a neural network model that has shown to reconstruct the target sentence . neural machine translation (nmt) systems have been shown to reconstruct the target sentence . neural machine translation (nmt) has been shown to reconstruct the target sentence in a target sentence . neural machine translation (nmt) is a neural network model for neural machine translation (nmt) .
+Year: 2016    Authority: 4
+
+Topic: machine translation
+Generate title: neural machine translation with recurrent attention modeling
+Generate abstract: in this paper, we propose a novel neural network models to translate the attention mechanism of the translation quality in a neural machine translation (nmt) .  we show that the proposed approach improves a neural network model that is able to translate unknown words in the source and target words . a neural machine translation (nmt) models have been shown to the stateoftheart neural network translation models . neural machine translation (nmt) models with a single attention mechanism of a sentence . neural network models with a neural network models with a single convolutional neural network .
+Year: 2017    Authority: 9
+
+Topic: machine translation
+Generate title: machine translation system incorporating syntactic dependency treelets into a statistical framework
+Generate abstract: the translation of a sentence for statistical machine translation systems and a model that the decoder can be used to be translated to a target language .  the decoder is to produce a statistical machine translation (smt) system for the translation of a sentence . the decoder a statistical machine translation system for the translation task . statistical machine translation system and the decoder can be used to produce a target language . statistical machine translation system based on a statistical network based on statistical machine translation (smt) .
+Year: 2014    Authority: 3
+
+Topic: machine translation
+Generate title: machine translation instant messaging applications
+Generate abstract: translation systems are used to train machine translation and translation quality on a set of 47 data .  the main challenge of translation and instant messaging translation and translation quality on a new translation task for text mining and the translation task . this paper describes the submission of the translation of the translation and instant messaging language processing . translation quality of a natural language processing and translation task of the translation task and the translation task for a language processing . translation system for each language processing and is an instant messaging language to form a number of language processing .
+Year: 2015    Authority: 2
+
+Topic: machine translation
+Generate title: machine translation instant messaging applications
+Generate abstract: the translation of such as input data to determine the semantic orientation of the translation .  the main challenge of translation and instant messaging which allows to determine the sentiment of the data from the source language . this paper describes the translation of such a machine translation system for use in this field . translation system for this research is an overview of the translation of the translation . new translation system for use in this paper .
+Year: 2014    Authority: 2
+
+Topic: machine translation
+Generate title: machine translation system incorporating syntactic dependency treelets into a statistical framework
+Generate abstract: the decoder of the translation and the decoder to the decoder of the translation and the decoder based on a phrase table of the translation quality on a sentence .  the decoder can be used to produce a statistical machine translation (smt) system for the translation of a sentence .  we present a novel method for statistical machine translation (smt) on the statistical machine translation (smt) . statistical machine translation (nmt) systems on the expanded search query and the decoder that the decoder is to a statistical machine translation system . statistical machine translation system with a statistical machine translation system and the translation engine .
+Year: 2014    Authority: 2
+
+Topic: machine translation
+Generate title: machine translation post-editing and effort. empirical studies on the post-editing process
+Generate abstract:   /reacttext [show full ] .  the dissertation of text mining is to determine the sentiment of the text .  reacttext 436   /reacttext  reacttext 453   /reacttext [show full ] .  /reacttext  reacttext 453   /reacttext [show full ] . survey of machine translation systems are used to be used for the shared translation task .
+Year: 2014    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification using machine learning techniques
+Generate abstract: this paper we consider the performance of sentiment classification .  we show that the problem of sentiment classification . the performance of this problem is not only to sentiment classification . this problem is not only to sentiment . machine learning methods on the performance of sentiment classification .
+Year: 2002    Authority: 363
+
+Topic: sentiment classification
+Generate title: biographies, bollywood, boomboxes and blenders: domain adaptation for sentiment classification
+Generate abstract: sentiment classification of sentiment analysis in the domain of sentiment analysis of the problem of sentiment classification .  we propose a new approach for sentiment classification of interest in the domain adaptation of sentiment classification . sentiment classification of sentiment analysis in the domain problem of sentiment classification in the domain adaptation of sentiment analysis . sentiment classification is to address this problem for sentiment classification . sentiment classification of sentiment analysis for sentiment classification of interest in the domain of sentiment classification .
+Year: 2007    Authority: 129
+
+Topic: sentiment classification
+Generate title: biographies, bollywood, boomboxes and blenders: domain adaptation for sentiment classification
+Generate abstract: sentiment analysis is a new domain adaptation for sentiment classification .  we aim to sentiment classification in the domain of sentiment classification . sentiment classification of sentiment analysis in the domain of sentiment analysis . sentiment classification is to sentiment classification in the problem of interest on sentiment of interest . sentiment classification of sentiment analysis is to the problem of interest for sentiment of interest of interest on online reviews .
+Year: 2009    Authority: 145
+
+Topic: sentiment classification
+Generate title: sentiment classification of movie reviews using contextual valence shifters
+Generate abstract: in the accuracy of our approach to the accuracy of each of the accuracy of each document in the same document and objective polarity .  we present a method to extract a set of contextual words . the accuracy of our approach to the accuracy of each document is not recommended . we propose a method to classify a set of contextual document . method are proposed by a set of termcounting .
+Year: 2010    Authority: 83
+
+Topic: sentiment classification
+Generate title: sentiment classification of movie reviews using contextual valence shifters
+Generate abstract: the accuracy of a set of a document of a particular document and objective polarity and a set of words .  we present a method to extract a set of contextual feature set . the proposed method is used to classify the accuracy of a particular term, and their attributes . this paper is used to determine the accuracy of a particular . method are used to determine the accuracy and a set of contextual words .
+Year: 2011    Authority: 84
+
+Topic: sentiment classification
+Generate title: sentiment classification of movie reviews using contextual valence shifters
+Generate abstract: the accuracy of a set of termcounting set or are used to reverse the accuracy .  the proposed method is used to reverse the accuracy of a particular document . the accuracy of a set of contextual words . this paper is a method to reverse the accuracy of each of the accuracy and a set of positive and negative . sentiment classification method is used in the form of a particular document or neutral polarity .
+Year: 2011    Authority: 79
+
+Topic: sentiment classification
+Generate title: sentiment classification of online reviews to travel destinations by supervised machine learning approaches
+Generate abstract: sentiment classification is to automatically classify the training data for a particular domain .  the proposed approach is to a new system for the task of text . sentiment classification of the web and the web data is proposed . this problem in machine translation . new approach for machine translation and the problem of sentiment classification .
+Year: 2010    Authority: 46
+
+Topic: sentiment classification
+Generate title: sentiment classification of online reviews to travel destinations by supervised machine learning approaches
+Generate abstract: sentiment classification of online reviews and also we propose a new approach to the problem of a machine translation system .  the proposed method is to automatically classify the sentiment of a large number of data . sentiment classification of online reviews and also we propose a new approach to the problem of classification accuracy and the performance of chinese data . this problem in machine translation and the problem of chinese data is not only . new approach for chinese online sentiment classification and the problem of chinese online reviews and also we propose a new approach to the problem of machine translation .
+Year: 2009    Authority: 42
+
+Topic: sentiment classification
+Generate title: sentiment classification of online reviews to travel destinations by supervised machine learning approaches
+Generate abstract: sentiment classification is a new approach to the problem of text .  the proposed method is proposed for this task in the same set of online reviews and also we propose a new approach to the problem of text documents . sentiment classification of the web data and a set of data for this task . this problem in the machine learning techniques for sentiment classification . new approach to the problem of text mining and sentiment classification of online reviews and also proposed the performance of the machine translation .
+Year: 2010    Authority: 31
+
+Topic: sentiment classification
+Generate title: sentiment classification of reviews using sentiwordnet
+Generate abstract: the sentiment classification of text expresses a specific domain of text expresses positive or negative opinion .  the proposed approach is proposed based on the problem of sentiment classification of online reviews and also proposed based on the internet is proposed . sentiment classification of text mining and sentiment classification of text expresses a specific between domain . this paper is to classify the sentiment classification of text expresses positive or negative sentiment . new approach for sentiment classification of online reviews and also proposed a new approach to sentiment classification .
+Year: 2006    Authority: 30
+
+Topic: sentiment classification
+Generate title: sentiment classification of online reviews to travel destinations by supervised machine learning approaches
+Generate abstract: sentiment classification of online reviews in the form of online reviews and the development of the machine translation .  the proposed approach is a new approach to the problem of a machine translation . sentiment classification of text is not only to the requirement of the internet . this paper is to determine the sentiment classification of the web . new approach to the problem of text mining and sentiment classification of the web data .
+Year: 2009    Authority: 36
+
+Topic: sentiment classification
+Generate title: sentiment classification of online reviews to travel destinations by supervised machine learning approaches
+Generate abstract: this paper is to determine the sentiment classification of the web .  the proposed method is proposed for online sentiment classification . sentiment classification of online reviews and the problem of online reviews and the web is proposed by using the effectiveness of the machine translation .  in this paper is to the problem of text mining and use of the internet and the problem of online reviews and the performance of online reviews and the web . new approach for chinese online product reviews and the accuracy of online reviews and a set of text .
+Year: 2005    Authority: 35
+
+Topic: sentiment classification
+Generate title: sentiment classification of online reviews to travel destinations by supervised machine learning approaches
+Generate abstract: sentiment classification is to determine the sentiment classification of the web .  the proposed approach is to the problem of a machine learning approach to the problem . sentiment classification is to automatically classify the training data for a particular domain .  we use a new approach to the problem of a machine translation . new approach to the problem of online reviews and the development of text documents .
+Year: 2009    Authority: 51
+
+Topic: sentiment classification
+Generate title: sentiment classification of online reviews to travel destinations by supervised machine learning approaches
+Generate abstract: sentiment classification of online reviews and the problem of text mining and sentiment classification .  the proposed method is to automatically classify the sentiment of a text . sentiment classification of online reviews in the field of sentiment classification of online reviews and also we propose a new approach to the problem of text mining .  this paper is to automatically classify the sentiment of a text . new approach to the problem of text mining and sentiment classification is a very important of interest in the form of the machine translation .
+Year: 2009    Authority: 22
+
+Topic: sentiment classification
+Generate title: cross-domain sentiment classification using sentiment sensitive embeddings
+Generate abstract: in this problem, we propose a novel method for sentiment classification in the source domain .  we propose a novel method to address this problem in crossdomain sentiment classification . sentiment classification of crossdomain sentiment classification by exploiting labeled data in the target domain . crossdomain sentiment classification in a target domain to predict the sentiment classifier . sentiment classifier trained on both source and target domain sentiment classification .
+Year: 2013    Authority: 35
+
+Topic: sentiment classification
+Generate title: cross-domain sentiment classification using a sentiment sensitive thesaurus
+Generate abstract: the sentiment classification problem by using a sentiment classifier trained on a sentiment classifier .  in this paper, we propose a novel method for sentiment classification . sentiment classification of crossdomain sentiment classification in a sentiment classifier trained on a sentiment classifier trained on a sentiment classifier trained on a sentiment classifier trained on a sentiment classifier for each domain . this problem in sentiment classification of reviews and then combine a sentiment classifier for each domain . sentiment classification problem using a sentiment classifier trained on a sentiment classifier .
+Year: 2011    Authority: 31
+
+Topic: sentiment classification
+Generate title: cross-domain sentiment classification using a sentiment sensitive thesaurus
+Generate abstract: sentiment classification of reviews and to classify the sentiment of sentiment classification .  in this paper, we propose a novel method for sentiment classification of domain adaptation in different domains, we propose a new classifier for crossdomain sentiment classification . sentiment classification is a classifier for crossdomain sentiment classification . this problem in a sentiment classifier classifier for crossdomain sentiment classification . sentiment classification problem that occur for crossdomain sentiment classification .
+Year: 2013    Authority: 29
+
+Topic: sentiment classification
+Generate title: sentiment classification using sentence-level semantic orientation of opinion terms from blogs
+Generate abstract: sentiment analysis is the proposed approach .  the proposed method classifies subjective and objective information from the web . sentiment classification is based on customers ease in the internet .  the proposed approach is proposed . sentiment classification problem of text mining and sentiment classification .
+Year: 2013    Authority: 7
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews to customer knowledge: a comparison between svm and semantic approaches
+Generate abstract: sentiment analysis is a complicated of text mining .  sentiment analysis is a complicated task with a complicated task . sentiment classification is a complicated task with great challenge . this paper is proposed to classify the sentiment classification of reviews . sentiment classification approach is to classify the sentiment of reviews and reviews .
+Year: 2011    Authority: 6
+
+Topic: sentiment classification
+Generate title: sentiment classification of movie reviews by supervised machine learning approaches
+Generate abstract: sentiment classification is a complicated task for sentiment classification of online reviews .  the proposed approach is proposed based on the web and the sentiment classification approach . sentiment classification is applied to classify the sentiment of interest in the web . online reviews are used for sentiment classification of online reviews on certain products . new approach for sentiment classification of online reviews using chinese reviews and also proposed .
+Year: 2009    Authority: 5
+
+Topic: sentiment classification
+Generate title: sentiment classification of movie reviews by supervised machine learning approaches
+Generate abstract: sentiment classification is a complicated task for sentiment classification of online reviews .  the proposed approach is proposed by using a new approach for sentiment classification . sentiment classification is a complicated task for sentiment classification of online reviews in chinese online reviews . this paper is proposed based on the sentiment classification of online reviews using online reviews using sentiment classification . new approach for sentiment classification of online reviews in chinese online reviews and also proposed the performance of sentiment classification .
+Year: 2010    Authority: 5
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: using sentence-based language model
+Generate abstract: the sentiment classification of text mining and sentiment classification of the sentiment classification system that are used to classify sentiment of the sentiment polarity and the sentiment polarity of a sentence in the document .  the proposed approach applies the sentiment polarity of a sentence in the document of the sentence classification . sentiment classification of text mining and sentiment classification results at the same sentiment classification task . the proposed approach applies the sentiment classification of text . sentiment classification method based on the sentiment classification of text mining and sentiment classification .
+Year: 2013    Authority: 6
+
+Topic: sentiment classification
+Generate title: sentiment classification using sentence-level semantic orientation of opinion terms from blogs
+Generate abstract: sentiment classification is to classify the sentiment of people are positive or negative .  the proposed method classifies subjective and objective information from online reviews . sentiment classification is a complicated of text expresses positive or negative .  in the second phase, of the internet is proposed . sentiment classification problem of customers is not only .
+Year: 2013    Authority: 7
+
+Topic: sentiment classification
+Generate title: sentiment classification of movie reviews using multiple perspectives
+Generate abstract: sentiment analysis is a new approach for chinese sentiment classification .  the sentiment analysis is a new approach to the sentiment orientation of the aspect . sentiment classification is a new approach to sentiment classification . sentiment analysis is a new of text expresses a specific aspect of the sentiment of the aspect . sentiment classification method for sentiment analysis and the sentiment analysis of the text mining and sentiment analysis of text mining .
+Year: 2009    Authority: 5
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese traveler reviews by support vector machine algorithm
+Generate abstract: the sentiment classification of online reviews has been a very important role in the internet .  in this paper, a new method for sentiment classification of the internet is to classify the reviews . the sentiment classification of online reviews is gradually to classify the reviews . there is a complicated task with great challenge . new method is proposed .
+Year: 2010    Authority: 5
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese traveler reviews by support vector machine algorithm
+Generate abstract: the sentiment classification of online reviews is gradually to classify the reviews .  in this paper, a new method is proposed for sentiment classification . the sentiment classification is a complicated task . this paper is a new method to classify the sentiment of the reviews . new method is proposed .
+Year: 2007    Authority: 4
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese traveler reviews by support vector machine algorithm
+Generate abstract: the problem of text mining is gradually becoming a very important role in the internet .  in this paper, a new method of sentiment classification is to extract the sentiment of interest . the problem of mining is gradually becoming a very important role in the internet . there is a complicated task with great challenge . new method is proposed to classify the sentiment of text .
+Year: 2011    Authority: 5
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is a complicated task of sentiment classification .  the proposed method is proposed for sentiment classification of online reviews . sentiment classification is a complicated of text mining .  we have been done on sentiment classification of online reviews . sentiment classification method for chinese online reviews, online reviews and also discusses the problem of online reviews in marketing and online reviews .
+Year: 2012    Authority: 5
+
+Topic: sentiment classification
+Generate title: sentiment classification using sentence-level semantic orientation of opinion terms from blogs
+Generate abstract: sentiment analysis is the proposed approach .  the proposed method classifies subjective and objective sentences from products and services . sentiment classification is a challenging task . the sentiment classification of online reviews is proposed . sentiment classification problem of online reviews in social media is proposed .
+Year: 2013    Authority: 6
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese traveler reviews by support vector machine algorithm
+Generate abstract: the sentiment classification is a very important role in the internet .  in this paper, a new approach to classify the sentiment of the internet is to classify the reviews . a new approach to the sentiment analysis of the internet is proposed . a new method for sentiment classification of online reviews in social media is gradually to classify the reviews . new method of text mining to extract sentiment of the internet .
+Year: 2011    Authority: 3
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: using sentence-based language model
+Generate abstract: the sentiment classification system are proposed to extract the sentiment polarity of a sentence .  the proposed approach applies the sentiment polarity of a document . sentiment classification is a new method to classify the sentiment of the sentiment classification . the proposed approach applies the sentiment classification system to predict the sentiment polarity of the sentiment of the sentence in the document . sentiment classification method based on the sentiment classification system to predict the sentiment polarity of a text documents in the document of the sentiment classification of the sentence in the document .
+Year: 2011    Authority: 3
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is a complicated task of sentiment classification .  the proposed method is proposed to extract the sentiment of a text mining . sentiment classification is a complicated task of online reviews in the web .  in this paper is a complicated task of sentiment classification . sentiment classification method for chinese online reviews, online reviews and also study the problem of a text .
+Year: 2013    Authority: 4
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese traveler reviews by support vector machine algorithm
+Generate abstract: sentiment classification is a new approach to the sentiment orientation of the text .  in this paper, a new method is proposed to classify the sentiment of text . the sentiment classification problem is a very important role . this paper proposes a new method for sentiment classification of the reviews . new method of text mining to classify sentiment expressed in the internet .
+Year: 2011    Authority: 3
+
+Topic: sentiment classification
+Generate title: sentiment classification of movie reviews using multiple perspectives
+Generate abstract: sentiment analysis is a new of sentiment analysis for sentiment analysis .  the sentiment analysis of each text is a given piece of text expresses positive or negative opinion . sentiment classification is a new task of sentiment analysis for sentiment analysis . sentiment classification of chinese sentiment analysis is a new of text . sentiment classification method for sentiment analysis and the sentiment analysis is a new task in sentiment analysis .
+Year: 2010    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is a complicated task of sentiment classification .  the proposed approach is to extract the sentiment of a text . sentiment classification is a complicated task of sentiment classification . online reviews are conducted for the sentiment classification of online reviews . sentiment classification method for chinese online reviews, in order to determine the requirement of online reviews .
+Year: 2011    Authority: 3
+
+Topic: sentiment classification
+Generate title: sentiment classification of movie reviews using multiple perspectives
+Generate abstract: sentiment analysis is a new approach to the sentiment polarity of a sentence .  the sentiment analysis is a new approach to the sentiment polarity of the text . sentiment classification of text mining is a sentiment classification task . sentiment analysis is a new of text mining . sentiment classification method for sentiment analysis of text mining and sentiment analysis .
+Year: 2008    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese traveler reviews by support vector machine algorithm
+Generate abstract: the sentiment classification of text mining is gradually becoming a question that is proposed .  in this paper, a new method of sentiment classification is to classify the reviews into positive or negative opinion . sentiment analysis is a new approach to the sentiment orientation of the text . a new method of sentiment analysis is a very important role . new method is proposed .
+Year: 2009    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is a complicated task of sentiment classification .  the proposed method is proposed and also a complicated task with sentiment classification . sentiment classification is a complicated of text expresses a specific for chinese online reviews . online reviews are conducted for sentiment classification . new method of online reviews are used for sentiment classification .
+Year: 2011    Authority: 3
+
+Topic: sentiment classification
+Generate title: sentiment classification for chinese reviews: a comparison between svm and semantic approaches
+Generate abstract: sentiment classification is proposed by using sentiment classification based on chinese reviews and also proposed .  sentiment classification is proposed by using a complicated task with sentiment classification of chinese reviews . sentiment classification is proposed based on chinese opinion mining and sentiment classification based on chinese sentiment classification . approach is proposed based on the sentiment classification of web reviews . new approach for sentiment classification is a complicated task .
+Year: 2005    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese traveler reviews by support vector machine algorithm
+Generate abstract: the sentiment classification of online reviews is to be very important to extract the sentiment of the reviews .  in this paper, a new method for sentiment classification of online reviews is gradually to classify the reviews . sentiment analysis is a new approach to the sentiment classification . a new method of sentiment analysis is a very important role . new method of sentiment analysis is a very important role .
+Year: 2010    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is to extract the sentiment of online reviews .  the proposed approach is to extract the sentiment of a text . sentiment classification is a complicated of online reviews in marketing and social media is applied to extract online reviews . online reviews are used for sentiment classification . new method of online reviews in online reviews, a sentiment classification problem .
+Year: 2012    Authority: 3
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is a complicated task of sentiment classification .  the proposed method is proposed for sentiment classification of online reviews in online reviews, a sentiment classification method . sentiment classification is a complicated task of sentiment classification .  we have been done in the sentiment classification of online reviews . sentiment classification method for chinese online reviews, online reviews and also study the problem of a text .
+Year: 2012    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: a comparison of factors influencing performances
+Generate abstract: sentiment classification is a complicated task in sentiment classification .  in this paper, we propose a novel method to classify sentiment classification in chinese and classification . sentiment classification is a complicated task of sentiment classification .  in this paper is to classify the sentiment classification of reviews . sentiment classification method based on various text mining is positive or negative opinion from positive or negative opinions .
+Year: 2013    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is a complicated task of online reviews on certain products and services are discussed .  the proposed approach is to extract the sentiment of a text features . sentiment classification is a complicated task of sentiment classification . research studies have been done in the sentiment classification of online reviews . new method of online reviews in online reviews and also discusses the problem of online reviews .
+Year: 2012    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese traveler reviews by support vector machine algorithm
+Generate abstract: the sentiment classification is a complicated task with a question that is proposed .  the proposed method is proposed to classify the sentiment of the reviews . sentiment analysis is a very important role in the internet . a new method for sentiment classification of online reviews . new method of text mining to extract the sentiment of interest .
+Year: 2012    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is a complicated task of sentiment classification .  the proposed method is proposed for sentiment classification of online reviews . sentiment classification is a complicated of online reviews in the web .  in this paper is to extract the sentiment classification of online reviews . sentiment classification method for chinese online reviews, online reviews of online reviews and also not been applied to be applied for sentiment classification .
+Year: 2012    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is a complicated of online reviews in the web .  the proposed method is proposed to extract the sentiment of a text . sentiment classification is a complicated task of sentiment classification .  in this paper is a complicated task for sentiment classification of online reviews in chinese online reviews . sentiment classification method for chinese online reviews in marketing and social media platforms .
+Year: 2012    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is a complicated of online reviews in the web .  the proposed method is proposed and also study the problem of a sentiment classification of online reviews . sentiment classification is a complicated task in sentiment classification . online reviews are conducted on a specific domain—cell of online reviews . sentiment classification method is proposed .
+Year: 2012    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: analysing and improving supervised machine learning
+Generate abstract: sentiment classification is a complicated task for sentiment classification of online reviews .  the proposed method is proposed to extract the sentiment of a text features . sentiment classification is a complicated task in sentiment classification .  sentiment classification is a complicated task of online reviews in marketing and social media platforms in the web . large amount of online reviews are used for the sentiment classification of online reviews .
+Year: 2013    Authority: 1
+
+Topic: sentiment classification
+Generate title: cross-domain sentiment classification using sentiment sensitive embeddings
+Generate abstract: in this paper, we propose a novel method for crossdomain sentiment classification in the target domain .  we propose a novel approach to address this problem by jst model that we propose a novel method for crossdomain sentiment classification . sentiment classification problem by exploiting a sentiment classifier classifier trained on a target domain . crossdomain sentiment classifier that we propose a novel method for crossdomain sentiment classification . novel method that learns word embedding for crossdomain sentiment classification .
+Year: 2016    Authority: 42
+
+Topic: sentiment classification
+Generate title: cross-domain sentiment classification using sentiment sensitive embeddings
+Generate abstract: in this problem, we propose a novel approach for crossdomain sentiment classification in the source domain of the target domain of sentiment classification .  we propose a novel method for crossdomain sentiment classification by incorporating a sentiment classifier trained on a target domain . sentiment classification of crossdomain sentiment classification by exploiting labeled data from the source domain to improve the target domain . crossdomain sentiment classification in this problem by exploiting sentiment classification in the target domain . sentiment classifier trained on both the target domain .
+Year: 2016    Authority: 33
+
+Topic: sentiment classification
+Generate title: cross-domain sentiment classification using a sentiment sensitive thesaurus
+Generate abstract: sentiment classification in a domain adaptation problem in sentiment classification .  in this paper, we propose a novel method for sentiment classification in a domain . sentiment classification is a challenging task . sentiment classification is a significant classifier for crossdomain sentiment classification . sentiment classification method that is a significant domain to classify sentiment expressed in a particular domain .
+Year: 2014    Authority: 16
+
+Topic: sentiment classification
+Generate title: sentiment classification of movie reviews using contextual valence shifters
+Generate abstract: in this paper is used to determine the sentiment polarity of a document .  we present a method to solve the accuracy and a set of contextual feature set . sentiment classification are used in a particular document and also study the task of termcounting document and negative sentiment of a document . a method to solve the accuracy of each document is not only . method to solve the accuracy of each document is not recommended .
+Year: 2014    Authority: 58
+
+Topic: sentiment classification
+Generate title: cross-domain sentiment classification using sentiment sensitive embeddings
+Generate abstract: this problem in this problem by jst model in the source domain sentiment classification in the target domain .  we propose a novel method that learns an efficient embedding embedding that we propose a novel method for crossdomain sentiment classification . sentiment classification of crossdomain sentiment classification by exploiting a sentiment classifier trained on the target domain . crossdomain sentiment classification in a single domain model that we propose a novel method for crossdomain sentiment classification . sentiment classifier trained on a sentiment classifier trained on a benchmark dataset for crossdomain sentiment classification .
+Year: 2015    Authority: 36
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification approach is a natural language processing .  the proposed approach is to automatically classify the sentiment of sentences from the web . sentiment classification is a natural language processing and approach to the sentiment classification of the sentence . the first approach is to classify the sentiment of a text and the sentiment of the sentence . sentiment classification approach is to extract the sentiment of sentences .
+Year: 2015    Authority: 3
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification of online reviews are tested on a specific paths of sentences from online norwegian political discussions .  the proposed approach is to automatically classify the sentiment of a text and the sentiment classification . sentiment classification is a natural language processing and approach to the sentiment classification of the text . we propose a novel method for sentiment classification . sentiment classification approach is to extract the sentiment of sentences .
+Year: 2016    Authority: 4
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification approach is to predict the sentiment of sentences from political discussions .  the proposed method is proposed to classify the sentiment of the text . sentiment classification is a natural language processing and approach to the sentiment classification problem . it is proposed to extract the sentiment classification of sentences from online norwegian political discussions . sentiment classification approach is a natural language processing and approach to the sentiment classification of the text .
+Year: 2014    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification problem using a natural language processing .  the proposed approach is to automatically classify the sentiment of a text and the sentiment classification . sentiment classification is a natural language processing . the problem of sentiment classification is to classify the sentiment of sentences from online norwegian political discussions . sentiment classification method is proposed .
+Year: 2015    Authority: 3
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: sentiment classification is a natural language processing and approach to classify the sentiment of sentences from the web .  the proposed approach is to automatically classify the sentiment of the text and the sentiment of a sentence . sentiment classification is a natural language processing . the problem of sentiment classification is to extract the sentiment of the sentiment words in the sentence . sentiment classification approach is a natural language processing and approach to the sentiment classification of the text .
+Year: 2014    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification of online reviews in the web and the sentiment classification of online reviews in the web .  the proposed approach is to automatically classify the sentiment of a text features for sentiment classification . sentiment classification is a complicated of text based on a specific paths of sentences . the problem of sentiment classification is to extract the sentiment of sentences . sentiment classification approach is to extract the sentiment of the text .
+Year: 2014    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: it is proposed to classify the sentiment of the text and the sentiment of a sentence .  the proposed approach is proposed to extract the sentiment of a text and the sentiment of the sentence .  this paper presents a new approach for sentiment classification .  we propose a novel approach for sentiment classification . sentiment classification approach is to extract the sentiment of a text .
+Year: 2015    Authority: 3
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: sentiment classification is a complicated task with sentiment classification .  the proposed method is proposed to classify the sentiment of sentences from political discussions . sentiment classification is a natural language processing and approach . the sentiment classification of a natural language processing and approach to the sentiment classification of the text and is proposed . sentiment classification approach is to automatically classify the sentiment of the text and the sentiment of a sentence .
+Year: 2016    Authority: 3
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification problem is a very important role in the target language .  the proposed method is proposed to classify the sentiment of sentences from political discussions . sentiment classification is a very important role in sentiment classification . we propose a novel method for sentiment classification . sentiment classification method is to automatically classify the sentiment of sentences from political discussions .
+Year: 2014    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: a comparison of factors influencing performances
+Generate abstract: sentiment classification is a complicated task of sentiment classification in the web .  in this paper, we propose a novel method to classify sentiment classification in classification . sentiment classification method based on various feature selection is used to identify the classification accuracy .  in this paper is a complicated task of sentiment classification . sentiment classification method based on various feature selection methods are used to classify sentiment classification .
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification approach to the target language is a natural language processing .  the proposed approach is to classify the sentiment of a sentence . sentiment classification is a natural language processing .  the proposed approach is to automatically classify the sentiment of a text and the sentiment classification . sentiment classification approach is to automatically classify the sentiment of sentences .
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate title: a comparative analysis of opinion mining and sentiment classification in twitter social networking
+Generate abstract: sentiment analysis is a very important role of sentiment classification .  we present a novel method for sentiment classification of a sentence is proposed . sentiment classification methods are proposed to train a large number of data for sentiment classification . a deep neural network to classify sentiment classification of online reviews in social media such as features . deep neural network based feature selection method is proposed to classify the sentiment of text .
+Year: 2017    Authority: 2
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification of online reviews it is proposed to extract the sentiment of the sentiment of the text .  the proposed approach is to automatically classify the sentiment of a text and the sentiment of the sentence . sentiment classification is a complicated task with the same topic of the sentence . the first step, the problem of a natural language processing and approach to the sentiment classification of the text . sentiment classification approach is based on a natural language processing .
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: a comparison of factors influencing performances
+Generate abstract: sentiment classification is a complicated task in sentiment classification .  in this paper, we propose a novel method to classify sentiment classification of reviews . sentiment classification is a complicated task of sentiment classification in the web .  in this paper we propose a novel method to classify sentiment classification in the field . classification of sentiment classification of reviews is applied to classify the sentiment of positive or negative opinion expressed in the web .
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification approach is to predict the sentiment of the text .  the proposed method is proposed to classify the sentiment of the text and the sentiment classification of the sentence . sentiment classification is a natural language processing and model based on the web .  the proposed approach is proposed to classify the sentiment of the text and the sentiment of a sentence . sentiment classification approach is a very hot role in the target language .
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification is a very hot role in the target language .  the proposed method is proposed to classify the sentiment of sentences from political . sentiment classification is a natural language processing . we propose a novel approach for sentiment classification . sentiment classification method is proposed .
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification approach is to classify the sentiment of a text and the sentiment of a text .  the proposed approach is proposed to classify the sentiment of sentences from political discussions . sentiment classification is the proposed approach for the sentiment classification of online reviews . the first step, the problem of sentiment classification of online reviews in the web . sentiment classification method is to extract the sentiment of sentences from political discussions .
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the first step, based sentiment classification methods on the sentiment classification of the web .  the proposed method is proposed to classify the sentiment of the text and the sentiment of a sentence . sentiment classification is a complicated task of sentiment classification . this paper proposed a new approach for sentiment classification . sentiment classification approach is to extract the sentiment of a sentence .
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: a comparison of factors influencing performances
+Generate abstract: sentiment classification is a complicated task of sentiment classification .  in this paper, we propose a novel method to classify sentiment classification in the web . sentiment classification method based on support vector machine (svm) and support vector machine (svm) in sentiment classification .  in this paper, we propose a novel method to classify sentiment classification in the web . classification of sentiment classification is a complicated task in sentiment classification .
+Year: 2016    Authority: 1
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification problem using a large number of sentences from online norwegian political discussions .  the proposed approach is to extract the sentiment of a text and the sentiment classification of the text . sentiment classification is a natural language processing and approach . we propose a novel method for sentiment classification . sentiment classification approach is based on a natural language processing .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification of online reviews in the web is to predict the sentiment of a text and sentiment classification .  the proposed method is proposed to classify the sentiment of the text and the sentiment of a sentence . sentiment classification is a natural language processing and model the sentiment of a sentence . the first step, the problem of text mining is a sentiment classification problem . sentiment classification approach is a very hot research .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract:  the sentiment classification approach is to classify the sentiment of a text .  the proposed approach is proposed to classify the sentiment of the text and the sentiment of a text and the sentiment of a sentence . sentiment classification is a complicated task with sentiment classification . the first step, the problem of text mining is proposed to classify the sentiment of sentences from online norwegian political discussions . sentiment classification approach is based on a natural language processing .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: a comparison of factors influencing performances
+Generate abstract: sentiment classification is to classify the sentiment of reviews and positive or negative .  in this paper, we propose a novel method to classify sentiment classification in the web . sentiment classification method based on certain products and services are used to classify sentiment classification .  in this paper is to classify the sentiment classification of reviews . classification of sentiment classification is a very important role in sentiment classification .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification approach is to automatically classify the sentiment of sentences .  the proposed approach is proposed based on a number of information from the sentiment of a sentence .  this paper presents a novel method to classify sentiment and sentiment words in the target language . the first step, a new model for the sentiment classification of online reviews . sentiment classification approach is to automatically classify the sentiment of sentences .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification is based on the web and the sentiment classification of sentences from online norwegian political discussions .  the proposed approach is to extract the sentiment of the sentiment words in the source and target languages . sentiment classification is a complicated of sentiment classification . we propose a novel method for sentiment classification . sentiment classification method is to classify the sentiment of sentences from political discussions .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification is a natural language processing .  the proposed method is proposed to classify the sentiment of sentences from political discussions . sentiment classification is a complicated task of sentiment classification . the problem of sentiment classification is to classify the sentiment of sentences from online norwegian political discussions . sentiment classification method is proposed .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the problem of sentiment classification is a very hot problem with a natural language processing .  the proposed approach is to automatically classify the sentiment of sentences from online norwegian political discussions . sentiment classification is a complicated task with sentiment classification . we propose a novel method for sentiment classification . sentiment classification approach is based on the web .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification is a very important for sentiment classification of online reviews .  the proposed approach is to automatically classify the sentiment of the text and the sentiment of a sentence . sentiment classification is a natural language processing . the first step, a sentiment classification approach for sentiment classification . sentiment classification approach is to extract the sentiment of sentences .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions
+Generate abstract: the sentiment classification of online reviews in political discussions .  the proposed approach is to classify the sentiment of sentences . sentiment classification is a very important role in sentiment classification . the first of the sentiment classification of online reviews in the form of natural language processing . sentiment classification approach to the sentiment classification system to predict the sentiment of sentences from online norwegian political discussions .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions
+Generate abstract: the sentiment classification of online reviews using a natural language processing and the sentiment classification system .  the proposed approach is to classify the sentiment of sentences from online norwegian political discussions . sentiment classification method based on the sentiment classification of sentences from online norwegian political discussions . the first of the sentiment classification is to classify the sentiment of sentences from online norwegian political discussions . sentiment classification approach is to classify the sentiment of sentences from online norwegian political discussions .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract:  the proposed approach is to automatically classify the sentiment of a text and sentiment .  the proposed approach is to extract the sentiment of a text and the sentiment of a sentence is not . sentiment classification is a complicated task with a lot of text based on the sentiment of a sentence . the problem of text mining and sentiment classification is a natural language processing and approach . sentiment classification method is to predict the sentiment of sentences from the web .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification is a natural language processing and approach .  the proposed method is proposed to classify the sentiment of sentences from online norwegian political discussions . sentiment classification is a complicated task with the sentiment classification problem . we propose a novel method to classify sentiment and sentiment words in the target language . sentiment classification method is based on the sentiment of a sentence .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of chinese online reviews: a comparison of factors influencing performances
+Generate abstract: sentiment classification is a complicated task of sentiment classification in the field of sentiment classification .  in this paper, we propose a novel method to classify the sentiment of documents in the web . sentiment classification is a complicated task of sentiment classification .  in this paper we propose a novel method to classify sentiment classification of reviews . classification method of sentiment classification in the web .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification problem is a very hot topic of the sentence .  the proposed approach is to automatically classify the sentiment of a text . sentiment classification is a very important role in the target language . the problem of text mining is a sentiment classification problem . sentiment classification approach is to automatically classify the sentiment of sentences .
+Year: 2015    Authority: 0
+
+Topic: sentiment classification
+Generate title: sentiment classification of online political discussions: a comparison of a word-based and dependency-based method
+Generate abstract: the sentiment classification problem of online norwegian political discussions on the sentiment of the sentence .  the proposed method is proposed to classify the sentiment of a text features . sentiment classification is a complicated task with sentiment classification . the first step, a new model for sentiment classification of the web content from the web and the sentiment of a sentence is a natural language processing . sentiment classification method is based on the web .
+Year: 2015    Authority: 0

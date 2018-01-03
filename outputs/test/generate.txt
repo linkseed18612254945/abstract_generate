@@ -1,0 +1,207 @@
+Title: machine translation
+Gold: arecursiverecurrentneuralnetworkforstatisticalmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: integratinganunsupervisedtransliterationmodelintostatisticalmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: integratinganunsupervisedtransliterationmodelintostatisticalmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: nematus:atoolkitforneuralmachinetranslation
+Generate: neuralmachinetranslationreadyyet?.
+
+Title: machine translation
+Gold: tree-to-sequenceattentionalneuralmachinetranslation
+Generate: neuralmachinetranslationreadyfordeployment?acasestudyon30translationdirections.
+
+Title: machine translation
+Gold: coverageembeddingmodelsforneuralmachinetranslation
+Generate: neuralmachinetranslationreadyfordeployment?acasestudyon30translationdirections.
+
+Title: machine translation
+Gold: linguisticinputfeaturesimproveneuralmachinetranslation
+Generate: neuralmachinetranslationreadyfordeployment?acasestudyon30translationdirections.
+
+Title: machine translation
+Gold: fullycharacter-levelneuralmachinetranslationwithoutexplicitsegmentation
+Generate: neuralmachinetranslationreadyyet?.
+
+Title: machine translation
+Gold: incorporatingdiscretetranslationlexiconsintoneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: deeprecurrentmodelswithfast-forwardconnectionsforneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: encodingsourcelanguagewithconvolutionalneuralnetworkformachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: machinetranslationinstantmessagingapplications
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: montrealneuralmachinetranslationsystemsforwmt’15
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: syntacticallyguidedneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: vocabularymanipulationforneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: semi-supervisedlearningforneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: acoverageembeddingmodelforneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: transferlearningforlow-resourceneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: largelanguagemodelsinmachinetranslation
+Generate: learningnon-isomorphictranslationforstatisticalmachinetranslation.
+
+Title: machine translation
+Gold: largelanguagemodelsinmachinetranslation
+Generate: learningnon-isomorphictranslationforstatisticalmachinetranslation.
+
+Title: machine translation
+Gold: buildingalarge-scaleknowledgebaseformachinetranslation
+Generate: amethodforevaluatingautomaticevaluationmetricsformachinetranslation.
+
+Title: machine translation
+Gold: findingsofthe2013workshoponstatisticalmachinetranslation
+Generate: learningphraseembeddingsformachinetranslation.
+
+Title: machine translation
+Gold: findingsofthe2013workshoponstatisticalmachinetranslation
+Generate: learningphraseembeddingsformachinetranslation.
+
+Title: machine translation
+Gold: findingsofthe2009workshoponstatisticalmachinetranslation
+Generate: learningphraseembeddingsformachinetranslation.
+
+Title: machine translation
+Gold: discriminativetrainingandmaximumentropymodelsforstatisticalmachinetranslation
+Generate: acomparativestudyonreorderingconstraintsinstatisticalmachinetranslation.
+
+Title: machine translation
+Gold: phrase-basedstatisticalmachinetranslation
+Generate: acomparativestudyonreorderingconstraintsinstatisticalmachinetranslation.
+
+Title: machine translation
+Gold: confidenceestimationformachinetranslation
+Generate: learningnon-isomorphictranslationforstatisticalmachinetranslation.
+
+Title: machine translation
+Gold: improvingmachinetranslationperformancebyexploitingnon-parallelcorpora
+Generate: learningnon-isomorphictranslationforstatisticalmachinetranslation.
+
+Title: machine translation
+Gold: improvingmachinetranslationperformancebyexploitingnon-parallelcorpora
+Generate: learningnon-isomorphictreemappingsformachinetranslation.
+
+Title: machine translation
+Gold: improvingstatisticalmachinetranslationusingwordsensedisambiguation
+Generate: learningnon-isomorphictranslationforstatisticalmachinetranslation.
+
+Title: machine translation
+Gold: batchtuningstrategiesforstatisticalmachinetranslation
+Generate: learningforneuralmachinetranslation.
+
+Title: machine translation
+Gold: minimumbayes-riskdecodingforstatisticalmachinetranslation
+Generate: learningnon-isomorphictreemappingsformachinetranslation.
+
+Title: machine translation
+Gold: thenewthottoolkitforfully-automaticandinteractivestatisticalmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: bridgingneuralmachinetranslationandbilingualdictionaries
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: compressionofneuralmachinetranslationmodelsviapruning
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: memory-enhanceddecoderforneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: hume:humanucca-basedevaluationofmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: towardmultilingualneuralmachinetranslationwithuniversalencoderanddecoder
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: zero-resourcemachinetranslationbymultimodalencoder–decodernetworkwithmultimediapivot
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: anevaluationmethodologyforenglishtosinhalamachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: asurveyofwordreorderinginstatisticalmachinetranslation:computationalmodelsandlanguagephenomena
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: howgrammaticalischaracter-levelneuralmachinetranslation?assessingmtqualitywithcontrastivetranslationpairs
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: learninglocalwordreorderingsforhierarchicalphrase-basedstatisticalmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: contextgatesforneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: sixchallengesforneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: interactiveattentionforneuralmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: realtimeadaptivemachinetranslationforpost-editingwithcdecandtranscenter
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: usingsyntax-basedmachinetranslationtoparseenglishintoabstractmeaningrepresentation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: enhancingstatisticalmachinetranslationwithbilingualterminologyinacatenvironment
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: bilingualsentimentconsistencyforstatisticalmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: dependency-basedpre-orderingforchinese-englishmachinetranslation
+Generate: neuralmachinetranslationwithreconstruction.
+
+Title: machine translation
+Gold: optimizinginstanceselectionforstatisticalmachinetranslationwithfeaturedecayalgorithms
+Generate: neuralmachinetranslationwithreconstruction.

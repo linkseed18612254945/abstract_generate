@@ -1,0 +1,1 @@
+{"model_name": "simple_seq2seq", "data_name": "textClassify_test", "decoder_start": null, "feature_choice": {"position": false, "year": false, "institution": false, "field": false, "cites": false}}

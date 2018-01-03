@@ -1,0 +1,349 @@
+Title: machine translation
+Gold: a recursive recurrent neural network for statistical machine translation
+Generate: integrating an accurate tree-to-string alignment for statistical network machine based using related languages
+Year: 2014    Authority: 11
+
+Title: machine translation
+Gold: integrating an unsupervised transliteration model into statistical machine translation
+Generate: knowledge-based answering as machine translation: computational models and language phenomena
+Year: 2014    Authority: 10
+
+Title: machine translation
+Gold: integrating an unsupervised transliteration model into statistical machine translation
+Generate: integrating the second workshop on machine learning statistical framework
+Year: 2014    Authority: 10
+
+Title: machine translation
+Gold: nematus: a toolkit for neural machine translation
+Generate: character-based multilingual statistical translation model neural machine translation
+Year: 2017    Authority: 26
+
+Title: machine translation
+Gold: tree-to-sequence attentional neural machine translation
+Generate: is neural network neural machine translation. words
+Year: 2016    Authority: 12
+
+Title: machine translation
+Gold: coverage embedding models for neural machine translation
+Generate: neural versus phrase-based statistical machine translation: controlling into a case study
+Year: 2016    Authority: 13
+
+Title: machine translation
+Gold: linguistic input features improve neural machine translation
+Generate: neural machine translation with conditional sequence generative nets
+Year: 2016    Authority: 13
+
+Title: machine translation
+Gold: fully character-level neural machine translation without explicit segmentation
+Generate: nematus: learning for neural machine translation.
+Year: 2017    Authority: 28
+
+Title: machine translation
+Gold: incorporating discrete translation lexicons into neural machine translation
+Generate: is machine translation guided by explicit segmentation
+Year: 2016    Authority: 12
+
+Title: machine translation
+Gold: deep recurrent models with fast-forward connections for neural machine translation
+Generate: a coverage methods for neural network decoding in neural machine translation.
+Year: 2016    Authority: 12
+
+Title: machine translation
+Gold: encoding source language with convolutional neural network for machine translation
+Generate: integrating an accurate optimizing parameters for statistical translation in machine learning machine translation.
+Year: 2015    Authority: 10
+
+Title: machine translation
+Gold: machine translation instant messaging applications
+Generate: a productivity recurrent models for statistical network in statistical translation framework
+Year: 2014    Authority: 8
+
+Title: machine translation
+Gold: montreal neural machine translation systems for wmt’15
+Generate: learning to parse for machine learning and machine translation
+Year: 2015    Authority: 10
+
+Title: machine translation
+Gold: syntactically guided neural machine translation
+Generate: transfer guided testing in statistical machine translation: computational segmentation
+Year: 2016    Authority: 11
+
+Title: machine translation
+Gold: vocabulary manipulation for neural machine translation
+Generate: is neural machine translation guided by explicit segmentation
+Year: 2016    Authority: 10
+
+Title: machine translation
+Gold: semi-supervised learning for neural machine translation
+Generate: is neural language neural network models for statistical translation model machine translation
+Year: 2016    Authority: 10
+
+Title: machine translation
+Gold: a coverage embedding model for neural machine translation
+Generate: is machine the encoder sequence words and effort. toolkit for social
+Year: 2016    Authority: 11
+
+Title: machine translation
+Gold: transfer learning for low-resource neural machine translation
+Generate: a shared task modeling for neural network neural network models for machine translation
+Year: 2016    Authority: 10
+
+Title: machine translation
+Gold: large language models in machine translation
+Generate: large models in machine translation: controlling corpora subsequence and skip-bigram statistics.
+Year: 2007    Authority: 37
+
+Title: machine translation
+Gold: large language models in machine translation
+Generate: large models for machine translation
+Year: 2007    Authority: 35
+
+Title: machine translation
+Gold: building a large-scale knowledge base for machine translation
+Generate: machine translation: an guide corpora
+Year: 1994    Authority: 22
+
+Title: machine translation
+Gold: findings of the 2013 workshop on statistical machine translation
+Generate: findings training and maximum entropy based phrase reordering for statistical machine translation
+Year: 2013    Authority: 49
+
+Title: machine translation
+Gold: findings of the 2013 workshop on statistical machine translation
+Generate: findings training and robust joint models for neural machine translation
+Year: 2013    Authority: 49
+
+Title: machine translation
+Gold: findings of the 2009 workshop on statistical machine translation
+Generate: findings of the 2009 neural network joint based target vocabulary
+Year: 2013    Authority: 49
+
+Title: machine translation
+Gold: discriminative training and maximum entropy models for statistical machine translation
+Generate: a phrase-based, joint approach model statistical in statistical translation retrieval
+Year: 2002    Authority: 28
+
+Title: machine translation
+Gold: phrase-based statistical machine translation
+Generate: a phrase-based, joint alignment-based model model for evaluation statistical network machine translation.
+Year: 2002    Authority: 26
+
+Title: machine translation
+Gold: confidence estimation for machine translation
+Generate: large target models for machine translation.
+Year: 2009    Authority: 34
+
+Title: machine translation
+Gold: improving machine translation performance by exploiting non-parallel corpora
+Generate: syntax augmented machine translation. quality using longest common subsequence for machine translation
+Year: 2005    Authority: 30
+
+Title: machine translation
+Gold: improving machine translation performance by exploiting non-parallel corpora
+Generate: a phrase-based, joint model for statistical translation statistical translation
+Year: 2005    Authority: 28
+
+Title: machine translation
+Gold: improving statistical machine translation using word sense disambiguation
+Generate: syntax augmented machine translation for query theory /
+Year: 2007    Authority: 31
+
+Title: machine translation
+Gold: batch tuning strategies for statistical machine translation
+Generate: better hypothesis alignment for statistical statistical machine translation.
+Year: 2012    Authority: 37
+
+Title: machine translation
+Gold: minimum bayes-risk decoding for statistical machine translation
+Generate: syntax augmented using machine translation for query expansion corpora /
+Year: 2004    Authority: 27
+
+Title: machine translation
+Gold: the new thot toolkit for fully-automatic and interactive statistical machine translation
+Generate: standardizing trends language model growing and language modelling in statistical machine translation
+Year: 2014    Authority: 2
+
+Title: machine translation
+Gold: bridging neural machine translation and bilingual dictionaries
+Generate: an empirical analysis and diverse of machine translation ☆
+Year: 2016    Authority: 3
+
+Title: machine translation
+Gold: compression of neural machine translation models via pruning
+Generate: an evaluation of the impact in machine learning the european reinforcement neural network for machine learning and effort. studies neural machine translation? systems
+Year: 2016    Authority: 3
+
+Title: machine translation
+Gold: reordering constraints for phrase-based statistical machine translation
+Generate: statistical translation system, translation communication multiple language machine translation
+Year: 2004    Authority: 10
+
+Title: machine translation
+Gold: a comparative study on reordering constraints in statistical machine translation
+Generate: a comparative string-to-string from multiple language model for machine learning to generating dictionaries
+Year: 2003    Authority: 10
+
+Title: machine translation
+Gold: machine translation evaluation versus quality estimation
+Generate: word-dependent transition of machine translation quality with entailment features
+Year: 2010    Authority: 10
+
+Title: machine translation
+Gold: machine translation with a stochastic grammatical channel
+Generate: machine translation: past, present, present, proposed future
+Year: 1998    Authority: 6
+
+Title: machine translation
+Gold: multi-engine machine translation guided by explicit word matching
+Generate: statistical machine translation with inferred stochastic grammatical embodying
+Year: 2005    Authority: 8
+
+Title: machine translation
+Gold: machine translation by triangulation: making effective use of multi-parallel corpora
+Generate: statistical network decoding in example-based machine translation: computational models and assessment
+Year: 2007    Authority: 9
+
+Title: machine translation
+Gold: bilingual framenet dictionaries for machine translation
+Generate: statistical translation utilizing translation to syntactic machine translation
+Year: 2002    Authority: 7
+
+Title: machine translation
+Gold: statistical machine translation with word- and sentence-aligned parallel corpora.
+Generate: machine translation and telecommunications system
+Year: 2004    Authority: 8
+
+Title: machine translation
+Gold: applying morphology generation models to machine translation
+Generate: machine translation: mining text for machine translation.
+Year: 2008    Authority: 9
+
+Title: machine translation
+Gold: a probabilistic approach to syntax-based reordering for statistical machine translation
+Generate: statistical network based word alignment in statistical translation in statistical translation machine translation
+Year: 2007    Authority: 9
+
+Title: machine translation
+Gold: word-dependent transition models in hmm based word alignment for statistical machine translation
+Generate: word-dependent crowds models in hmm based phrase alignment for building confusion
+Year: 2011    Authority: 10
+
+Title: machine translation
+Gold: machine translation system
+Generate: the use of lexical example-based machine translation.
+Year: 1997    Authority: 4
+
+Title: machine translation
+Gold: robust machine translation evaluation with entailment features
+Generate: maxsim: a comparative string-to-string distance measure with fast-forward statistical machine translation
+Year: 2009    Authority: 7
+
+Title: machine translation
+Gold: platform-independent automated machine translation system
+Generate: machine translation: detailed past, translation dictionaries
+Year: 2003    Authority: 5
+
+Title: machine translation
+Gold: syntactic preprocessing for statistical machine translation
+Generate: maxsim: and crowd-sourcing model for statistical language modelling machine translation.
+Year: 2007    Authority: 6
+
+Title: machine translation
+Gold: phrase-based backoff models for machine translation of highly inflected languages
+Generate: machine translation system
+Year: 2006    Authority: 6
+
+Title: machine translation
+Gold: using multiple edit distances to automatically rank machine translation output
+Generate: machine translation: an introductory introductory future
+Year: 2001    Authority: 5
+
+Title: machine translation
+Gold: towards the use of word stems and suffixes for statistical machine translation
+Generate: machine translation system
+Year: 2007    Authority: 6
+
+Title: machine translation
+Gold: cross-lingual ontology mapping --- an investigation of the impact of machine translation
+Generate: maxsim: a comparative study for phrase-based statistical machine translation
+Year: 2009    Authority: 7
+
+Title: machine translation
+Gold: translation system, translation communication system, machine translation method, and medium embodying program
+Generate: machine translation: detailed past, translation dictionaries
+Year: 2006    Authority: 6
+
+Title: machine translation
+Gold: 462 machine translation systems for europe
+Generate: maxsim: and phrase embeddings in machine translation.
+Year: 2009    Authority: 7
+
+Title: machine translation
+Gold: statistical machine translation. final report
+Generate: machine translation system
+Year: 1999    Authority: 4
+
+Title: machine translation
+Gold: using lexicalized tags for machine translation
+Generate: the use of lexical example-based machine translation
+Year: 1990    Authority: 3
+
+Title: machine translation
+Gold: target-text mediated interactive machine translation
+Generate: machine translation system
+Year: 1997    Authority: 4
+
+Title: machine translation
+Gold: a matching technique in example-based machine translation
+Generate: machine translation: an introductory guide
+Year: 1994    Authority: 4
+
+Title: machine translation
+Gold: an example-based method for transfer-driven machine translation
+Generate: machine translation system
+Year: 1992    Authority: 3
+
+Title: machine translation
+Gold: the use of lexical semantics in interlingual machine translation
+Generate: machine translation: an overview estimation
+Year: 1992    Authority: 3
+
+Title: machine translation
+Gold: maxsim: a maximum similarity metric for machine translation evaluation
+Generate: machine translation by parsing
+Year: 2008    Authority: 7
+
+Title: machine translation
+Gold: segmentation for english-to-arabic statistical machine translation
+Generate: maxsim: and maximum similarity for statistical translation in machine translation
+Year: 2008    Authority: 7
+
+Title: machine translation
+Gold: novel reordering approaches in phrase-based statistical machine translation
+Generate: statistical network decoding in example-based machine translation.
+Year: 2005    Authority: 6
+
+Title: machine translation
+Gold: machine translation system
+Generate: statistical translation system, machine translation. method, and proposed solution
+Year: 2003    Authority: 5
+
+Title: machine translation
+Gold: the lrc machine translation system: linguistics research center
+Generate: the lrc machine translation. center
+Year: 1982    Authority: 2
+
+Title: machine translation
+Gold: example-based machine translation using dp-matching between word sequences
+Generate: machine translation: an introductory final report
+Year: 2001    Authority: 5
+
+Title: machine translation
+Gold: machine translation system incorporating syntactic dependency treelets into a statistical framework
+Generate: maxsim: and phrase embeddings for translation model domain based statistical network based machine learning automatic post-editing
+Year: 2010    Authority: 7
+
+Title: machine translation
+Gold: shallow parsing for portuguese--spanish machine translation
+Generate: machine translation: detailed presentation approaches data in a domain? matching
+Year: 2003    Authority: 5
