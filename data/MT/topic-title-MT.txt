@@ -13,22 +13,18 @@ machine translation	automatic evaluation of machine translation quality using lo
 machine translation	discriminative training and maximum entropy models for statistical machine translation	-11	87.625
 machine translation	machine translation and translation theory /	-16	62.619047619
 machine translation	statistical significance tests for machine translation evaluation	-9	66.7142857143
-machine translation	findings of the 2011 workshop on statistical machine translation	-2	97.2857142857
 machine translation	automatic evaluation of machine translation quality using n-gram co-occurrence statistics	-11	81.875
 machine translation	the alignment template approach to statistical machine translation	-9	76.5
 machine translation	a comparative study on reordering constraints in statistical machine translation	-10	64.3333333333
-machine translation	findings of the 2010 joint workshop on statistical machine translation and metrics for machine translation	-3	89.125
 machine translation	further meta-evaluation of machine translation	-5	43.6
 machine translation	clause restructuring for statistical machine translation	-8	41.9230769231
 machine translation	improved alignment models for statistical machine translation	-14	35.9473684211
 machine translation	exploiting similarities among languages for machine translation	0	63.2
-machine translation	findings of the 2009 workshop on statistical machine translation	-4	79
 machine translation	tree-to-string alignment template for statistical machine translation	-7	42.1666666667
 machine translation	a phrase-based, joint probability model for statistical machine translation	-11	34.5
 machine translation	pharaoh: a beam search decoder for phrase-based statistical machine translation models	-9	57.2857142857
 machine translation	meta evaluation of machine translation	-6	39.8181818182
 machine translation	large language models in machine translation	-1	47
-machine translation	large language models in machine translation	-6	37.4545454545
 machine translation	building a large-scale knowledge base for machine translation	-19	22.4166666667
 machine translation	findings of the 2013 workshop on statistical machine translation	0	49.2
 machine translation	discriminative training and maximum entropy models for statistical machine translation	-11	28.5625
@@ -215,7 +211,6 @@ machine translation	system and method for machine learning a confidence metric f
 machine translation	neural machine translation of rare words with subword units	3	84.5
 machine translation	neural machine translation by jointly learning to align and translate	1	472.5
 machine translation	on the properties of neural machine translation: encoder-decoder approaches	1	116.75
-machine translation	findings of the 2014 workshop on statistical machine translation	1	97.75
 machine translation	effective approaches to attention-based neural machine translation	2	100.3333333333
 machine translation	google's neural machine translation system: bridging the gap between human and machine translation	3	111.5
 machine translation	on using very large target vocabulary for neural machine translation	1	47
@@ -223,7 +218,6 @@ machine translation	fast and robust neural network joint models for statistical 
 machine translation	learning phrase representations using rnn encoder-decoder for statistical machine translation	1	293.5
 machine translation	modeling coverage for neural machine translation	3	26.5
 machine translation	minimum risk training for neural machine translation	2	23.3333333333
-machine translation	findings of the 2016 conference on machine translation	3	30
 machine translation	addressing the rare word problem in neural machine translation	1	39
 machine translation	findings of the 2015 workshop on statistical machine translation	2	44.3333333333
 machine translation	optimizing chinese word segmentation for machine translation performance	3	28

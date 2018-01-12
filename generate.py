@@ -188,10 +188,9 @@ def create_evaluate_data_with_pos(data_sets):
     return write_text, hypothesis, reference
 
 
-
-
 if __name__ == '__main__':
     max_pos = 1
+    base_year = 2013
     init_topic_data = './init_data/init_topic_data.txt'
     test_data = read_feature_data(init_topic_data)
     # random.shuffle(test_data)
@@ -201,19 +200,18 @@ if __name__ == '__main__':
 
     generate_outputs = []
     for data in test_data:
-        decoded_title_words = generation(title_model, data['title'], data['position'], data['year'], data['institution'],
-                                         data['field'], data['cites'], data['gold'], data['feature'], greedy_level=1)
+        decoded_title_words = generation(title_model, data['title'], feature=data['feature'], greedy_level=1)
         temp_title = ' '.join(decoded_title_words)
         decoded_abstract_words = []
         for pos in range(max_pos):
-            pos_words = generation(abstract_model, temp_title, pos, data['year'], data['institution'],
-                                                data['field'], data['cites'], data['gold'], data['feature'], greedy_level=1)
+            pos_words = generation(abstract_model, temp_title, pos, feature=data['feature'], greedy_level=1)
             decoded_abstract_words += pos_words + ['.']
         generate_text = 'Topic: ' + data['title'] + \
+                        '\n' + 'Year: ' + str(int(data['feature'][0]) + base_year) + \
+                        '    Authority: ' + str(int(data['feature'][1])) + '\n' +\
                         '\n' + 'Generate title: ' + ' '.join(decoded_title_words) + \
-                        '\n' + 'Generate abstract: ' + ' '.join(decoded_abstract_words) + \
-                        '\n' + 'Year: ' + str(int(data['feature'][0]) + 2013) + \
-                        '    Authority: ' + str(int(data['feature'][1])) + '\n'
+                        '\n' + 'Generate abstract: ' + ' '.join(decoded_abstract_words)
+
         print(generate_text)
         generate_outputs.append(generate_text)
     build_outputs(generate_outputs)

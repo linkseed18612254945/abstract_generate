@@ -6,6 +6,7 @@ import torch.nn.functional as F
 USE_CUDA = False
 MAX_POS = 5
 
+
 class EncoderRNN(nn.Module):
     def __init__(self, input_size, hidden_size, n_layers=1, dropout=0.1):
         super(EncoderRNN, self).__init__()

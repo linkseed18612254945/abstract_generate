@@ -117,11 +117,13 @@ def prepare_data(data_name, use_char):
         pair = temp[:2]
         pair[0] = pair[0].lower()
         pair[1] = pair[1].lower()
+
         # info = {'position': temp[2], 'year': temp[3], 'cite': temp[4], 'institution': temp[5], 'author_cite': temp[6],
         #         'author_production': temp[7], 'h-index': temp[8], 'field': temp[9]}
         # info = {'institution': temp[2], 'year': temp[3], 'field': temp[4], 'position': temp[5]}
-        info = {'feature': [float(temp[2]), float(temp[3])]}
-        # info = {'feature': [float(temp[2]), float(temp[3])], 'position': temp[4]}
+        # info = {'feature': [float(temp[2]), float(temp[3])]}
+        info = {'feature': [float(temp[2]), float(temp[3])], 'position': temp[4]}
+
         pair.append(info)
         pairs.append(pair)
 

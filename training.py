@@ -119,7 +119,7 @@ def main(load_model_name=None):
                                                                             parameters['use_char'])
 
     encoder_optimizer = optim.Adam(encoder.parameters(), lr=parameters['learning_rate'])
-    decoder_optimizer = optim.Adam(decoder.parameters(), lr=parameters['learning_rate'])
+    decoder_optimizer = optim.Adam(decoder.parameters(), lr=parameters['learning_rate'] * parameters['decoder_learning_ratio'])
 
     # 初始化部分参数
     plot_losses = []
@@ -129,7 +129,6 @@ def main(load_model_name=None):
     batch_num = len(pairs) // parameters['batch_size']
 
     # 开始训练
-
     while epoch < parameters['n_epochs']:
         epoch += 1
         # 随机获取训练用的mini batch
@@ -174,4 +173,4 @@ def main(load_model_name=None):
 
 
 if __name__ == '__main__':
-    main('title-abstract-joint')
+    main()
